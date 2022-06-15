@@ -71,6 +71,17 @@
   * [🔎 Filter a report](reporting/reports/filter-a-report.md)
   * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
 
+## Embed
+
+* [📌 Business apps](embed/business-apps/README.md)
+  * [Notion](embed/business-apps/notion.md)
+  * [Clickup](embed/business-apps/clickup.md)
+  * [Hubspot](embed/business-apps/hubspot.md)
+  * [Google Chrome](embed/business-apps/google-chrome/README.md)
+    * [🌱 Install](embed/business-apps/google-chrome/install-preview-release.md)
+    * [⚙ Configure the Chrome extension](embed/business-apps/google-chrome/configure-the-chrome-extension.md)
+* [👩💻 API](embed/api.md)
+
 ## Workflows
 
 * [🚀 Push](workflows/push.md)
@@ -85,17 +96,6 @@
 ## User management <a href="#admin" id="admin"></a>
 
 * [👮 Access Control](admin/manage-access-control.md)
-
-## Embed
-
-* [📌 Business apps](embed/business-apps/README.md)
-  * [Notion](embed/business-apps/notion.md)
-  * [Clickup](embed/business-apps/clickup.md)
-  * [Hubspot](embed/business-apps/hubspot.md)
-  * [Google Chrome](embed/business-apps/google-chrome/README.md)
-    * [🌱 Install](embed/business-apps/google-chrome/install-preview-release.md)
-    * [⚙ Configure the Chrome extension](embed/business-apps/google-chrome/configure-the-chrome-extension.md)
-* [👩💻 API](embed/api.md)
 
 ## Guides
 
