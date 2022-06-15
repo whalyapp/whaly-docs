@@ -25,7 +25,7 @@ You need to grant Whaly access to your BigQuery cluster so we can create and man
 1. Go to your Google Cloud Console's [projects list](https://console.cloud.google.com/cloud-resource-manager?pli=1).
 2. Find your **Project ID** and make a note of it. You will need it to configure Whaly.
 
-![](<../../.gitbook/assets/image (224).png>)
+![](<../../.gitbook/assets/image (228).png>)
 
 **B. Create service account**
 
@@ -38,7 +38,7 @@ You need to grant Whaly access to your BigQuery cluster so we can create and man
 1. Go back to the **IAM & admin** tab, and go to the [project members list](https://console.cloud.google.com/iam-admin/iam/project).
 2. Select **+ Add**.
 
-![](<../../.gitbook/assets/image (225).png>)
+![](<../../.gitbook/assets/image (229).png>)
 
 **D.** In the **New Members** field, enter the service account you created in Step 2. The service account is the entire email address.
 
@@ -56,7 +56,7 @@ A. Go to the **Cloud Storage** tab, and go to the [browser page](https://console
 
 B. Click on "Create Bucket"
 
-![](<../../.gitbook/assets/image (221).png>)
+![](<../../.gitbook/assets/image (224).png>)
 
 C. Configure the bucket:
 
@@ -79,7 +79,7 @@ You must give the service account (in the setup form) **Storage Admin** permissi
 1. In your Google Cloud Console, go [**Storage > Browser**](https://console.cloud.google.com/storage/browser?\_ga=2.91914202.-115928388.1548358412) to see the list of buckets in your current project.
 2. Select the bucket you want to use.
 
-![](<../../.gitbook/assets/image (189).png>)
+![](<../../.gitbook/assets/image (191).png>)
 
 3\. Go to **Permissions** and then click **Add Members**.\
 

@@ -25,7 +25,7 @@ When creating a Segment connector on Whaly, please go to the connected source an
 
 You'll find 4 configurations values that you have to copy paste:
 
-![](<../../../.gitbook/assets/image (198).png>)
+![](<../../../.gitbook/assets/image (201).png>)
 
 Then, go in your Segment instance and follow the steps to add a [BigQuery Warehouse instance to your Segment account.](https://segment.com/docs/connections/storage/catalog/bigquery/#create-the-warehouse-in-segment)
 

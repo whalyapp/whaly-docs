@@ -18,7 +18,7 @@ A single report can have multiple Sharing Link with different passwords and pre-
 
 To create a Sharing Link, click on "share" on the top right corner of a Report.
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
 On the panel that open, you can view all the already existing Sharing Links, edit them or get their link.
 
@@ -50,4 +50,4 @@ Existing Public Link will continue to work but it'll soon be impossible to gener
 
 ![](<../../.gitbook/assets/image (139).png>)
 
-4\. And Voila! you have the Public Report Link in your clipboard, you can paste it anywhere you need (Slack, Email, [**Whaly Chrome Extension**](../../integrations/google-chrome/configure-the-chrome-extension.md), ...)
+4\. And Voila! you have the Public Report Link in your clipboard, you can paste it anywhere you need (Slack, Email, [**Whaly Chrome Extension**](../../embed/business-apps/google-chrome/configure-the-chrome-extension.md), ...)

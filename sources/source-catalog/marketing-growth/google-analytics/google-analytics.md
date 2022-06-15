@@ -60,4 +60,4 @@ The field `label` of the View object is recommended to be the field to filter on
 
 Will be equivalent to browsing Google Analytics reports on the "1 Master View"
 
-![](<../../../../.gitbook/assets/image (196).png>)
+![](<../../../../.gitbook/assets/image (199).png>)

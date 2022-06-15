@@ -4,7 +4,7 @@ description: >-
   different rights on Whaly.
 ---
 
-# 👮 Manage Access Control
+# 👮 Access Control
 
 ### User Roles
 

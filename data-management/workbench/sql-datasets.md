@@ -15,11 +15,11 @@ When you want to create complex datasets that require you to join or union sever
 
 On the workbench on the "Dataset panel" on your left, open any source and click on "Add Dataset"
 
-![Click on Add Dataset](<../../.gitbook/assets/image (187).png>)
+![Click on Add Dataset](<../../.gitbook/assets/image (188).png>)
 
 Then enter your future dataset name
 
-![Think carefully about your dataset name](<../../.gitbook/assets/image (172).png>)
+![Think carefully about your dataset name](<../../.gitbook/assets/image (173).png>)
 
 {% hint style="danger" %}
 Once created you cannot change a dataset name
@@ -27,7 +27,7 @@ Once created you cannot change a dataset name
 
 Once your dataset is created, click on its name and then click on the configuration panel
 
-![From here you can edit your SQL query](<../../.gitbook/assets/image (197).png>)
+![From here you can edit your SQL query](<../../.gitbook/assets/image (200).png>)
 
 Type the SQL query you want to use in the "SQL Query" text input. Run the query to test that it is properly working and then save it to update your dataset.
 
@@ -55,7 +55,7 @@ Replace your Source Name and Dataset Name by what you see in the dataset panel
 
 For instance, if you want to query the Day dataset in the Days source as seen here
 
-![](<../../.gitbook/assets/image (209).png>)
+![](<../../.gitbook/assets/image (212).png>)
 
 You can write the following query
 

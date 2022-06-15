@@ -41,7 +41,7 @@ Please contact your Customer Success Representative or open [a ticket to the sup
 
 Start by clicking on the salesforce icon. You should be redirected to the salesforce login page.
 
-![Salesforce login page](<../../../.gitbook/assets/image (208).png>)
+![Salesforce login page](<../../../.gitbook/assets/image (211).png>)
 
 Make sure that you login with the proper credentials. One best practice is to create a user dedicated for the salesforce sync, so that you can remove access to this user whenever is needed.
 

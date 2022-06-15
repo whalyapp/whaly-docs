@@ -5,21 +5,21 @@ description: >-
   having admin access to Whaly.
 ---
 
-# 👩💻 Embed a report
+# 👩💻 API
 
 ## Setting up your report for embedding
 
 First of all go to setting > org admin > general settings for your org and copy your client secret as well as org slug you'll need to for later.
 
-![Getting your client secret](<../../.gitbook/assets/image (215).png>)
+![Getting your client secret](<../.gitbook/assets/image (218).png>)
 
 Then you need to get your embed token on the report you want to share. In order to do so you need to open the report you wish to embed and click on the share button. Once you see the drawer you can copy your embed token you'll need it for later.
 
-![Get your embed token](<../../.gitbook/assets/image (183).png>)
+![Get your embed token](<../.gitbook/assets/image (184).png>)
 
 Now you are all set, we can start writing code 🤓
 
-## Embed the report in your app
+## Embed reports in your app
 
 In order to secure your embed and to make sure that nobody can use your embed on their website we require you to generate and sign a JSON Web Token that you will pass as a query string parameter in the iframe that you embed. This way we ensure that only you who owns the client secret can create short live token that give your user access to your embed.
 
@@ -66,4 +66,4 @@ You can then render your iframe using the templating system you want
 
 In order to set and retrieve your filters API Name you can edit your filter and click on the developer tab and set your apiName. Please note that filters API Name must be unique for a given report and are not set by default.
 
-![Setting an API Name](<../../.gitbook/assets/image (179).png>)
+![Setting an API Name](<../.gitbook/assets/image (180).png>)

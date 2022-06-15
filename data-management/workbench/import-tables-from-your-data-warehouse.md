@@ -24,11 +24,11 @@ Exposing them in Whaly means giving access to them to end users that can start [
 
 On the [workbench](./) on the "Dataset panel" on your left, open any source and click on "Add Dataset".
 
-![Click on Add Dataset](<../../.gitbook/assets/image (187).png>)
+![Click on Add Dataset](<../../.gitbook/assets/image (188).png>)
 
 On the Dataset type selector, select "**Import a Dataset**":
 
-![](<../../.gitbook/assets/image (201).png>)
+![](<../../.gitbook/assets/image (204).png>)
 
 Fill the required fields:
 
@@ -38,6 +38,6 @@ Fill the required fields:
 * **Table**: Table / View in which your data is stored
 * **Primary** Key: List of fields that uniquely identify each row
 
-![](<../../.gitbook/assets/image (204).png>)
+![](<../../.gitbook/assets/image (207).png>)
 
 Click on "Create" and you're done! 🎉

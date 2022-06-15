@@ -4,17 +4,17 @@ In order to display a report when you open a new Google Chrome extension, you sh
 
 1. Click on the puzzle icon 🧩 at the top right corner of Google Chrome
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../../.gitbook/assets/image (134).png>)
 
 2\. Click on "Whaly Report Viewer"
 
 3\. In the form that is displayed, please enter the Public Report Link of the report that you want to see.&#x20;
 
 {% hint style="info" %}
-To get a Public Report Link, [**please follow this guide.**](../../data-management/reports/share-a-report-by-link.md)****
+To get a Public Report Link, [**please follow this guide.**](../../../reporting/reports/share-a-report-by-link.md)****
 {% endhint %}
 
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (135).png>)
 
 4\. Click on "**Save**"
 

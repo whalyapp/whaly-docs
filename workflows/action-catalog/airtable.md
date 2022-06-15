@@ -22,7 +22,7 @@ As prerequisite, you need an Airtable account with a database already created.
 
 In order to get your API key please go to [https://airtable.com/account](https://airtable.com/account) and copy your API Key as seen on the screenshot below:
 
-![Your Airtable API Key](<../../.gitbook/assets/image (181).png>)
+![Your Airtable API Key](<../../.gitbook/assets/image (182).png>)
 
 ### Getting your database Id
 
@@ -30,7 +30,7 @@ In order to get your database id please open your database. Click on `Help` at t
 
 From here you should see your database id as shown on the screenshot below:
 
-![Your database id](<../../.gitbook/assets/image (193).png>)
+![Your database id](<../../.gitbook/assets/image (196).png>)
 
 ### Getting your table id
 
@@ -40,4 +40,4 @@ On the same page as previously scroll to the table you wish to copy your data on
 Please note that in order for your action to work, you need to have your columns name the same way as the dimensions and metrics that have been used in your chart. Their type must also match Whaly's types.
 {% endhint %}
 
-![Your table name](<../../.gitbook/assets/image (191).png>)
+![Your table name](<../../.gitbook/assets/image (194).png>)

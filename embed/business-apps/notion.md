@@ -6,12 +6,12 @@ By integrating with Notion, Whaly is giving you the ability to embed reports dir
 
 ## Embed a Whaly report/question in a Notion page
 
-1. On Whaly 🐳, generate a sharing link named "Notion" without a password for the report you wish to embed. [You can learn more here.](../data-management/reports/share-a-report-by-link.md)
+1. On Whaly 🐳, generate a sharing link named "Notion" without a password for the report you wish to embed. [You can learn more here.](../../reporting/reports/share-a-report-by-link.md)
 2. On Notion, open the page in which you wish to embed your report and type `/` to list the blocks that you can integrate within Notion. Select the "**Embed**" block type.
 3. In the "**Embed link**" input, paste the public sharing link of your report.&#x20;
 4. Click on the "**Embed link**" button to validate.
 
-![](<../.gitbook/assets/image (218).png>)
+![](<../../.gitbook/assets/image (221).png>)
 
 4\. You can now resize your Whaly report so that it fits nicely in your notion document. 👌
 

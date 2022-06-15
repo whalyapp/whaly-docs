@@ -64,37 +64,42 @@
   * [🔎 Drills](data-management/workbench/drills.md)
   * [🧙♀ SQL Datasets](data-management/workbench/sql-datasets.md)
   * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
-* [📊 Reports](data-management/reports/README.md)
-  * [🔎 Filter a report](data-management/reports/filter-a-report.md)
-  * [🔗 Share a report by link](data-management/reports/share-a-report-by-link.md)
-  * [👩💻 Embed a report](data-management/reports/embed-a-report.md)
 
-## Actions
+## Reporting
 
-* [⚡ Actions](actions/actions.md)
-* [💡 Action catalog](actions/action-catalog/README.md)
-  * [Airtable](actions/action-catalog/airtable.md)
-  * [Google Sheets](actions/action-catalog/google-sheets.md)
-  * [Sendgrid](actions/action-catalog/sendgrid.md)
-  * [Slack](actions/action-catalog/slack.md)
-  * [Webhook](actions/action-catalog/webhook.md)
+* [📊 Reports](reporting/reports/README.md)
+  * [🔎 Filter a report](reporting/reports/filter-a-report.md)
+  * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
 
-## Admin
+## Workflows
 
-* [👮 Manage Access Control](admin/manage-access-control.md)
+* [🚀 Push](workflows/push.md)
+* [⚡ Actions](workflows/actions.md)
+* [💡 Action catalog](workflows/action-catalog/README.md)
+  * [Airtable](workflows/action-catalog/airtable.md)
+  * [Google Sheets](workflows/action-catalog/google-sheets.md)
+  * [Sendgrid](workflows/action-catalog/sendgrid.md)
+  * [Slack](workflows/action-catalog/slack.md)
+  * [Webhook](workflows/action-catalog/webhook.md)
 
-## Integrations
+## User management <a href="#admin" id="admin"></a>
 
-* [Google Chrome](integrations/google-chrome/README.md)
-  * [🌱 Install](integrations/google-chrome/install-preview-release.md)
-  * [⚙ Configure the Chrome extension](integrations/google-chrome/configure-the-chrome-extension.md)
-* [Notion](integrations/notion.md)
-* [Clickup](integrations/clickup.md)
-* [Hubspot](integrations/hubspot.md)
+* [👮 Access Control](admin/manage-access-control.md)
+
+## Embed
+
+* [📌 Business apps](embed/business-apps/README.md)
+  * [Notion](embed/business-apps/notion.md)
+  * [Clickup](embed/business-apps/clickup.md)
+  * [Hubspot](embed/business-apps/hubspot.md)
+  * [Google Chrome](embed/business-apps/google-chrome/README.md)
+    * [🌱 Install](embed/business-apps/google-chrome/install-preview-release.md)
+    * [⚙ Configure the Chrome extension](embed/business-apps/google-chrome/configure-the-chrome-extension.md)
+* [👩💻 API](embed/api.md)
 
 ## Guides
 
-* [Help portal](guides/help-portal.md)
+* [👍 Help portal](guides/help-portal.md)
 
 ## Deprecated
 

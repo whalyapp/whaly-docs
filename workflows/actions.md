@@ -1,8 +1,8 @@
 # ⚡ Actions
 
-Actions are a way to transfer data from Whaly to the outside world.&#x20;
+Actions are integrations between Whaly and your other tools, such as your communication tools (Slack), your office suite (Google Sheets, Airtable), your automation systems (n8n, Zapier, Make).
 
-They could either:
+By configuring actions on Whaly, you can either:
 
 * send data to a third party software (Airtable, Google Sheets)
 * update records into your CRM
