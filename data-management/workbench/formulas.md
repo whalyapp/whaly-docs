@@ -99,7 +99,7 @@ IS_NOT_NULL(0) => true
 Takes two column as an input and returns an html element that can be clicked on
 
 ```
-URL("https://google.com", "click me !")
+URL("https://google.com"; "click me !")
 ```
 
 ## Date operators
@@ -144,10 +144,10 @@ PARSE_GOOGLESHEET_TIMESTAMP(1) => "1899-12-31"
 Returns a cohort when inputed a date. Type can be: `DAY`, `WEEK` ,`MONTH` or `YEAR.`
 
 ```
-COHORT("2018-12-19T12:00:00", "DAY") => "2018-12-19T00:00:00"
-COHORT("2018-12-19T12:00:00", "WEEK") => "2018-12-17T00:00:00"
-COHORT("2018-12-19T12:00:00", "MONTH") => "2018-12-01T00:00:00"
-COHORT("2018-12-19T12:00:00", "YEAR") => "2018-01-01T00:00:00"
+COHORT("2018-12-19T12:00:00"; "DAY") => "2018-12-19T00:00:00"
+COHORT("2018-12-19T12:00:00"; "WEEK") => "2018-12-17T00:00:00"
+COHORT("2018-12-19T12:00:00"; "MONTH") => "2018-12-01T00:00:00"
+COHORT("2018-12-19T12:00:00"; "YEAR") => "2018-01-01T00:00:00"
 ```
 
 #### DATEADD(Date; Interval; Part)
@@ -233,9 +233,9 @@ SPLIT("CatA > CatB > CatC"; ">"; 1) => "CatB"
 Return true if expressionA _**and**_ expressionB are true.
 
 ```
-AND(true, true) => true
-AND(true, false) => false
-AND(false, false) => false
+AND(true; true) => true
+AND(true; false) => false
+AND(false; false) => false
 ```
 
 #### **OR(expressionA; expressionB)**
@@ -243,9 +243,9 @@ AND(false, false) => false
 Return true if expressionA _**or**_ expressionB are true.
 
 ```
-OR(true, true) => true
-OR(true, false) => true
-OR(false, false) => false
+OR(true; true) => true
+OR(true; false) => true
+OR(false; false) => false
 ```
 
 ## Number operators
