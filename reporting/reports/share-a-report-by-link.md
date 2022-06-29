@@ -50,4 +50,4 @@ Existing Public Link will continue to work but it'll soon be impossible to gener
 
 ![](<../../.gitbook/assets/image (139).png>)
 
-4\. And Voila! you have the Public Report Link in your clipboard, you can paste it anywhere you need (Slack, Email, [**Whaly Chrome Extension**](../../embed/business-apps/google-chrome/configure-the-chrome-extension.md), ...)
+4\. And Voila! you have the Public Report Link in your clipboard, you can paste it anywhere you need (Slack, Email, [**Whaly Chrome Extension**](../../embedding/embed-in-business-apps/google-chrome/configure-the-chrome-extension.md), ...)

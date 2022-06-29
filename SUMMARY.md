@@ -71,16 +71,16 @@
   * [🔎 Filter a report](reporting/reports/filter-a-report.md)
   * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
 
-## Embed
+## Embedding
 
-* [📌 Business apps](embed/business-apps/README.md)
-  * [Notion](embed/business-apps/notion.md)
-  * [Clickup](embed/business-apps/clickup.md)
-  * [Hubspot](embed/business-apps/hubspot.md)
-  * [Google Chrome](embed/business-apps/google-chrome/README.md)
-    * [🌱 Install](embed/business-apps/google-chrome/install-preview-release.md)
-    * [⚙ Configure the Chrome extension](embed/business-apps/google-chrome/configure-the-chrome-extension.md)
-* [👩💻 API](embed/api.md)
+* [📌 Embed in Business apps](embedding/embed-in-business-apps/README.md)
+  * [Notion](embedding/embed-in-business-apps/notion.md)
+  * [Clickup](embedding/embed-in-business-apps/clickup.md)
+  * [Hubspot](embedding/embed-in-business-apps/hubspot.md)
+  * [Google Chrome](embedding/embed-in-business-apps/google-chrome/README.md)
+    * [🌱 Install](embedding/embed-in-business-apps/google-chrome/install-preview-release.md)
+    * [⚙ Configure the Chrome extension](embedding/embed-in-business-apps/google-chrome/configure-the-chrome-extension.md)
+* [👩💻 Embedding API](embedding/embedding-api.md)
 
 ## Workflows
 
