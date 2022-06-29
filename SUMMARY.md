@@ -88,13 +88,12 @@
 ## Workflows
 
 * [🚀 Push](workflows/push.md)
-* [⚡ Actions](workflows/actions.md)
-* [💡 Action catalog](workflows/action-catalog/README.md)
-  * [Airtable](workflows/action-catalog/airtable.md)
-  * [Google Sheets](workflows/action-catalog/google-sheets.md)
-  * [Sendgrid](workflows/action-catalog/sendgrid.md)
-  * [Slack](workflows/action-catalog/slack.md)
-  * [Webhook](workflows/action-catalog/webhook.md)
+* [⚡ Actions](workflows/actions/README.md)
+  * [Airtable](workflows/actions/airtable.md)
+  * [Google Sheets](workflows/actions/google-sheets.md)
+  * [Slack](workflows/actions/slack.md)
+  * [Sendgrid](workflows/actions/sendgrid.md)
+  * [Webhook](workflows/actions/webhook.md)
 
 ## User management <a href="#admin" id="admin"></a>
 
