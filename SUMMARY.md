@@ -23,6 +23,8 @@
       * [💡 Tip: Extracting the relationships](sources/source-catalog/database/postgres/tip-extracting-the-relationships.md)
   * [eCommerce](sources/source-catalog/ecommerce/README.md)
     * [WooCommerce](sources/source-catalog/ecommerce/woocommerce.md)
+  * [Engineering](sources/source-catalog/engineering/README.md)
+    * [Github](sources/source-catalog/engineering/github.md)
   * [Finance](sources/source-catalog/finance/README.md)
     * [Brex](sources/source-catalog/finance/brex.md)
     * [Pennylane](sources/source-catalog/finance/pennylane/README.md)
