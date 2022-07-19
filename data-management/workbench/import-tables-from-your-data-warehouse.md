@@ -28,7 +28,7 @@ On the [workbench](./) on the "Dataset panel" on your left, open any source and 
 
 On the Dataset type selector, select "**Import a Dataset**":
 
-![](<../../.gitbook/assets/image (204) (1).png>)
+![](<../../.gitbook/assets/image (204) (1) (1).png>)
 
 Fill the required fields:
 
@@ -38,6 +38,6 @@ Fill the required fields:
 * **Table**: Table / View in which your data is stored
 * **Primary** Key: List of fields that uniquely identify each row
 
-![](<../../.gitbook/assets/image (207).png>)
+![](<../../.gitbook/assets/image (207) (1).png>)
 
 Click on "Create" and you're done! 🎉

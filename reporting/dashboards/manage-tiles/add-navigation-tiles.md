@@ -8,4 +8,4 @@ To add a navigation tile to a dashboard, create a new report (or edit an existin
 
 Then, select the tile that's just been created and edit its options:&#x20;
 
-![](<../../../.gitbook/assets/image (204).png>)
+![](<../../../.gitbook/assets/image (204) (1).png>)

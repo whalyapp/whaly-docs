@@ -44,7 +44,7 @@ In this mode, the push will be done at the start of the hour, every hour.
 
 #### Daily
 
-![](<../.gitbook/assets/image (227).png>)
+![](<../.gitbook/assets/image (227) (1).png>)
 
 You can select the Day on which the Push will be done:
 
@@ -55,7 +55,7 @@ You can also set the hour of the day on which you want the push to execute. The 
 
 #### Weekly
 
-![](<../.gitbook/assets/image (193).png>)
+![](<../.gitbook/assets/image (193) (1).png>)
 
 You can select the Day of the week on which the push should execute. Also, the hour at which it'll be done.
 
