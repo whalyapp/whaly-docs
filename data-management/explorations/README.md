@@ -205,6 +205,10 @@ Here is an example dataset that can be used for maps :&#x20;
 
 For more information your can refer to : [https://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2](https://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2)
 
+
+
+:1234: Using metrics custom formats
+
 ### :alarm\_clock: Using time format in time series
 
 In order to format the time in a time series axis, you can input the following tokens into the Time format field.

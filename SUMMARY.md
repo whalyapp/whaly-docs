@@ -72,9 +72,10 @@
 
 ## Reporting
 
-* [📊 Dashboards](reporting/dashboards/README.md)
-  * [🔎 Filter a report](reporting/dashboards/filter-a-report.md)
-  * [🔗 Share a report by link](reporting/dashboards/share-a-report-by-link.md)
+* [📊 Dashboards](reporting/reports/README.md)
+  * [🆕 Create a report](reporting/dashboards/create-a-report.md)
+  * [🔎 Filter a report](reporting/reports/filter-a-report.md)
+  * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
 
 ## Embedding
 

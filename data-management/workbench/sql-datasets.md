@@ -19,7 +19,7 @@ On the workbench on the "Dataset panel" on your left, open any source and click 
 
 Then enter your future dataset name
 
-![Think carefully about your dataset name](<../../.gitbook/assets/image (173).png>)
+![Think carefully about your dataset name](<../../.gitbook/assets/image (173) (1).png>)
 
 {% hint style="danger" %}
 Once created you cannot change a dataset name

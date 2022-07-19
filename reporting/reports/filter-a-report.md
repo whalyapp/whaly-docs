@@ -4,7 +4,7 @@ In some situation you might want to create slight variations of the same report,
 
 Instead of creating multiple reports, you can create reports filters to let people filter the data displayed through the tiles of a report.&#x20;
 
-This make your reports more interactive to end users.
+This makes your reports more interactive to end users.
 
 ### Adding a filter
 
@@ -23,3 +23,12 @@ Then, in the "**Tiles to Update**" tab, select the tiles you want to apply the f
 
 ![](<../../.gitbook/assets/customer filter.gif>)
 
+{% hint style="info" %}
+When adding new tiles to a report, you should update the tiles to update section on your filters
+{% endhint %}
+
+### Hiding filters
+
+When creating or editing filters, you can select the "Hide your filter from the report" option. This will prevent users to change the filter value.
+
+The option is useful when used with [sharing links](share-a-report-by-link.md), in order to give a different default value to a filter based on the sharing link.
