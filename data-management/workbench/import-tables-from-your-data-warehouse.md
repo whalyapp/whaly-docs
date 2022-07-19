@@ -28,7 +28,7 @@ On the [workbench](./) on the "Dataset panel" on your left, open any source and 
 
 On the Dataset type selector, select "**Import a Dataset**":
 
-![](<../../.gitbook/assets/image (204).png>)
+![](<../../.gitbook/assets/image (204) (1).png>)
 
 Fill the required fields:
 

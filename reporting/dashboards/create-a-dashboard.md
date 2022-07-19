@@ -1,6 +1,6 @@
-# 🆕 Create a report
+# 🆕 Create a dashboard
 
-## How to create a report
+## How to create a dashboard
 
 There is two ways to create a report:&#x20;
 
@@ -15,7 +15,7 @@ To create a report from a folder, go to the folder you want to add the report to
 
 ### Creating a report from an exploration
 
-To create a report from a folder, go to an exploration, create a chart, then click on the "Save" button. Then, select "Add to report".
+To create a report from an exploration, go to an exploration, create a chart, then click on the "Save" button. Then, select "Add to report".
 
 You will need to give a name to your chart, then, select the folder you want to create the report in, and click on "Add new" next to the report icon. Give a name to your report and click on save.
 

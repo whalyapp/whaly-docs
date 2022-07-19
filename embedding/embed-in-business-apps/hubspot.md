@@ -21,7 +21,7 @@ As Whaly is having an holistic view of your data (Database, Support, Finance, Ma
 
 3\. Click on "Add external content"
 
-![](<../../.gitbook/assets/image (219).png>)
+![](<../../.gitbook/assets/image (219) (1).png>)
 
 4\. Click on "Other content". In the two fields that appears, enter the name of your imported chart and the URL of your Sharing Link created in step 1
 

@@ -73,9 +73,23 @@
 ## Reporting
 
 * [📊 Dashboards](reporting/reports/README.md)
-  * [🆕 Create a report](reporting/dashboards/create-a-report.md)
-  * [🔎 Filter a report](reporting/reports/filter-a-report.md)
+  * [🆕 Create a dashboard](reporting/dashboards/create-a-dashboard.md)
+  * [🟦 Manage tiles](reporting/dashboards/manage-tiles/README.md)
+    * [📈 Add chart tiles](reporting/dashboards/manage-tiles/add-chart-tiles.md)
+    * [🔠 Add text tiles](reporting/dashboards/manage-tiles/add-text-tiles.md)
+    * [➡ Add navigation tiles](reporting/dashboards/manage-tiles/add-navigation-tiles.md)
+    * [🏗 Arranging tiles](reporting/dashboards/manage-tiles/arranging-tiles.md)
+  * [ℹ Add a description](reporting/dashboards/add-a-description.md)
+  * [🔎 Filter a dashboard](reporting/dashboards/filter-a-dashboard.md)
   * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
+  * [⚡ Push dashboard](reporting/dashboards/push-dashboard.md)
+  * [🗑 Delete a report](reporting/dashboards/delete-a-report.md)
+* [📈 Questions](reporting/questions/README.md)
+  * [🆕 Create a question](reporting/questions/create-a-question.md)
+  * [ℹ Add a description](reporting/questions/add-a-description.md)
+  * [🔗 Share a question by link](reporting/questions/share-a-question-by-link.md)
+  * [⚡ Push question data](reporting/questions/push-question-data.md)
+  * [🗑 Delete a question](reporting/questions/delete-a-question.md)
 
 ## Embedding
 
