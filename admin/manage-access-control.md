@@ -49,7 +49,7 @@ An editor can create reports in the org, and has access to explorations and repo
 | Sources      | Read / Connect / Update / Delete | An **editor** can view connected sources but cannot modify them.                 |
 | Explorations | Read / Create / Update / Delete  | An **editor** can view explorations, can run queries but cannot modify anything  |
 | Workbench    | Read / Create / Update / Delete  | An **editor** doesn't have access to the workbench                               |
-| Reports      | Read / Create / Update / Delete  | A **builder** can create, read, modify and remove any reports                    |
+| Reports      | Read / Create / Update / Delete  | An **editor** can create, read, modify and remove any reports                    |
 
 #### **Viewer**
 
