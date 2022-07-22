@@ -42,14 +42,14 @@ A builder has essentially the same rights as an owner except for user management
 
 An editor can create reports in the org, and has access to explorations and reports. He has the ability to:
 
-| object       | right                            |                                                                                  |
-| ------------ | -------------------------------- | -------------------------------------------------------------------------------- |
-| Users Invite | Read                             | An **editor** can view invitations but cannot invite a user.                     |
-| User Roles   | Read                             | An **editor** can view user roles but cannot modify them                         |
-| Sources      | Read / Connect / Update / Delete | An **editor** can view connected sources but cannot modify them.                 |
-| Explorations | Read / Create / Update / Delete  | An **editor** can view explorations, can run queries but cannot modify anything  |
-| Workbench    | Read / Create / Update / Delete  | An **editor** doesn't have access to the workbench                               |
-| Reports      | Read / Create / Update / Delete  | An **editor** can create, read, modify and remove any reports                    |
+| object       | right                           |                                                                                  |
+| ------------ | ------------------------------- | -------------------------------------------------------------------------------- |
+| Users Invite | Read                            | An **editor** can view invitations but cannot invite a user.                     |
+| User Roles   | Read                            | An **editor** can view user roles but cannot modify them                         |
+| Sources      | Read                            | An **editor** can view connected sources but cannot modify them.                 |
+| Explorations | Read                            | An **editor** can view explorations, can run queries but cannot modify anything  |
+| Workbench    | No access                       | An **editor** doesn't have access to the workbench                               |
+| Reports      | Read / Create / Update / Delete | An **editor** can create, read, modify and remove any reports                    |
 
 #### **Viewer**
 
