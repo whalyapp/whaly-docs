@@ -14,6 +14,7 @@ Syncing your Qonto account can be useful for various cases:
 
 * **Organisation:** Organisation is your company information.
 * **Bank Account**: Bank account represents all your Qonto accounts.
+* **Transaction**: Incoming and outgoing transactions per bank account.
 
 [You can find the relationship between all those objects here.](https://docs.google.com/presentation/d/1HCR3WyITpc-F02SsEuaSrj1fK0g1vG4jlzGS31tXjQY/edit?usp=sharing)
 
