@@ -90,6 +90,7 @@
 
 ## Reporting
 
+* [🔥 Data Freshness](reporting/data-freshness.md)
 * [📊 Dashboards](reporting/reports/README.md)
   * [🆕 Create a dashboard](reporting/dashboards/create-a-dashboard.md)
   * [🟦 Manage tiles](reporting/dashboards/manage-tiles/README.md)
