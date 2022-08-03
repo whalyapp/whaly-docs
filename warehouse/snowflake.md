@@ -71,7 +71,8 @@ password = $whaly_dataloading_password
 default_role = $whaly_dataloading_role
 default_warehouse = $whaly_dataloading_warehouse;
 
-grant role identifier($whaly_dataloading_role) to user identifier($whaly_dataloading_username);
+grant role identifier($whaly_dataloading_role) 
+    to user identifier($whaly_dataloading_username);
 
 create user if not exists identifier($whaly_bi_username)
 password = $whaly_bi_password
@@ -99,19 +100,6 @@ auto_suspend = 60
 auto_resume = true
 initially_suspended = true;
 
--- create Whaly data loading database
-create database if not exists identifier($whaly_dataloading_database);
-
--- create Private Whaly database (used for SQL queries schema detection)
-create database if not exists WHALY_PRIVATE;
-grant USAGE
-    on database WHALY_PRIVATE
-    to role identifier($whaly_bi_role);
-create schema if not exists WHALY_PRIVATE.SQL_SCHEMA_INFER;
-grant USAGE, CREATE VIEW
-    on schema WHALY_PRIVATE.SQL_SCHEMA_INFER
-    to role identifier($whaly_bi_role);
-
 -- grant Whaly Warehouse access
 grant USAGE
     on warehouse identifier($whaly_dataloading_warehouse)
@@ -121,6 +109,9 @@ grant USAGE
     on warehouse identifier($whaly_bi_warehouse)
     to role identifier($whaly_bi_role);
 
+-- create Whaly data loading database
+create database if not exists identifier($whaly_dataloading_database);
+
 -- grant Whaly database access
 grant OWNERSHIP
     on database identifier($whaly_dataloading_database)
@@ -128,6 +119,19 @@ grant OWNERSHIP
 
 grant USAGE
     on database identifier($whaly_dataloading_database)
+    to role identifier($whaly_bi_role);
+
+-- create Private Whaly database (used for SQL queries schema inference)
+create database if not exists WHALY_PRIVATE;
+
+grant USAGE
+    on database WHALY_PRIVATE
+    to role identifier($whaly_bi_role);
+
+create schema if not exists WHALY_PRIVATE.SQL_SCHEMA_INFER;
+
+grant USAGE, CREATE VIEW
+    on schema WHALY_PRIVATE.SQL_SCHEMA_INFER
     to role identifier($whaly_bi_role);
 
 commit;
