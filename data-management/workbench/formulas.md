@@ -141,13 +141,26 @@ PARSE_GOOGLESHEET_TIMESTAMP(1) => "1899-12-31"
 
 #### **COHORT(expression, Type)**
 
-Returns a cohort when inputed a date. Type can be: `DAY`, `WEEK` ,`MONTH` or `YEAR.`
+Returns a cohort when inputed a timestamp. Part can be: `DAY`, `WEEK` ,`MONTH` or `YEAR.`
 
 ```
 COHORT("2018-12-19T12:00:00"; "DAY") => "2018-12-19T00:00:00"
 COHORT("2018-12-19T12:00:00"; "WEEK") => "2018-12-17T00:00:00"
 COHORT("2018-12-19T12:00:00"; "MONTH") => "2018-12-01T00:00:00"
 COHORT("2018-12-19T12:00:00"; "YEAR") => "2018-01-01T00:00:00"
+```
+
+#### **COHORT\_WITH\_TZ(expression, Type, Timezone)**
+
+Returns a cohort when inputed a date. Part can be: `DAY`, `WEEK` ,`MONTH` or `YEAR.`
+
+Timezone will be used to calculate the proper DAY, WEEK, etc. in the Timezone. It should follow the Timezone [Database Name format](https://en.wikipedia.org/wiki/List\_of\_tz\_database\_time\_zones), ex `Europe/Paris`
+
+```
+COHORT_WITH_TZ("2018-12-19T22:00:00"; "DAY"; "Europe/Paris") => "2018-12-20T00:00:00"
+COHORT_WITH_TZ("2018-12-19T22:00:00"; "WEEK") => "2018-12-20T00:00:00"
+COHORT_WITH_TZ("2018-12-19T22:00:00"; "MONTH") => "2018-12-01T00:00:00"
+COHORT_WITH_TZ("2018-12-19T22:00:00"; "YEAR") => "2018-01-01T00:00:00"
 ```
 
 #### DATEADD(Date; Interval; Part)
