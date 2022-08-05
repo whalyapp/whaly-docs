@@ -5,15 +5,19 @@ description: >-
   having admin access to Whaly.
 ---
 
-# 👩💻 API
+# 👩💻 Embedding API
 
 ## Setting up your report for embedding
 
-First of all go to setting > org admin > general settings for your org and copy your client secret as well as org slug you'll need to for later.
+The above steps will show you how to generate "**Signed URLs**" that are a secure way to embed your dashboards into your applications to share data with your customers!
+
+First of all go to **Setting > Org admin > General Settings** for your org and copy your **Client Secret** as well as **Org Slug** you'll need it later.
 
 ![Getting your client secret](<../.gitbook/assets/image (218).png>)
 
-Then you need to get your embed token on the report you want to share. In order to do so you need to open the report you wish to embed and click on the share button. Once you see the drawer you can copy your embed token you'll need it for later.
+Then you need to get your E**mbed Token** on the report you want to embed.&#x20;
+
+In order to do so you need to open the report you wish to embed and click on the **share** button. Once you see the drawer, you can copy your **Embed Token,** you'll need it later.
 
 ![Get your embed token](<../.gitbook/assets/image (184).png>)
 
@@ -21,19 +25,30 @@ Now you are all set, we can start writing code 🤓
 
 ## Embed reports in your app
 
-In order to secure your embed and to make sure that nobody can use your embed on their website we require you to generate and sign a JSON Web Token that you will pass as a query string parameter in the iframe that you embed. This way we ensure that only you who owns the client secret can create short live token that give your user access to your embed.
+In order to secure your dashboards and to make sure that nobody can use your embed on their own website, we require you to generate and sign a **JSON Web Token.**
 
-In order to do so you can check the following code:
+This JWT token will be used to generate your **Signed URL.** This way we ensure that only the owner of the **Client Secret** can create **Signed URLs**.
+
+{% hint style="info" %}
+In order to avoid leaking your **Client Secret**, the JWT generation need to be done on your **server side applications**.
+
+If you include your Client Secret in your Web App, you expose it to anyone reading the code of your webpage, which is very dangerous!
+{% endhint %}
+
+In order to create a **signed JWT token**, you can check the following code example:
 
 ```javascript
+// Example for a webserver running in Node.js
+// The same algorithm and JWT librairies needs to be ported in your backend programming language (PHP, Python, Go, ...))
+
 import jwt from 'jsonwebtoken';
 
-// this routine must happen on server side as your secret should remain secret
+// This routine must happen on server side as your secret should remain secret
 const embedToken = "<MY_EMBED_TOKEN>";
 const clientSecret = "<MY_CLIENT_SECRET>";
 const orgSlug = "<MY_ORG_SLUG>";
 
-// we require you to generate a payload with the default filters you want to pass
+// We require you to generate a payload with the default filters you want to pass
 // if you don't want to pass filters just input an empty object {}
 // the filter payload is an object which keys are the apiName of the filter
 // and the value is the value that you want to pass
@@ -45,14 +60,14 @@ const payload = {
     expiration_date: Date.now() + 24 * 60 * 60 * 1000 // valid for 24h
 };
 
-// generate and sign your JWT, please use the HS256 algorithm
+// Generate and sign your JWT, please use the HS256 algorithm
 const myToken = jwt.sign(payload, clientSecret);
 
-// generate the embed url
+// Generate the embed url
 const embed_url = `https://app.whaly.io/${orgSlug}/embed/report/${embedToken}?token=${myToken}`
 ```
 
-You can then render your iframe using the templating system you want
+You can then render your iFrame using the templating system you want (React / Vue.js / ...)
 
 ```html
 <iframe src="<%= embed_url %>" 
