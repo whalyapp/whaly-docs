@@ -7,7 +7,8 @@
 
 * [🔷 BigQuery](warehouse/bigquery/README.md)
   * [🧹 Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
-* [❄ Snowflake](warehouse/snowflake.md)
+* [❄ Snowflake](warehouse/snowflake/README.md)
+  * [🗝 Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
 
 ## Sources
 

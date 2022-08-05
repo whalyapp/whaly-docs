@@ -158,4 +158,4 @@ Navigate to the Whaly UI to set up Snowflake as a destination. You can authentic
 1. Go into the "Admin > Account" panel on the right side of the screen
 2. Next to your account name, click on the 🔗 icon which will copy the URL on your clipboard!
 
-![](<../.gitbook/assets/Screenshot 2022-08-03 at 11.10.22.png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-03 at 11.10.22.png>)
