@@ -52,6 +52,8 @@
   * [Support](sources/source-catalog/support/README.md)
     * [Intercom](sources/source-catalog/support/intercom.md)
   * [Product](sources/source-catalog/product/README.md)
+    * [Amplitude](sources/source-catalog/product/amplitude.md)
+    * [MixPanel](sources/source-catalog/product/mixpanel.md)
     * [Segment](sources/source-catalog/product/segment.md)
   * [Sales](sources/source-catalog/sales/README.md)
     * [Aircall](sources/source-catalog/sales/aircall.md)
