@@ -88,6 +88,7 @@
 * [🛠 Workbench](data-management/workbench/README.md)
   * [🪄 Formulas](data-management/workbench/formulas.md)
   * [🪟 Views](data-management/workbench/views.md)
+  * [🗝 Configuring Primary Key of Datasets](data-management/workbench/configuring-primary-key-of-datasets.md)
   * [🔎 Drills](data-management/workbench/drills.md)
   * [🧙♀ SQL Datasets](data-management/workbench/sql-datasets.md)
   * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
