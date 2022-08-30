@@ -21,7 +21,6 @@
   * [Database](sources/source-catalog/database/README.md)
     * [MongoDb](sources/source-catalog/database/mongodb.md)
     * [PostgreSQL / Postgres](sources/source-catalog/database/postgres/README.md)
-      * [💯 Understanding CDC/LOG\_BASED replication method](sources/source-catalog/database/postgres/understanding-cdc-log\_based-replication-method.md)
       * [💡 Tip: Extracting the relationships](sources/source-catalog/database/postgres/tip-extracting-the-relationships.md)
   * [eCommerce](sources/source-catalog/ecommerce/README.md)
     * [WooCommerce](sources/source-catalog/ecommerce/woocommerce.md)
