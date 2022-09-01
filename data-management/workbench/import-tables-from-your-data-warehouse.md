@@ -10,7 +10,7 @@ Importing existing tables and views that are already present in your Data Wareho
 
 It's a great way to:
 
-* Connect with other ETL/ELT systems that creates and feeds tables in your Warehouse ([Segment](https://segment.com/product/warehouses/), [Fivetran](https://fivetran.com/), [Stitch](https://www.stitchdata.com/), [Airbyte](https://airbyte.io/), in house connectors, ...)&#x20;
+* Connect with other ETL/ELT systems that creates and feeds tables in your Warehouse ([Segment](https://segment.com/product/warehouses/), [Fivetran](https://fivetran.com/), [Stitch](https://www.stitchdata.com/), [Airbyte](https://airbyte.io/), [Hevo](https://hevodata.com/integrations/pipeline/?source=whaly), in-house connectors, ...)&#x20;
 * &#x20;Expose models created with [dbt](https://www.getdbt.com/)
 * Expose your ML/AI datasets (scoring, use of ML capabilities of your Warehouse, etc.)
 
