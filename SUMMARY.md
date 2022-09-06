@@ -6,8 +6,10 @@
 
 * [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
 * [🔷 BigQuery](warehouse/bigquery/README.md)
+  * [🔗 Connect your BigQuery](warehouse/bigquery/connect-your-bigquery.md)
   * [🧹 Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
 * [❄ Snowflake](warehouse/snowflake/README.md)
+  * [🔗 Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [🗝 Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
 
 ## Sources
@@ -64,6 +66,13 @@
 
 ## Data Management
 
+* [🛠 Workbench](data-management/workbench/README.md)
+  * [🪄 Formulas](data-management/workbench/formulas.md)
+  * [🪟 Views](data-management/workbench/views.md)
+  * [🗝 Configuring Primary Key of Datasets](data-management/workbench/configuring-primary-key-of-datasets.md)
+  * [🔎 Drills](data-management/workbench/drills.md)
+  * [🧙♀ SQL Datasets](data-management/workbench/sql-datasets.md)
+  * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
 * [🧭 Explorations](data-management/explorations/README.md)
   * [🆕 Create an exploration](data-management/explorations/create-an-exploration.md)
   * [🔢 Add metrics](data-management/explorations/add-metrics/README.md)
@@ -84,13 +93,6 @@
     * [Worldmap chart](data-management/explorations/create-a-chart/worldmap-chart.md)
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [🔮 Forecasting](data-management/explorations/forecasting.md)
-* [🛠 Workbench](data-management/workbench/README.md)
-  * [🪄 Formulas](data-management/workbench/formulas.md)
-  * [🪟 Views](data-management/workbench/views.md)
-  * [🗝 Configuring Primary Key of Datasets](data-management/workbench/configuring-primary-key-of-datasets.md)
-  * [🔎 Drills](data-management/workbench/drills.md)
-  * [🧙♀ SQL Datasets](data-management/workbench/sql-datasets.md)
-  * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
 
 ## Visualization
 
