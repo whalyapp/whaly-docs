@@ -48,7 +48,7 @@ e. You can delete the Facebook Ads source that you created to generate a new tok
 {% hint style="warning" %}
 Be sure to delete the "new" Facebook Ads and not the historical integration, otherwise you'll break your existing reporting.
 
-If you did it by error, [contact Whaly support](../../../support.md#how-do-i-contact-the-support-team) to get assistance!
+If you did it by error, [contact Whaly support](../../../guides/support.md#how-do-i-contact-the-support-team) to get assistance!
 {% endhint %}
 
 ## Granting Long term access to Whaly

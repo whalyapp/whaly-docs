@@ -13,7 +13,7 @@ A question is a page containing a single chart.
 Questions share some features with dashboards, such as :&#x20;
 
 * [Add a description](../dashboards/add-a-description.md)
-* [Share a report by link](../reports/share-a-report-by-link.md)
+* [Share a report by link](../dashboards/share-a-report-by-link.md)
 * [Delete a report](../dashboards/delete-a-report.md)
 
 ## Questions tabs

@@ -31,7 +31,7 @@ Syncing your Salesforce can be useful for various use cases:
 * User
 * Contract
 
-Please contact your Customer Success Representative or open [a ticket to the support ](../../../support.md)if you need other tables.
+Please contact your Customer Success Representative or open [a ticket to the support ](../../../guides/support.md)if you need other tables.
 
 ## **Overview**
 

@@ -43,7 +43,7 @@ To do so, follow the guide below ⬇️
 
 ## Identify the proper View to set up my drill
 
-On the exploration interface, identify the object on which you have configured the [Metric](../../deprecated/google-data-studio-1/dimensions-metrics.md) that people will click on.
+On the exploration interface, identify the object on which you have configured the [Metric](broken-reference) that people will click on.
 
 ![](<../../.gitbook/assets/image (160).png>)
 

@@ -1,10 +1,10 @@
 # Table of contents
 
 * [👏 Welcome to Whaly 🐳](README.md)
-* [⛑ Support](support.md)
 
 ## Warehouse
 
+* [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
 * [🔷 BigQuery](warehouse/bigquery/README.md)
   * [🧹 Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
 * [❄ Snowflake](warehouse/snowflake/README.md)
@@ -92,27 +92,27 @@
   * [🧙♀ SQL Datasets](data-management/workbench/sql-datasets.md)
   * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
 
-## Reporting
+## Visualization
 
-* [🔥 Data Freshness](reporting/data-freshness.md)
-* [📊 Dashboards](reporting/reports/README.md)
-  * [🆕 Create a dashboard](reporting/dashboards/create-a-dashboard.md)
-  * [🟦 Manage tiles](reporting/dashboards/manage-tiles/README.md)
-    * [📈 Add chart tiles](reporting/dashboards/manage-tiles/add-chart-tiles.md)
-    * [🔠 Add text tiles](reporting/dashboards/manage-tiles/add-text-tiles.md)
-    * [➡ Add navigation tiles](reporting/dashboards/manage-tiles/add-navigation-tiles.md)
-    * [🏗 Arranging tiles](reporting/dashboards/manage-tiles/arranging-tiles.md)
-  * [ℹ Add a description](reporting/dashboards/add-a-description.md)
-  * [🔎 Filter a dashboard](reporting/dashboards/filter-a-dashboard.md)
-  * [🔗 Share a report by link](reporting/reports/share-a-report-by-link.md)
-  * [⚡ Push dashboard](reporting/dashboards/push-dashboard.md)
-  * [🗑 Delete a report](reporting/dashboards/delete-a-report.md)
-* [📈 Questions](reporting/questions/README.md)
-  * [🆕 Create a question](reporting/questions/create-a-question.md)
-  * [ℹ Add a description](reporting/questions/add-a-description.md)
-  * [🔗 Share a question by link](reporting/questions/share-a-question-by-link.md)
-  * [⚡ Push question data](reporting/questions/push-question-data.md)
-  * [🗑 Delete a question](reporting/questions/delete-a-question.md)
+* [🔥 Data Freshness](visualization/data-freshness.md)
+* [📊 Dashboards](visualization/dashboards/README.md)
+  * [🆕 Create a dashboard](visualization/dashboards/create-a-dashboard.md)
+  * [🟦 Manage tiles](visualization/dashboards/manage-tiles/README.md)
+    * [📈 Add chart tiles](visualization/dashboards/manage-tiles/add-chart-tiles.md)
+    * [🔠 Add text tiles](visualization/dashboards/manage-tiles/add-text-tiles.md)
+    * [➡ Add navigation tiles](visualization/dashboards/manage-tiles/add-navigation-tiles.md)
+    * [🏗 Arranging tiles](visualization/dashboards/manage-tiles/arranging-tiles.md)
+  * [ℹ Add a description](visualization/dashboards/add-a-description.md)
+  * [🔎 Filter a dashboard](visualization/dashboards/filter-a-dashboard.md)
+  * [🔗 Share a report by link](visualization/dashboards/share-a-report-by-link.md)
+  * [⚡ Push dashboard](visualization/dashboards/push-dashboard.md)
+  * [🗑 Delete a report](visualization/dashboards/delete-a-report.md)
+* [📈 Questions](visualization/questions/README.md)
+  * [🆕 Create a question](visualization/questions/create-a-question.md)
+  * [ℹ Add a description](visualization/questions/add-a-description.md)
+  * [🔗 Share a question by link](visualization/questions/share-a-question-by-link.md)
+  * [⚡ Push question data](visualization/questions/push-question-data.md)
+  * [🗑 Delete a question](visualization/questions/delete-a-question.md)
 
 ## Embedding
 
@@ -141,19 +141,5 @@
 
 ## Guides
 
+* [⛑ Support](guides/support.md)
 * [👍 Help portal](guides/help-portal.md)
-
-## Deprecated
-
-* [📈 Google Data Studio](deprecated/google-data-studio-1/README.md)
-  * [Connect Whaly to Google Data Studio](deprecated/google-data-studio-1/google-data-studio.md)
-  * [Manage my data sources](deprecated/google-data-studio-1/manage-my-data-sources.md)
-  * [How to update a data source?](deprecated/google-data-studio-1/how-to-update-a-data-source.md)
-  * [How to reconnect a data source?](deprecated/google-data-studio-1/how-to-reconnect-a-data-source.md)
-  * [How to refresh data?](deprecated/google-data-studio-1/how-to-refresh-data.md)
-  * [Dimensions and metrics in Google Data Studio](deprecated/google-data-studio-1/dimensions-metrics.md)
-  * [Create my first charts](deprecated/google-data-studio-1/google-data-studio-interface-explained.md)
-  * [Add filter to a chart](deprecated/google-data-studio-1/add-filter-to-a-chart.md)
-  * [Working with time filtering](deprecated/google-data-studio-1/working-with-date-filtering.md)
-  * [Add a control / filter](deprecated/google-data-studio-1/add-a-control.md)
-  * [Share your report and manage access](deprecated/google-data-studio-1/share-your-report-and-manage-access.md)
