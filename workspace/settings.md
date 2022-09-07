@@ -1,6 +1,6 @@
 # ⚙ Settings
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 ## General Settings (1)
 
@@ -23,3 +23,21 @@ This gives you access to a dashboard to view your consumption from a source pers
 ## Warehouse (4)
 
 This tab allow you to manage your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
+
+## Installed Actions (5)
+
+## Push history (6)
+
+## Shared Reports (7)
+
+{% content-ref url="../content-management/bulk-content-management.md" %}
+[bulk-content-management.md](../content-management/bulk-content-management.md)
+{% endcontent-ref %}
+
+## Unused Explorations (8)
+
+
+
+{% content-ref url="../content-management/bulk-content-management.md" %}
+[bulk-content-management.md](../content-management/bulk-content-management.md)
+{% endcontent-ref %}

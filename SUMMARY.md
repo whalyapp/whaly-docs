@@ -138,6 +138,7 @@
 
 * [📂 Folders](content-management/folders.md)
 * [⭐ Explorations Section](content-management/explorations-section.md)
+* [✂ Bulk Content Management](content-management/bulk-content-management.md)
 
 ## Embedding
 

@@ -2,13 +2,13 @@
 
 You can manage who has access to your org by going to the **settings page** and then to the **access management** page
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 On the access management page you can view all the users that have access to your org including Whaly Staff user that have access to your org for support purposes.
 
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can differentiate Whaly support team from your users by the **Whaly support team** tag as you can see above.&#x20;
 
@@ -22,7 +22,7 @@ Note that you won't be billed for the **Whaly support team** user access as we a
 
 You can grant access to anybody in your org by simply inviting them. In order to do so you can click on the **invite button** and fill the form to invite your user.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 When inviting a user you are asked to select a user role for your invited user. In order to understand what each role can do on the platform and how they are correlated to licensing you can check those articles.
 
@@ -36,7 +36,7 @@ When inviting a user you are asked to select a user role for your invited user. 
 
 Once this is done you'll see the invite appear in the access view.&#x20;
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Editing an invite</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Editing an invite</p></figcaption></figure>
 
 If your user has not received the invitation email you can check in their spam folder or send them directly the link to the invitation by clicking on the three dots and then **Copy invite link.** You can also **revoke** the invitation if needed.
 
