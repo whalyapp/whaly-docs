@@ -1,6 +1,6 @@
 # 🚀 Push
 
-With **Push**, you can configure an [Action](actions/) on your **Dashboards** or **Questions**. Once configured, Push can be either triggered manually or scheduled to run periodically.
+With **Push**, you can configure an [Action](actions-catalog/) on your **Dashboards** or **Questions**. Once configured, Push can be either triggered manually or scheduled to run periodically.
 
 **Push** is a great way to send any reporting and data insights done inside Whaly to your colleagues, investors or stakeholders (partners, customers, etc.).&#x20;
 
@@ -74,6 +74,6 @@ You can select the day of the Month on which the Push should be done:
 A push is sending data to a Destination. Available destinations are:
 
 * Email (no configuration needed)
-* [All previously installed action](actions/)
+* [All previously installed action](actions-catalog/)
 
 After selecting the Destination, you'll be prompted with the configuration form so that you can send the data to the proper place with the right credentials.

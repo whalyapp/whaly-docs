@@ -152,12 +152,12 @@
 ## Workflows
 
 * [🚀 Push](workflows/push.md)
-* [⚡ Actions](workflows/actions/README.md)
-  * [Airtable](workflows/actions/airtable.md)
-  * [Google Sheets](workflows/actions/google-sheets.md)
-  * [Slack](workflows/actions/slack.md)
-  * [Sendgrid](workflows/actions/sendgrid.md)
-  * [Webhook](workflows/actions/webhook.md)
+* [⚡ Actions catalog](workflows/actions-catalog/README.md)
+  * [Airtable](workflows/actions-catalog/airtable.md)
+  * [Google Sheets](workflows/actions-catalog/google-sheets.md)
+  * [Slack](workflows/actions-catalog/slack.md)
+  * [Sendgrid](workflows/actions-catalog/sendgrid.md)
+  * [Webhook](workflows/actions-catalog/webhook.md)
 
 ## Guides
 
