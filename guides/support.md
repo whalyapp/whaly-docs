@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # ⛑ Support
 
 ## How do I contact the support team?
