@@ -71,9 +71,9 @@
     * [Salesforce](sources/source-catalog/sales/salesforce.md)
 * [💭 Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
 
-## Technical Deep Dive
+## Platform
 
-* [💫 Caching](technical-deep-dive/caching.md)
+* [💫 Caching](platform/caching.md)
 
 ## Data Management
 
