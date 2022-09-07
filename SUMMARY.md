@@ -71,6 +71,10 @@
     * [Salesforce](sources/source-catalog/sales/salesforce.md)
 * [💭 Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
 
+## Technical Deep Dive
+
+* [💫 Caching](technical-deep-dive/caching.md)
+
 ## Data Management
 
 * [🛠 Workbench](data-management/workbench/README.md)
@@ -103,7 +107,6 @@
 
 ## Content management
 
-* [🔥 Data Freshness](content-management/data-freshness.md)
 * [📊 Dashboards](content-management/dashboards/README.md)
   * [🆕 Create a dashboard](content-management/dashboards/create-a-dashboard.md)
   * [🟦 Manage tiles](content-management/dashboards/manage-tiles/README.md)

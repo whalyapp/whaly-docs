@@ -13,7 +13,7 @@ Builder licence are usually given to member of the data team that will model dat
 
 ### Standard Licence
 
-Standard Licence are given to power business users that are capable of asking question through exploration and that are capable of creating dashboard. This licence is tied to dashboard creation in read only mode.&#x20;
+Standard Licence are given to power business users that are capable of asking question through exploration and that are capable of creating dashboard. This licence is tied to dashboard creation.&#x20;
 
 **User role associated**
 

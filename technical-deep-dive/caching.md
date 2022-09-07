@@ -1,4 +1,4 @@
-# 🔥 Data Freshness
+# 💫 Caching
 
 In order to keep Dashboards and Questions running fast, Whaly is caching their results in a low latency database for subsequent loads.
 
