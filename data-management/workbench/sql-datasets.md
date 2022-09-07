@@ -37,7 +37,7 @@ All SQL datasets are saved as a view in your warehouse, whenever the sql query i
 
 ## Writing SQL
 
-Whaly supports your warehouse SQL, so no need of learning another SQL flavor. But because we are running on top of your warehouse with our [access control layer](../../admin/manage-access-control.md),  we require you to use shorthands to reference tables.&#x20;
+Whaly supports your warehouse SQL, so no need of learning another SQL flavor. But because we are running on top of your warehouse with our [access control layer](../../organization/manage-access-control.md),  we require you to use shorthands to reference tables.&#x20;
 
 So, when you used to do:
 

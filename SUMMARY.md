@@ -2,6 +2,13 @@
 
 * [👏 Welcome to Whaly 🐳](README.md)
 
+## Organization
+
+* [🏫 What is an organization ?](organization/what-is-an-organization.md)
+* [🔑 Manage Access to your org](organization/manage-access-to-your-org.md)
+* [❓ Understanding Licences](organization/understanding-licences.md)
+* [👮 Understanding User Roles](organization/manage-access-control.md)
+
 ## Warehouse
 
 * [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
@@ -94,27 +101,27 @@
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [🔮 Forecasting](data-management/explorations/forecasting.md)
 
-## Visualization
+## Content management
 
-* [🔥 Data Freshness](visualization/data-freshness.md)
-* [📊 Dashboards](visualization/dashboards/README.md)
-  * [🆕 Create a dashboard](visualization/dashboards/create-a-dashboard.md)
-  * [🟦 Manage tiles](visualization/dashboards/manage-tiles/README.md)
-    * [📈 Add chart tiles](visualization/dashboards/manage-tiles/add-chart-tiles.md)
-    * [🔠 Add text tiles](visualization/dashboards/manage-tiles/add-text-tiles.md)
-    * [➡ Add navigation tiles](visualization/dashboards/manage-tiles/add-navigation-tiles.md)
-    * [🏗 Arranging tiles](visualization/dashboards/manage-tiles/arranging-tiles.md)
-  * [ℹ Add a description](visualization/dashboards/add-a-description.md)
-  * [🔎 Filter a dashboard](visualization/dashboards/filter-a-dashboard.md)
-  * [🔗 Share a report by link](visualization/dashboards/share-a-report-by-link.md)
-  * [⚡ Push dashboard](visualization/dashboards/push-dashboard.md)
-  * [🗑 Delete a report](visualization/dashboards/delete-a-report.md)
-* [📈 Questions](visualization/questions/README.md)
-  * [🆕 Create a question](visualization/questions/create-a-question.md)
-  * [ℹ Add a description](visualization/questions/add-a-description.md)
-  * [🔗 Share a question by link](visualization/questions/share-a-question-by-link.md)
-  * [⚡ Push question data](visualization/questions/push-question-data.md)
-  * [🗑 Delete a question](visualization/questions/delete-a-question.md)
+* [🔥 Data Freshness](content-management/data-freshness.md)
+* [📊 Dashboards](content-management/dashboards/README.md)
+  * [🆕 Create a dashboard](content-management/dashboards/create-a-dashboard.md)
+  * [🟦 Manage tiles](content-management/dashboards/manage-tiles/README.md)
+    * [📈 Add chart tiles](content-management/dashboards/manage-tiles/add-chart-tiles.md)
+    * [🔠 Add text tiles](content-management/dashboards/manage-tiles/add-text-tiles.md)
+    * [➡ Add navigation tiles](content-management/dashboards/manage-tiles/add-navigation-tiles.md)
+    * [🏗 Arranging tiles](content-management/dashboards/manage-tiles/arranging-tiles.md)
+  * [ℹ Add a description](content-management/dashboards/add-a-description.md)
+  * [🔎 Filter a dashboard](content-management/dashboards/filter-a-dashboard.md)
+  * [🔗 Share a report by link](content-management/dashboards/share-a-report-by-link.md)
+  * [⚡ Push dashboard](content-management/dashboards/push-dashboard.md)
+  * [🗑 Delete a report](content-management/dashboards/delete-a-report.md)
+* [📈 Questions](content-management/questions/README.md)
+  * [🆕 Create a question](content-management/questions/create-a-question.md)
+  * [ℹ Add a description](content-management/questions/add-a-description.md)
+  * [🔗 Share a question by link](content-management/questions/share-a-question-by-link.md)
+  * [⚡ Push question data](content-management/questions/push-question-data.md)
+  * [🗑 Delete a question](content-management/questions/delete-a-question.md)
 
 ## Embedding
 
@@ -136,10 +143,6 @@
   * [Slack](workflows/actions/slack.md)
   * [Sendgrid](workflows/actions/sendgrid.md)
   * [Webhook](workflows/actions/webhook.md)
-
-## User management <a href="#admin" id="admin"></a>
-
-* [👮 Access Control](admin/manage-access-control.md)
 
 ## Guides
 
