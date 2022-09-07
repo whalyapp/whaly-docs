@@ -1,8 +1,15 @@
 # 💫 Caching
 
-In order to keep Dashboards and Questions running fast, Whaly is caching their results in a low latency database for subsequent loads.
+In order to keep Dashboards and Questions running fast, Whaly is leveraging query result caching in a low latency database for subsequent loads.
 
-This is both useful for the BI consumers that can have quickly access for the numbers without waiting and for your Data Warehouse bill as this reduce your querying cost.
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+
+This is particularly useful :
+
+* Getting quick access to your charts and figures without waiting for your warehouse response
+* Reducing your Data Warehouse bill as this reduce your querying cost.
+
+### Cache implementation
 
 However, in order to get access of the latest version of the data, Whaly is continuously scanning your raw tables to identify any change on the data.
 
@@ -12,8 +19,8 @@ Hence, please add a `_whaly_synced` column in your models to get the best data f
 
 All the tables loaded by Whaly connectors are including this column by default so when using directly the output of a Whaly connector, everything is already setup!
 
-{% hint style="info" %}
+### Manually refreshing the cache
+
 By clicking on the refresh 🔁 icon of the dashboard and question, the cache is invalidated instantly, queries are being run on your data warehouse and your results are up to date!
 
 So if you have a doubt on the freshness of a chart, don't hesitate to refresh it!
-{% endhint %}
