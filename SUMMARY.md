@@ -144,4 +144,3 @@
 ## Guides
 
 * [⛑ Support](guides/support.md)
-* [👍 Help portal](guides/help-portal.md)

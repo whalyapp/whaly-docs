@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # ⛑ Support
 
 ## How do I contact the support team?
