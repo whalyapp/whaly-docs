@@ -15,3 +15,7 @@ The catalog page allow you to browse our Sources, Warehouses and Actions catalog
 {% content-ref url="../warehouse/connect-your-warehouse.md" %}
 [connect-your-warehouse.md](../warehouse/connect-your-warehouse.md)
 {% endcontent-ref %}
+
+{% content-ref url="../data-management/explorations/exploration-templates.md" %}
+[exploration-templates.md](../data-management/explorations/exploration-templates.md)
+{% endcontent-ref %}

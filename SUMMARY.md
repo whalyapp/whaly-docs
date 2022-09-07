@@ -93,6 +93,7 @@
   * [🧞♂ Import Tables from your Data Warehouse](data-management/workbench/import-tables-from-your-data-warehouse.md)
 * [🧭 Explorations](data-management/explorations/README.md)
   * [🆕 Create an exploration](data-management/explorations/create-an-exploration.md)
+  * [🪄 Exploration Templates](data-management/explorations/exploration-templates.md)
   * [🔢 Add metrics](data-management/explorations/add-metrics/README.md)
     * [💯 Using custom format](data-management/explorations/add-metrics/using-custom-format.md)
   * [🎲 Add dimensions](data-management/explorations/add-dimensions.md)
@@ -111,11 +112,6 @@
     * [Worldmap chart](data-management/explorations/create-a-chart/worldmap-chart.md)
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [🔮 Forecasting](data-management/explorations/forecasting.md)
-
-## Content management
-
-* [📂 Folders](content-management/folders.md)
-* [⭐ Explorations Section](content-management/explorations-section.md)
 
 ## Data consumption
 
@@ -137,6 +133,11 @@
   * [🔗 Share a question by link](content-management/questions/share-a-question-by-link.md)
   * [⚡ Push question data](content-management/questions/push-question-data.md)
   * [🗑 Delete a question](content-management/questions/delete-a-question.md)
+
+## Content management
+
+* [📂 Folders](content-management/folders.md)
+* [⭐ Explorations Section](content-management/explorations-section.md)
 
 ## Embedding
 
