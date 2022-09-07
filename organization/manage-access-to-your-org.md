@@ -2,7 +2,7 @@
 
 You can manage who has access to your org by going to the **settings page** and then to the **access management** page
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 On the access management page you can view all the users that have access to your org including Whaly Staff user that have access to your org for support purposes.
 
@@ -18,7 +18,7 @@ Note that you won't be billed for the **Whaly support team** user access as we a
 
 ### Granting access to your org
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Access management page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Access management page</p></figcaption></figure>
 
 You can grant access to anybody in your org by simply inviting them. In order to do so you can click on the **invite button** and fill the form to invite your user.&#x20;
 
@@ -48,6 +48,6 @@ Once a user has accepted your invitation they will appear in the list as a regul
 You can remove **Whaly support team** from your org so your keep things more private
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 You can remove at any time any users from your org by simply clicking on the three little dot next to a user that has accepted the invitation. From there you can either delete the user from your org or change it's user role.

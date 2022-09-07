@@ -14,7 +14,7 @@ As Whaly is having an holistic view of your data (Database, Support, Finance, Ma
 
 ## Embed a Whaly question in a Hubspot report
 
-1. On Whaly 🐳, generate a sharing link for the report you wish to embed. [You can learn more here.](../../data-consumption/dashboards/share-a-report-by-link.md)
+1. On Whaly 🐳, generate a sharing link for the report you wish to embed. [You can learn more here.](../../content-management/dashboards/share-a-report-by-link.md)
 2. On Hubspot, open the report in which you wish to embed your report and click on "Actions 🔽" button at the top right of the screen.
 
 ![](<../../.gitbook/assets/image (192).png>)

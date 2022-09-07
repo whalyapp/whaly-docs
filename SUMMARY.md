@@ -32,6 +32,7 @@
 ## Sources
 
 * [🔌 Connect your Sources](sources/how-sources-work.md)
+* [🧙 Source monitoring](sources/source-monitoring.md)
 * [🎁 Source catalog](sources/source-catalog/README.md)
   * [Community](sources/source-catalog/community/README.md)
     * [Github Stars](sources/source-catalog/community/github-stars.md)
@@ -118,24 +119,24 @@
 
 ## Data consumption
 
-* [📊 Dashboards](data-consumption/dashboards/README.md)
-  * [🆕 Create a dashboard](data-consumption/dashboards/create-a-dashboard.md)
-  * [🟦 Manage tiles](data-consumption/dashboards/manage-tiles/README.md)
-    * [📈 Add chart tiles](data-consumption/dashboards/manage-tiles/add-chart-tiles.md)
-    * [🔠 Add text tiles](data-consumption/dashboards/manage-tiles/add-text-tiles.md)
-    * [➡ Add navigation tiles](data-consumption/dashboards/manage-tiles/add-navigation-tiles.md)
-    * [🏗 Arranging tiles](data-consumption/dashboards/manage-tiles/arranging-tiles.md)
-  * [ℹ Add a description](data-consumption/dashboards/add-a-description.md)
-  * [🔎 Filter a dashboard](data-consumption/dashboards/filter-a-dashboard.md)
-  * [🔗 Share a report by link](data-consumption/dashboards/share-a-report-by-link.md)
-  * [⚡ Push dashboard](data-consumption/dashboards/push-dashboard.md)
-  * [🗑 Delete a report](data-consumption/dashboards/delete-a-report.md)
-* [📈 Questions](data-consumption/questions/README.md)
-  * [🆕 Create a question](data-consumption/questions/create-a-question.md)
-  * [ℹ Add a description](data-consumption/questions/add-a-description.md)
-  * [🔗 Share a question by link](data-consumption/questions/share-a-question-by-link.md)
-  * [⚡ Push question data](data-consumption/questions/push-question-data.md)
-  * [🗑 Delete a question](data-consumption/questions/delete-a-question.md)
+* [📊 Dashboards](content-management/dashboards/README.md)
+  * [🆕 Create a dashboard](content-management/dashboards/create-a-dashboard.md)
+  * [🟦 Manage tiles](content-management/dashboards/manage-tiles/README.md)
+    * [📈 Add chart tiles](content-management/dashboards/manage-tiles/add-chart-tiles.md)
+    * [🔠 Add text tiles](content-management/dashboards/manage-tiles/add-text-tiles.md)
+    * [➡ Add navigation tiles](content-management/dashboards/manage-tiles/add-navigation-tiles.md)
+    * [🏗 Arranging tiles](content-management/dashboards/manage-tiles/arranging-tiles.md)
+  * [ℹ Add a description](content-management/dashboards/add-a-description.md)
+  * [🔎 Filter a dashboard](content-management/dashboards/filter-a-dashboard.md)
+  * [🔗 Share a report by link](content-management/dashboards/share-a-report-by-link.md)
+  * [⚡ Push dashboard](content-management/dashboards/push-dashboard.md)
+  * [🗑 Delete a report](content-management/dashboards/delete-a-report.md)
+* [📈 Questions](content-management/questions/README.md)
+  * [🆕 Create a question](content-management/questions/create-a-question.md)
+  * [ℹ Add a description](content-management/questions/add-a-description.md)
+  * [🔗 Share a question by link](content-management/questions/share-a-question-by-link.md)
+  * [⚡ Push question data](content-management/questions/push-question-data.md)
+  * [🗑 Delete a question](content-management/questions/delete-a-question.md)
 
 ## Embedding
 

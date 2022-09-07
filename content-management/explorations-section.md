@@ -22,7 +22,7 @@ You can give your section a name and an icon.
 
 You can move sections around to change your company explorations structure, this will update to all users in real time.
 
-<figure><img src="../.gitbook/assets/Screen Cast 2022-09-07 at 4.44.52 PM.gif" alt=""><figcaption><p>Move a section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Cast 2022-09-07 at 4.44.52 PM (1).gif" alt=""><figcaption><p>Move a section</p></figcaption></figure>
 
 ## Update / Delete a section
 
