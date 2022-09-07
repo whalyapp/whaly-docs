@@ -8,7 +8,7 @@ By integrating with Clickup, Whaly is giving you the ability to embed reports di
 
 ## Embed a Whaly report/question in a Notion page
 
-1. On Whaly 🐳, generate a sharing link for the report you wish to embed. [You can learn more here.](../../content-management/dashboards/share-a-report-by-link.md)
+1. On Whaly 🐳, generate a sharing link for the report you wish to embed. [You can learn more here.](../../data-consumption/dashboards/share-a-report-by-link.md)
 2. On Clickup, open the page in which you wish to embed your report and type `/` to list the blocks that you can integrate within Notion. Select the "**Embed**" block type.
 3. In the link input, paste the public sharing link of your report. And click on the "SAVE" button to validate.
 
