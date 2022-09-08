@@ -16,4 +16,4 @@ Whaly recommend to use the native Amplitude connector to your Data Warehouse:
 * [For BigQuery](https://www.docs.developers.amplitude.com/data/destinations/bigquery/)
 * [For Snowflake](https://www.docs.developers.amplitude.com/data/destinations/snowflake/)
 
-Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](../../../data-management/workbench/import-tables-from-your-data-warehouse.md).
+Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](broken-reference).

@@ -1,6 +1,6 @@
 # ✏ Workspace
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Example of a workspace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Example of a workspace</p></figcaption></figure>
 
 The workspace is what you access when you want to consume content from Whaly. The workspace is comprised of three main areas from the left to the right:
 

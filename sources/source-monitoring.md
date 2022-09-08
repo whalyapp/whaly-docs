@@ -24,7 +24,7 @@ A source can be in error when we deal with issues of connectivity of if somethin
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Source alerts</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Source alerts</p></figcaption></figure>
 
 ### Execution log
 
@@ -32,7 +32,7 @@ In order for you to troubleshoot your execution, we provide you with the full lo
 
 
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Source logs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Source logs</p></figcaption></figure>
 
 ## &#x20;Selective sync
 

@@ -34,7 +34,7 @@ Then click on **API documentation**.
 
 You will find your **Base ID** at the top of the page 🎯
 
-![](<../../../.gitbook/assets/image (9) (1).png>)
+![](<../../../.gitbook/assets/image (9) (1) (1).png>)
 
 ### 2. Get your Base Sharing Link
 

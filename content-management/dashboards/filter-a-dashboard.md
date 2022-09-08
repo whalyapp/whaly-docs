@@ -37,6 +37,6 @@ The option is useful when used with [sharing links](share-a-report-by-link.md), 
 
 ### **Developer Settings**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 You can give an api name to your filter so you can control its value when using the report in [embedded](../../embedding/embedding-api.md#access-your-filters-api-name) mode.

@@ -4,7 +4,6 @@ An org is a home for all content that will be created on Whaly, imagine it as a 
 
 ### How to switch org ?
 
-If you have access to multiple orgs you can switch org by clicking on your profile picture and then on  Change Organization.
+If you have access to multiple orgs you can switch org by clicking on your **profile picture** and then on  **Change Organization**.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Switch org</p></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Switch org</p></figcaption></figure>

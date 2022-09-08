@@ -2,7 +2,7 @@
 
 You can manage who has access to your org by going to the **settings page** and then to the **access management** page
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Settings</p></figcaption></figure>
 
 On the access management page you can view all the users that have access to your org including Whaly Staff user that have access to your org for support purposes.
 

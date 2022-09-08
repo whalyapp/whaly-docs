@@ -16,4 +16,4 @@ Whaly recommend to use the native Segment connector to your Data Warehouse:
 * [For BigQuery](https://segment.com/docs/connections/storage/catalog/bigquery/)
 * [For Snowflake](https://segment.com/docs/connections/storage/catalog/snowflake/)
 
-Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](../../../data-management/workbench/import-tables-from-your-data-warehouse.md).
+Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](broken-reference).

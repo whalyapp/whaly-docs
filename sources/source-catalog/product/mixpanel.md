@@ -16,4 +16,4 @@ Whaly recommend to use the native MixPanel connector to your Data Warehouse:
 * [For BigQuery](https://developer.mixpanel.com/docs/mixpanel-bigquery-export-design)
 * [For Snowflake](https://developer.mixpanel.com/docs/mixpanel-snowflake-export)
 
-Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](../../../data-management/workbench/import-tables-from-your-data-warehouse.md).
+Once the data will be loading in your Data Warehouse, [you'll be able to import it into Whaly](broken-reference).

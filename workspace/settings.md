@@ -24,7 +24,7 @@ This gives you access to a dashboard to view your consumption from a source pers
 
 This tab allow you to view / edit your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
