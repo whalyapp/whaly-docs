@@ -24,13 +24,21 @@ This gives you access to a dashboard to view your consumption from a source pers
 
 This tab allow you to view / edit your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Installed Actions (5)
 
+{% content-ref url="../workflows/manage-installed-actions.md" %}
+[manage-installed-actions.md](../workflows/manage-installed-actions.md)
+{% endcontent-ref %}
+
 ## Push history (6)
+
+{% content-ref url="../workflows/push/manage-push.md" %}
+[manage-push.md](../workflows/push/manage-push.md)
+{% endcontent-ref %}
 
 ## Shared Reports (7)
 

@@ -2,7 +2,7 @@
 
 You can manage your Push from the Settings screen. To go the the push management screen you can click on **Settings** and then click on **Push History.**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Push history</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Push history</strong></p></figcaption></figure>
 
 From this screen you can list all set up push in your org. Quickly identify which report has a push setup. And view a list of Push execution.
 
