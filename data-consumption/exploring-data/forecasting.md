@@ -4,7 +4,7 @@ description: >-
   uses machine learning techniques to output the probable future.
 ---
 
-# 🔮 Forecasting
+# Forecasting
 
 ## How to create a forecast
 

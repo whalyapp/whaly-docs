@@ -1,4 +1,4 @@
-# 🎲 Add dimensions
+# Dimensions
 
 ## What is a dimension ?
 

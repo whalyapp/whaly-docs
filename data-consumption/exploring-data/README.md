@@ -11,6 +11,10 @@ Learn:
 [how-to-explore-data.md](how-to-explore-data.md)
 {% endcontent-ref %}
 
-{% content-ref url="chart-your-data/" %}
-[chart-your-data](chart-your-data/)
+{% content-ref url="../../data-management/explorations/create-a-chart/" %}
+[create-a-chart](../../data-management/explorations/create-a-chart/)
+{% endcontent-ref %}
+
+{% content-ref url="forecasting.md" %}
+[forecasting.md](forecasting.md)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# 🔢 Add metrics
+# Metrics
 
 ## What is a metric ?
 

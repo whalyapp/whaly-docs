@@ -1,4 +1,4 @@
-# 🔗 Add related data
+# Add related data
 
 Whenever you want to combine data from different datasets you can use related data. In order to do so, click on the "+" button and click on "add related data".
 

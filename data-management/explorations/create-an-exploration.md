@@ -1,4 +1,4 @@
-# 🆕 Create an exploration
+# Create an exploration
 
 To create an exploration, click on the Explore button at the top of the homepage, then click on the "+" sign, and click on create an exploration :&#x20;
 

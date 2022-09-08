@@ -1,2 +1,2 @@
-# 🪄 Exploration Templates
+# Exploration Templates
 
