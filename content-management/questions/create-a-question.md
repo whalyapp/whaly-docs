@@ -1,4 +1,4 @@
-# 🆕 Create a question
+# Create a question
 
 To create a question, go to an exploration, create a chart, then click on the "Save" button. Then, select "Save as question".
 

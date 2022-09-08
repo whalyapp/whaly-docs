@@ -1,4 +1,4 @@
-# 🆕 Create a dashboard
+# Create a dashboard
 
 ## How to create a dashboard
 

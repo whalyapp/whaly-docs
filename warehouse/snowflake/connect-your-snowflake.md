@@ -1,4 +1,4 @@
-# 🔗 Connect your Snowflake
+# Connect your Snowflake
 
 
 

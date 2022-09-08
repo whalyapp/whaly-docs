@@ -9,25 +9,21 @@
 * [❓ Understanding Licences](organization/understanding-licences.md)
 * [👮 Understanding User Roles](organization/manage-access-control.md)
 
-## Warehouse
-
-* [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
-* [🔷 BigQuery](warehouse/bigquery/README.md)
-  * [🔗 Connect your BigQuery](warehouse/bigquery/connect-your-bigquery.md)
-  * [🧹 Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
-* [❄ Snowflake](warehouse/snowflake/README.md)
-  * [🔗 Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
-  * [🗝 Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
-
-## Platform
-
-* [💫 Caching](technical-deep-dive/caching.md)
-
 ## Workspace
 
 * [✏ Workspace](workspace/workspace.md)
 * [📗 Catalog](workspace/catalog.md)
 * [⚙ Settings](workspace/settings.md)
+
+## Warehouse
+
+* [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
+* [🔷 BigQuery](warehouse/bigquery/README.md)
+  * [Connect your BigQuery](warehouse/bigquery/connect-your-bigquery.md)
+  * [Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
+* [❄ Snowflake](warehouse/snowflake/README.md)
+  * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
+  * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
 
 ## Sources
 
@@ -98,41 +94,44 @@
     * [💯 Using custom format](data-management/explorations/add-metrics/using-custom-format.md)
   * [🎲 Add dimensions](data-management/explorations/add-dimensions.md)
   * [🔗 Add related data](data-management/explorations/add-related-data.md)
-  * [📈 Create a chart](data-management/explorations/create-a-chart/README.md)
-    * [Metric chart](data-management/explorations/create-a-chart/metric-chart.md)
-    * [Gauge chart](data-management/explorations/create-a-chart/gauge-chart.md)
-    * [Line chart](data-management/explorations/create-a-chart/line-chart.md)
-    * [Bar chart](data-management/explorations/create-a-chart/bar-chart.md)
-    * [Pie chart](data-management/explorations/create-a-chart/pie-chart.md)
-    * [Table chart](data-management/explorations/create-a-chart/table-chart.md)
-    * [Funnel chart](data-management/explorations/create-a-chart/funnel-chart.md)
-    * [Waterfall chart](data-management/explorations/create-a-chart/waterfall-chart.md)
-    * [Heatmap chart](data-management/explorations/create-a-chart/heatmap-chart.md)
-    * [Map chart](data-management/explorations/create-a-chart/map-chart.md)
-    * [Worldmap chart](data-management/explorations/create-a-chart/worldmap-chart.md)
-    * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [🔮 Forecasting](data-management/explorations/forecasting.md)
 
 ## Data consumption
 
+* [💹 What is a Report?](data-consumption/what-is-a-report.md)
+* [💡 Exploring data](data-consumption/exploring-data/README.md)
+  * [How to explore data](data-consumption/exploring-data/how-to-explore-data.md)
+  * [Chart your data](data-consumption/exploring-data/chart-your-data/README.md)
+    * [Metric chart](data-consumption/exploring-data/chart-your-data/metric-chart.md)
+    * [Gauge chart](data-consumption/exploring-data/chart-your-data/gauge-chart.md)
+    * [Line chart](data-consumption/exploring-data/chart-your-data/line-chart.md)
+    * [Bar chart](data-consumption/exploring-data/chart-your-data/bar-chart.md)
+    * [Pie chart](data-consumption/exploring-data/chart-your-data/pie-chart.md)
+    * [Table chart](data-consumption/exploring-data/chart-your-data/table-chart.md)
+    * [Funnel chart](data-consumption/exploring-data/chart-your-data/funnel-chart.md)
+    * [Waterfall chart](data-consumption/exploring-data/chart-your-data/waterfall-chart.md)
+    * [Heatmap chart](data-consumption/exploring-data/chart-your-data/heatmap-chart.md)
+    * [Map chart](data-consumption/exploring-data/chart-your-data/map-chart.md)
+    * [Worldmap chart](data-consumption/exploring-data/chart-your-data/worldmap-chart.md)
+    * [Custom time format in time series](data-consumption/exploring-data/chart-your-data/custom-time-format-in-time-series.md)
 * [📊 Dashboards](content-management/dashboards/README.md)
-  * [🆕 Create a dashboard](content-management/dashboards/create-a-dashboard.md)
-  * [🟦 Manage tiles](content-management/dashboards/manage-tiles/README.md)
-    * [📈 Add chart tiles](content-management/dashboards/manage-tiles/add-chart-tiles.md)
-    * [🔠 Add text tiles](content-management/dashboards/manage-tiles/add-text-tiles.md)
-    * [➡ Add navigation tiles](content-management/dashboards/manage-tiles/add-navigation-tiles.md)
-    * [🏗 Arranging tiles](content-management/dashboards/manage-tiles/arranging-tiles.md)
-  * [ℹ Add a description](content-management/dashboards/add-a-description.md)
-  * [🔎 Filter a dashboard](content-management/dashboards/filter-a-dashboard.md)
-  * [🔗 Share a report by link](content-management/dashboards/share-a-report-by-link.md)
-  * [⚡ Push dashboard](content-management/dashboards/push-dashboard.md)
-  * [🗑 Delete a report](content-management/dashboards/delete-a-report.md)
+  * [Create a dashboard](content-management/dashboards/create-a-dashboard.md)
+  * [Manage tiles](content-management/dashboards/manage-tiles/README.md)
+    * [Add chart tiles](content-management/dashboards/manage-tiles/add-chart-tiles.md)
+    * [Add text tiles](content-management/dashboards/manage-tiles/add-text-tiles.md)
+    * [Add navigation tiles](content-management/dashboards/manage-tiles/add-navigation-tiles.md)
+    * [Arranging tiles](content-management/dashboards/manage-tiles/arranging-tiles.md)
+  * [Add a description](content-management/dashboards/add-a-description.md)
+  * [Filter a dashboard](content-management/dashboards/filter-a-dashboard.md)
+  * [Share a report by link](content-management/dashboards/share-a-report-by-link.md)
+  * [Push dashboard](content-management/dashboards/push-dashboard.md)
+  * [Delete a dashboard](data-consumption/dashboards/delete-a-dashboard.md)
 * [📈 Questions](content-management/questions/README.md)
-  * [🆕 Create a question](content-management/questions/create-a-question.md)
-  * [ℹ Add a description](content-management/questions/add-a-description.md)
-  * [🔗 Share a question by link](content-management/questions/share-a-question-by-link.md)
-  * [⚡ Push question data](content-management/questions/push-question-data.md)
-  * [🗑 Delete a question](content-management/questions/delete-a-question.md)
+  * [Create a question](content-management/questions/create-a-question.md)
+  * [Add a description](content-management/questions/add-a-description.md)
+  * [Share a question by link](content-management/questions/share-a-question-by-link.md)
+  * [Push question data](content-management/questions/push-question-data.md)
+  * [Delete a question](content-management/questions/delete-a-question.md)
 
 ## Content management
 
@@ -163,6 +162,10 @@
   * [Slack](workflows/actions-catalog/slack.md)
   * [Sendgrid](workflows/actions-catalog/sendgrid.md)
   * [Webhook](workflows/actions-catalog/webhook.md)
+
+## Platform concepts
+
+* [💫 Caching](platform-concepts/caching.md)
 
 ## Guides
 

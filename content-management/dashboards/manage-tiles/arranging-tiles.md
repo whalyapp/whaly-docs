@@ -1,4 +1,4 @@
-# 🏗 Arranging tiles
+# Arranging tiles
 
 When in edit mode, it's easy to :&#x20;
 

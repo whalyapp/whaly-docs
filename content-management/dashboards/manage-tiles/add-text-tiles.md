@@ -1,4 +1,4 @@
-# 🔠 Add text tiles
+# Add text tiles
 
 You can add text tiles to a report to give some context to a dashboard, add explanations or even better structure your dashboards.
 

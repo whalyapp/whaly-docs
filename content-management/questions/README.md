@@ -14,7 +14,7 @@ Questions share some features with dashboards, such as :&#x20;
 
 * [Add a description](../dashboards/add-a-description.md)
 * [Share a report by link](../dashboards/share-a-report-by-link.md)
-* [Delete a report](../dashboards/delete-a-report.md)
+* [Delete a report](../../data-consumption/dashboards/delete-a-dashboard.md)
 
 ## Questions tabs
 

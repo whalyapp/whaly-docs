@@ -1,4 +1,4 @@
-# 🧹 Configure a Cloud Storage cleaning rule
+# Configure a Cloud Storage cleaning rule
 
 In order to keep the amount of data stored in the bucket that you created for the connectors, you can follow the following steps to create a Cleaning Rule that will automatically delete any files in the Bucket after 15 days.
 

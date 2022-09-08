@@ -1,3 +1,3 @@
-# 🗑 Delete a question
+# Delete a question
 
-Deleting a question is the same as deleting a dashboard. [Read the article here](../dashboards/delete-a-report.md).
+Deleting a question is the same as deleting a dashboard. [Read the article here](../../data-consumption/dashboards/delete-a-dashboard.md).

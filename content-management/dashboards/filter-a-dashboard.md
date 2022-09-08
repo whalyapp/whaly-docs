@@ -1,4 +1,4 @@
-# 🔎 Filter a dashboard
+# Filter a dashboard
 
 In some situation you might want to create slight variations of the same report, for example to change the observed period or the current customer.&#x20;
 

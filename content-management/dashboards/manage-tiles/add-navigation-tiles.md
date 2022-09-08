@@ -1,4 +1,4 @@
-# ➡ Add navigation tiles
+# Add navigation tiles
 
 Navigation tiles allow you to add buttons to a report. These buttons can link to other reports or to external links on the web.
 

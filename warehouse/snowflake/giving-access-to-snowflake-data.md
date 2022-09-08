@@ -1,4 +1,4 @@
-# 🗝 Giving access to Snowflake data
+# Giving access to Snowflake data
 
 By default, the Whaly platform only has access to data that was imported using Whaly connectors.
 

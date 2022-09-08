@@ -1,4 +1,4 @@
-# 📈 Add chart tiles
+# Add chart tiles
 
 There are two ways to add a chart to a dashboard:
 

@@ -1,4 +1,4 @@
-# 🔗 Share a report by link
+# Share a report by link
 
 Whaly offers 2 ways of sharing a report:
 

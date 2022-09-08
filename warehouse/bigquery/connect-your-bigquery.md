@@ -1,4 +1,4 @@
-# 🔗 Connect your BigQuery
+# Connect your BigQuery
 
 In order to connect your BigQuery instance, Whaly needs to be connected with your Google Cloud Instance. This guide will details the necessary steps:
 
