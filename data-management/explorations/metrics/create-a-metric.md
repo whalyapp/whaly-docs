@@ -20,7 +20,7 @@ You can also add a filter to your metric in order precisely defined which lines 
 
 ### Format your metric
 
-The second step will ask you to select a format for your metric. You can set a custom prefix or suffit (useful for currency, weight, ...), or you can take things a step further by [using the custom format](using-custom-formatting.md) feature.
+The second step will ask you to select a format for your metric. You can set a custom prefix or suffit (useful for currency, weight, ...), or you can take things a step further by [using the custom format](../add-metrics/using-custom-format.md) feature.
 
 ![](<../../../.gitbook/assets/image (205).png>)
 

@@ -93,8 +93,8 @@
   * [Metrics](data-management/explorations/add-metrics/README.md)
     * [Create a Metric](data-management/explorations/metrics/create-a-metric.md)
     * [Create a Calculated Metric](data-management/explorations/metrics/create-a-calculated-metric.md)
-    * [Using custom formatting](data-management/explorations/metrics/using-custom-formatting.md)
-  * [Dimensions](data-management/explorations/dimensions/README.md)
+    * [Using custom formatting](data-management/explorations/add-metrics/using-custom-format.md)
+  * [Dimensions](data-management/explorations/add-dimensions.md)
     * [Create a dimension](data-management/explorations/dimensions/create-a-dimension.md)
   * [Add related data](data-management/explorations/add-related-data.md)
 

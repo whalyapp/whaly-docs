@@ -4,7 +4,7 @@ Whenever you want to combine data from different datasets you can use related da
 
 ![click on add related data](<../../.gitbook/assets/image (44).png>)
 
-Once you have done that, you should see a menu presenting you with all the dataset related to the one you have selected.&#x20;
+Once you have done that, you should see a menu presenting you with all the dataset related to the one you have selected. We based related data on the relationships that have been created in the workbench between your datasets.
 
 ![Adding related data](<../../.gitbook/assets/image (45).png>)
 

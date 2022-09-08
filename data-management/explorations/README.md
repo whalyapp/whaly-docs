@@ -8,9 +8,14 @@ description: >-
 
 ## What are explorations ?
 
-Explorations sits between your data and your reports. It is a place where you transform your raw data into charts by defining measures, dimensions and related data.
+Exploration are a combinations of datasets, relationships and aggregations put together so that your data consumer can safely combine data and create reports without relying on technical expertise.
+
+This help you:
+
+* Boost data adoption by providing a product to your end users
+* Make your user more data savvy by giving them tools they understand
+* Maintain your company metric layer by controlling how data is being queried
+* Reduce maintenance when definition change - when updating a metric or a dimension all reports are subsequently updated with your changes.
 
 An exploration is the entry point to create charts in Whaly.
-
-##
 
