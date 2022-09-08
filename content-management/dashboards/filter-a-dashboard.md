@@ -32,3 +32,11 @@ When adding new tiles to a report, you should update the tiles to update section
 When creating or editing filters, you can select the "Hide your filter from the report" option. This will prevent users to change the filter value.
 
 The option is useful when used with [sharing links](share-a-report-by-link.md), in order to give a different default value to a filter based on the sharing link.
+
+
+
+### **Developer Settings**
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+You can give an api name to your filter so you can control its value when using the report in [embedded](../../embedding/embedding-api.md#access-your-filters-api-name) mode.
