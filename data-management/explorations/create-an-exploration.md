@@ -2,13 +2,17 @@
 
 To create an exploration, click on the Explore button at the top of the homepage, then click on the "+" sign, and click on create an exploration :&#x20;
 
-![](<../../.gitbook/assets/create exploration.gif>)
+![](<../../.gitbook/assets/Screen Cast 2022-09-08 at 11.04.46 AM (1).gif>)
 
 ## Create an exploration from a template
 
 Creating an exploration from a template is the easiest way to get started, as it will allow you to get an exploration with already defined measures, dimensions and related datasets.
 
 To create an exploration from a template, go to the template catalog, select the template you want to use and then click on "Use this template". You will be redirected to the newly created exploration.
+
+{% content-ref url="exploration-templates.md" %}
+[exploration-templates.md](exploration-templates.md)
+{% endcontent-ref %}
 
 ## Create an exploration from scratch
 

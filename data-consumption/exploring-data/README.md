@@ -15,6 +15,6 @@ Learn:
 [create-a-chart](../../data-management/explorations/create-a-chart/)
 {% endcontent-ref %}
 
-{% content-ref url="forecasting.md" %}
-[forecasting.md](forecasting.md)
+{% content-ref url="../../data-management/explorations/forecasting.md" %}
+[forecasting.md](../../data-management/explorations/forecasting.md)
 {% endcontent-ref %}
