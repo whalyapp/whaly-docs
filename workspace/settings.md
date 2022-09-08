@@ -22,7 +22,11 @@ This gives you access to a dashboard to view your consumption from a source pers
 
 ## Warehouse (4)
 
-This tab allow you to manage your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
+This tab allow you to view / edit your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Installed Actions (5)
 

@@ -153,7 +153,9 @@
 
 ## Workflows
 
-* [🚀 Push](workflows/push.md)
+* [🚀 Push](workflows/push/README.md)
+  * [Configure a Push](workflows/push/configure-a-push.md)
+  * [Manage Push](workflows/push/manage-push.md)
 * [⚡ Actions catalog](workflows/actions-catalog/README.md)
   * [Airtable](workflows/actions-catalog/airtable.md)
   * [Google Sheets](workflows/actions-catalog/google-sheets.md)
