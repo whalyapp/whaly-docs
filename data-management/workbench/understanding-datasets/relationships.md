@@ -19,13 +19,13 @@ In order to add a relationship you need to provide:
 * A column from the current dataset&#x20;
 * A column from the related dataset that will match the one selected above in values and in type (example => String can only match String columns)
 * A type of relationship&#x20;
-  * Has one&#x20;
   * Has many
-  * &#x20;Belongs to
+  * Belongs to
+  * Has one
 
 ## Understanding Relationship Type
 
-Let's imagine we have the three following tables
+Let's imagine we have the three following tables:
 
 **Orders**
 
@@ -57,30 +57,40 @@ Let's imagine we have the three following tables
 | 2           | Penthouse NYC        |
 ```
 
-In this example a User has only one address and has multiple orders therefore when setting up relationships we will do:
+In this example a User has multiple orders therefore when setting up relationships we will do:
 
 **Relationship 1:**
 
-* **from dataset**: User
-* **to dataset:** Address
-* **Type** has one
-* **From Column**: address\_id
-* **To column**: : address\_id
-
-**Relationship 2:**
-
-* **from dataset**: User
-* **to dataset:** Order
+* **From dataset**: User
+* **To dataset:** Order
 * **Type** has many
 * **From Column**: user\_id
 * **To column**: : user\_id
 
-Please note that has many is the oposite of belongs to, therefore this relationship would have been legit too.
+Please note that **"has many"** is the opposite of **"belongs to"**, therefore this relationship would have been legit too:
 
-**Relationship 3:**
+**Relationship 2:**
 
-* **from dataset**: Order
-* **to dataset:** User
+* **From dataset**: Order
+* **To dataset:** User
 * **Type** belongs to
 * **From Column**: user\_id
 * **To column**: : user\_id
+
+{% hint style="info" %}
+Whenever a relationship is created, the symmetric relationship is automatically created on the other dataset.
+{% endhint %}
+
+As we have the same number of rows in both the Users and Address as a User can have a single Address and vice versa, we will create a one to one relationship:
+
+**Relationship 3:**
+
+* **From dataset**: User
+* **To dataset:** Address
+* **Type:** has one
+* **From Column**: address\_id
+* **To column**: address\_id
+
+{% hint style="warning" %}
+The "has one" relationship is quite rare in real world, it's relevant when you have exactly the same number of rows in the two related datasets.
+{% endhint %}

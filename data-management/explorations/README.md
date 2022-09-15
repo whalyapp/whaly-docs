@@ -6,7 +6,7 @@ description: >-
 
 # 🧭 Explorations
 
-## What are explorations ?
+## What are explorations?
 
 Exploration are a combinations of datasets, relationships and aggregations put together so that your data consumer can safely combine data and create reports without relying on technical expertise.
 
