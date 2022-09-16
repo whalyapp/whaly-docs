@@ -87,6 +87,7 @@
     * [Drills](data-management/workbench/understanding-datasets/drills.md)
     * [Relationships](data-management/workbench/understanding-datasets/relationships.md)
     * [Primary Keys](data-management/workbench/understanding-datasets/primary-keys.md)
+    * [Cache](data-management/workbench/understanding-datasets/cache.md)
   * [Model Data](data-management/workbench/model-data/README.md)
     * [SQL Models](data-management/workbench/model-data/sql-models.md)
     * [Flow Models](data-management/workbench/model-data/flow-models/README.md)
