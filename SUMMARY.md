@@ -28,6 +28,7 @@
 ## Sources
 
 * [🔌 Connect your Sources](sources/how-sources-work.md)
+* [🏄 Schema drift](sources/schema-drift.md)
 * [🧙 Source monitoring](sources/source-monitoring.md)
 * [🎁 Source catalog](sources/source-catalog/README.md)
   * [Community](sources/source-catalog/community/README.md)
