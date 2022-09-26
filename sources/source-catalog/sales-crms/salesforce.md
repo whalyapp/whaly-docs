@@ -33,6 +33,12 @@ Syncing your Salesforce can be useful for various use cases:
 
 **Add custom objects**
 
+{% hint style="info" %}
+In order to save API calls done to your Salesforce instance, the Salesforce connector will ask you to fill an "Allowlist" with the name of the objects that you wish to sync.
+
+Objects that are not in this list won't be read at all by the connector.
+{% endhint %}
+
 In order to sync custom objects, you should get their API Name from Salesforce interface and add it to the 'Allowlist of Salesforce Objects to read' connector property in the source settings:
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
