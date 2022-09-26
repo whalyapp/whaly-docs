@@ -21,7 +21,28 @@ grant USAGE
 
 This will get Whaly access to the database but not to the data stored inside it. Follow the next steps to give access to the proper part of the database to Whaly ⤵️
 
-### 2. Give access to Whaly BI to a Schema and all its Tables located in a Snowflake database (e.g. granular access)
+### 2. Wide access | Give access to Whaly BI to ALL Schemas and ALL Tables located in a Snowflake database
+
+```
+set whaly_bi_role = 'WHALY_BI_ROLE';
+set snowflake_database = 'INSERT_PROPER_DATABASE_NAME_TO_EXPOSE_IN_WHALY_BI';
+
+USE DATABASE identifier($snowflake_database);
+grant USAGE
+    on all schemas in database identifier($snowflake_database)
+    to role identifier($whaly_bi_role);
+grant USAGE
+    on future schemas in database identifier($snowflake_database)
+    to role identifier($whaly_bi_role);
+grant SELECT 
+    on all tables in database identifier($snowflake_database)
+    to role identifier($whaly_bi_role);
+grant SELECT 
+    on future tables in database identifier($snowflake_database)
+    to role identifier($whaly_bi_role);
+```
+
+### 2bis. Granular access | Give access to Whaly BI to a SINGLE Schema and ALL its Tables located in a Snowflake database
 
 ```
 set whaly_bi_role = 'WHALY_BI_ROLE';
@@ -35,19 +56,8 @@ grant USAGE
 grant SELECT 
     on all tables in schema identifier($snowflake_schema)
     to role identifier($whaly_bi_role);
-```
-
-### 2bis. Give access to Whaly BI to ALL Schemas and ALL Tables located in a Snowflake database (e.g. wide access)
-
-```
-set whaly_bi_role = 'WHALY_BI_ROLE';
-set snowflake_database = 'INSERT_PROPER_DATABASE_NAME_TO_EXPOSE_IN_WHALY_BI';
-
-USE DATABASE identifier($snowflake_database);
-grant USAGE
-    on all schemas in database identifier($snowflake_database)
-    to role identifier($whaly_bi_role);
 grant SELECT 
-    on all tables in database identifier($snowflake_database)
+    on future tables in schema identifier($snowflake_schema)
     to role identifier($whaly_bi_role);
 ```
+

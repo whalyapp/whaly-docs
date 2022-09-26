@@ -5,7 +5,7 @@
 Syncing your **LaGrowthMachine** can be useful for various cases
 
 * Understand how well your campaigns are performing
-* Combining your **LaGrowthMachine** data with your CRM data (such as [Hubspot](../sales/hubspot.md))
+* Combining your **LaGrowthMachine** data with your CRM data (such as [Hubspot](../sales-crms/hubspot.md))
 * Analyse your **LaGrowthMachine** as cohorts to understand when people are responding to your LinkedIn invites, emails, etc.
 
 ## Which **LaGrowthMachine** data is synced by [Whaly](https://whaly.io)?

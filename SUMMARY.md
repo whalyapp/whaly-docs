@@ -72,12 +72,12 @@
     * [Amplitude](sources/source-catalog/product/amplitude.md)
     * [MixPanel](sources/source-catalog/product/mixpanel.md)
     * [Segment](sources/source-catalog/product/segment.md)
-  * [Sales](sources/source-catalog/sales/README.md)
-    * [Aircall](sources/source-catalog/sales/aircall.md)
-    * [Pipedrive](sources/source-catalog/sales/pipedrive.md)
-    * [Hubspot](sources/source-catalog/sales/hubspot.md)
-    * [Recruit CRM](sources/source-catalog/sales/recruit-crm.md)
-    * [Salesforce](sources/source-catalog/sales/salesforce.md)
+  * [Sales / CRMs](sources/source-catalog/sales-crms/README.md)
+    * [Aircall](sources/source-catalog/sales-crms/aircall.md)
+    * [Pipedrive](sources/source-catalog/sales-crms/pipedrive.md)
+    * [Hubspot](sources/source-catalog/sales-crms/hubspot.md)
+    * [Recruit CRM](sources/source-catalog/sales-crms/recruit-crm.md)
+    * [Salesforce](sources/source-catalog/sales-crms/salesforce.md)
 * [💭 Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
 
 ## Data Management

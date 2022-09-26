@@ -12,7 +12,7 @@ Syncing your Salesforce can be useful for various use cases:
 
 ## Which Salesforce data is synced by [Whaly](https://whaly.io)?
 
-[Whaly](https://whaly.io) 🐳 is currently syncing the following data:
+[Whaly](https://whaly.io) 🐳 is able by default to sync the following data:
 
 * Account
 * AccountContactRole
@@ -31,9 +31,19 @@ Syncing your Salesforce can be useful for various use cases:
 * User
 * Contract
 
-Please contact your Customer Success Representative or open [a ticket to the support ](../../../guides/support.md)if you need other tables.
+**Add custom objects**
 
-## **Overview**
+In order to sync custom objects, you should get their API Name from Salesforce interface and add it to the 'Allowlist of Salesforce Objects to read' connector property in the source settings:
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Then, the Custom Objects will be shown in the "Selective Sync" screen and you'll be able to sync them / don't sync them from there.
+
+{% hint style="success" %}
+In order to help you find the proper "Object API Name", the connector is writing them all at the beginning of any syncs in its logs, make sure to check them!
+{% endhint %}
+
+## **Connect your Salesforce instance**
 
 {% hint style="info" %}
 **Make sure that your user account has rights for all the aforementioned objects**

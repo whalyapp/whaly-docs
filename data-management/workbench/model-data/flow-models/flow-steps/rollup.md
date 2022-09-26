@@ -12,7 +12,7 @@ In order to use the lookup step, click on the **Add Column** button and then **R
 
 ## How to configure it?
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Configuring Rollup</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Configuring Rollup</p></figcaption></figure>
 
 To configure a roll you need two datasets at least in your canvas. Select the dataset you want to rollup the value from in the dropdown (in order to help you locate the dataset on the canvas it should be blinking when hovered on the dropdown). Then select the column that will be the output of the rollup as well as the aggregation type (the one you want the value to be displayed) and finally select the keys that will be used to identify how the lines should be merged.
 
