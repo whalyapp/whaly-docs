@@ -98,23 +98,13 @@ Granting Hubspot data access to Whaly is done through an OAuth authentication pr
 
 1- Go to Settings
 
-![image.png](https://storage.googleapis.com/slite-api-files-production/files/dafb3604-c471-4dc0-8f9b-8bbdf168a36e/image.png)
-
 2- Click on User & teams at the bottom left of your window
-
-![image.png](https://storage.googleapis.com/slite-api-files-production/files/66470f71-04f4-4e6e-a35a-c2d696fbec90/image.png)
 
 3- Select the user on which you want to grant App Marketplace rights
 
-![image.png](https://storage.googleapis.com/slite-api-files-production/files/518f265e-abe5-47e4-badd-7c4fd6ae025b/image.png)
-
 4- Click on "More" and "Account"
 
-![image.png](https://storage.googleapis.com/slite-api-files-production/files/7cbcc78c-9ac0-4871-b39b-6d5602721fee/image.png)
-
 5- Turn the App Marketplace access to on
-
-![image.png](https://storage.googleapis.com/slite-api-files-production/files/62441a77-d7f3-44da-8453-01e607291d9e/image.png)
 
 6- Click on "Save"
 
@@ -137,3 +127,10 @@ In Whaly, your user can now access Hubspot :
 Your data source is now set-up, congrats ![🎉](https://mail.google.com/mail/e/1f389). You can see the initial loading and the data updates in the "Sources" menu on the left hand side
 
 ![](<../../../.gitbook/assets/image (74).png>)
+
+## Source considerations
+
+1. Due a limitation of Hubspot API, it's impossible to detect Deals and Contacts that have been **deleted** since the last sync. Hence, the connector is running 1 `FULL TABLE` sync per day to make sure that deleted records in Hubspot are deleted in your Warehouse. The rest of the syncs are done using the `INCREMENTAL` replication method to save processing time.
+2. **Merged contacts**: In order to identify Contacts that have been merged with another one, the connector is adding a field called `has_been_merged`.When set to `true`, it means that this contact has been merged with another one. To keep the same number as what you would find in Hubspot, you should exclude them for your reporting.
+3. **Merged deals**: Merged Deals are deleted during the daily `FULL TABLE` sync.
+4. **Custom Objects**: Because of a current limitation of the Custom Objects API, the connector is not able to run INCREMENTAL syncs at every run.
