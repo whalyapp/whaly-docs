@@ -71,6 +71,6 @@ For example, to display the date 2022/01/01 as Jan 1st 2021, you should input th
 To escape characters in format strings, you can wrap the characters in square brackets.
 
 ```
-[today] dddd' => 'today Sunday'
+'[today] dddd' => 'today Sunday'
 ```
 
