@@ -41,7 +41,7 @@ Objects that are not in this list won't be read at all by the connector.
 
 In order to sync custom objects, you should get their API Name from Salesforce interface and add it to the 'Allowlist of Salesforce Objects to read' connector property in the source settings:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, the Custom Objects will be shown in the "Selective Sync" screen and you'll be able to sync them / don't sync them from there.
 

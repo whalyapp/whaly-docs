@@ -3,7 +3,7 @@
 {% hint style="info" %}
 This is the documentation about the integration of Whaly Reports and Questions into Hubspot reports.
 
-If you're looking for the Hubspot data connector documentation, [this is where you can find it.](../../sources/source-catalog/sales-crms/hubspot.md)
+If you're looking for the Hubspot data connector documentation, [this is where you can find it.](../../sources/source-catalog/sales/hubspot.md)
 {% endhint %}
 
 Hubspot is a CRM system that allows your Sales and your Marketing teams to generate leads, nurture them and track their lifecycle in the sales journey ✨

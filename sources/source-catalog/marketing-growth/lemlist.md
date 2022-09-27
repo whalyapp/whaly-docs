@@ -5,7 +5,7 @@
 Syncing your Airtable can be useful for various cases
 
 * Understand how well your campaigns are performing
-* Combining your **lemlist** data with your CRM data (such as [Hubspot](../sales-crms/hubspot.md)) to get a full view of your acquisition funnel
+* Combining your **lemlist** data with your CRM data (such as [Hubspot](../sales/hubspot.md)) to get a full view of your acquisition funnel
 * Analyse your **lemlist** as cohorts to understand when people are responding to your emails, etc.
 * ....
 
