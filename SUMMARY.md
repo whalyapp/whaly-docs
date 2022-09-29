@@ -104,6 +104,7 @@
         * [Rollup](data-management/workbench/model-data/flow-models/flow-steps/rollup.md)
         * [Formulas](data-management/workbench/model-data/flow-models/flow-steps/formulas.md)
         * [Group](data-management/workbench/model-data/flow-models/flow-steps/group.md)
+        * [Union](data-management/workbench/model-data/flow-models/flow-steps/union.md)
     * [Materialization (beta)](data-management/workbench/model-data/materialization-beta.md)
   * [Import raw data](data-management/workbench/import-raw-data/README.md)
     * [From your warehouse](data-management/workbench/import-raw-data/from-your-warehouse.md)
