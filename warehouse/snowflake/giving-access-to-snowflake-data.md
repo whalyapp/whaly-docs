@@ -31,14 +31,26 @@ USE DATABASE identifier($snowflake_database);
 grant USAGE
     on all schemas in database identifier($snowflake_database)
     to role identifier($whaly_bi_role);
-grant USAGE
-    on future schemas in database identifier($snowflake_database)
-    to role identifier($whaly_bi_role);
 grant SELECT 
     on all tables in database identifier($snowflake_database)
     to role identifier($whaly_bi_role);
 grant SELECT 
     on future tables in database identifier($snowflake_database)
+    to role identifier($whaly_bi_role);
+```
+
+{% hint style="info" %}
+Whenever adding new schemas into your Snowflake database on which you to get access to Whaly, please run the following query :arrow\_down\_small:
+{% endhint %}
+
+```
+set whaly_bi_role = 'WHALY_BI_ROLE';
+set snowflake_database = 'INSERT_PROPER_DATABASE_NAME_TO_EXPOSE_IN_WHALY_BI';
+set snowflake_schema = 'INSERT_PROPER_SCHEMA_NAME';
+
+USE DATABASE identifier($snowflake_database);
+grant USAGE
+    on schema identifier($snowflake_schema)
     to role identifier($whaly_bi_role);
 ```
 
