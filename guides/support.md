@@ -27,7 +27,7 @@ Each plan comes with its SLA therefore you should check your contract to underst
 
 | Typical question                                                      | Type of support                                                                                                                         |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| _Is it possible to achieve this use case in Looker?_                  | All type of support can answer this question                                                                                            |
+| _Is it possible to achieve this use case in Whaly?_                   | All type of support can answer this question                                                                                            |
 | _I'm getting this error and I'm not sure why._                        | All type of support can answer this question                                                                                            |
 | _Is this a bug?_                                                      | All type of support can answer this question                                                                                            |
 | _Help! I'm hitting a critical issue._                                 | All type of support can answer this question                                                                                            |
