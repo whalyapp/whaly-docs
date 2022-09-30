@@ -8,14 +8,7 @@ a. **Chat**: There is an embedded Chat in Whaly interface that can be used for a
 
 b. **Support email**: You can email **support\[at]whaly.io**
 
-c. **Slack**: We invite each customer to a private Slack workspace during the Onboarding call.
-
-{% hint style="info" %}
-For time sensitive matters (blocking bug, etc.) or any long time topic (feature request), we recommend the use of Chat and Support email over Slack for different reasons:
-
-1. **Slack** workspace is on a free plan and messages are lost after a while
-2. We have a better tooling to track resolution time in **Email** and **Chat**
-{% endhint %}
+c. **Slack**: Depending on the support level defined in your plan, you can still use the the private Slack channel during the Onboarding period.
 
 ## What information should I share?
 
