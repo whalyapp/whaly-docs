@@ -12,8 +12,8 @@ From this tab you can:
 
 ## Access Management (2)
 
-{% content-ref url="../organization/manage-access-to-your-org.md" %}
-[manage-access-to-your-org.md](../organization/manage-access-to-your-org.md)
+{% content-ref url="../organization/manage-access-to-your-organization.md" %}
+[manage-access-to-your-organization.md](../organization/manage-access-to-your-organization.md)
 {% endcontent-ref %}
 
 ## Source Usage (3)

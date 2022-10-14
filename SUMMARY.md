@@ -2,10 +2,15 @@
 
 * [👏 Welcome to Whaly 🐳](README.md)
 
+## Team
+
+* [👨👩👧👦 What is a team?](team/what-is-a-team.md)
+* [🛡 Single Sign On](team/single-sign-on.md)
+
 ## Organization
 
-* [🏫 What is an organization ?](organization/what-is-an-organization.md)
-* [🔑 Manage Access to your org](organization/manage-access-to-your-org.md)
+* [🏫 What is an organization?](organization/what-is-an-organization.md)
+* [🔑 Manage Access to your organization](organization/manage-access-to-your-organization.md)
 * [❓ Understanding Licences](organization/understanding-licences.md)
 * [👮 Understanding User Roles](organization/manage-access-control.md)
 

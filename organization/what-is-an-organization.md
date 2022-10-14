@@ -1,8 +1,17 @@
-# 🏫 What is an organization ?
+# 🏫 What is an organization?
 
-An org is a home for all content that will be created on Whaly, imagine it as a library where all your content is stored. Think of it as a repository for all your models, sources, dashboards questions ...
+An organization is a home for all content that will be created on Whaly, imagine it as a library where all your content is stored.
 
-### How to switch org ?
+An organization is plugged on a Warehouse where your data lives. It'll store all your models, sources, dashboards, questions...
+
+You can have access to multiple organizations for different purposes:
+
+* When you want to have multiple different Warehouse
+* When you want to have a "Training Sandbox" to test a few things without ta
+* For testing purposes of new features
+* If you're invited by another company to collaborate on their environment&#x20;
+
+### How to switch between organization?
 
 If you have access to multiple orgs you can switch org by clicking on your **profile picture** and then on  **Change Organization**.
 
