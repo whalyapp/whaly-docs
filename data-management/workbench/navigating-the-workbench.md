@@ -16,13 +16,13 @@ The view selector helps you navigate through different kind of objects such as y
 
 Each time you click on a record we open a tab so you can easily navigate through tabs&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Tab bar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Tab bar</p></figcaption></figure>
 
 ## Content view
 
 This is where you will actually interact with your data.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Content View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (3).png" alt=""><figcaption><p>Content View</p></figcaption></figure>
 
 ### Dataset Content View
 

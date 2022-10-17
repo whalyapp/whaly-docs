@@ -14,7 +14,7 @@ In order to use the lookup step, click on the **Add Column** button and then **L
 
 ## How to configure it?
 
-<figure><img src="../../../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Configuring lookup</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Configuring lookup</p></figcaption></figure>
 
 To configure a lookup you need two datasets at least in your canvas. Select the dataset you want to lookup the value from in the dropdown (in order to help you locate the dataset on the canvas it must be blinking when hovered on the dropdown). Then select the column that will be the output of the lookup (the one you want the value to be displayed) and finally select the keys that will be used to identify how the lines should be merged.
 
