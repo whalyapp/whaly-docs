@@ -1,6 +1,6 @@
 # Why using dbt and Whaly
 
-Dbt is a great solution widely adopted by the data community. This help you use software engineering patterns in your modeling project such as, version control through git, unit testing, continuous integration and continuous deployment. This tool has helped countless of companies scaling their modeling capabilities. But it comes at a cost.
+dbt is a great solution widely adopted by the data community. This help you use software engineering patterns in your modeling project such as, version control through git, unit testing, continuous integration and continuous deployment. This tool has helped countless of companies scaling their modeling capabilities. But it comes at a cost.
 
 ## The problems using dbt
 
