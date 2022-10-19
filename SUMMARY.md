@@ -149,6 +149,7 @@
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [Drill through](data-consumption/exploring-data/drill-through.md)
   * [Forecasting](data-management/explorations/forecasting.md)
+* [🔁 Refreshing a report](data-consumption/refreshing-a-report.md)
 * [📊 Dashboards](content-management/dashboards/README.md)
   * [Create a dashboard](content-management/dashboards/create-a-dashboard.md)
   * [Manage tiles](content-management/dashboards/manage-tiles/README.md)

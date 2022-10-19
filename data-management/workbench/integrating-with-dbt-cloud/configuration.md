@@ -36,7 +36,7 @@ The mapping between the CLI options and the produced outputs is available in [db
 
 Please reference the proper jobs at the project level:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Find your Account Id and Project Id&#x20;
 
@@ -52,7 +52,7 @@ https://cloud.getdbt.com/next/deploy/<Account Id>/projects/<Project Id>/jobs
 
 Open Whaly and go to the [workbench](../). On the workbench please click on **View > Settings**. You should see a page like this:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on **Use dbt cloud for modeling**.&#x20;
 
