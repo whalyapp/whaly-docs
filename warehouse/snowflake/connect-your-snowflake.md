@@ -1,7 +1,5 @@
 # Connect your Snowflake
 
-
-
 Setting up the Snowflake destination connector involves setting up Snowflake entities (warehouse, database, schema, user, and role) in the Snowflake console, and configuring the Snowflake destination connector using Whaly UI.
 
 This page describes the step-by-step process of setting up the Snowflake destination connector.
@@ -155,9 +153,18 @@ Navigate to the Whaly UI to set up Snowflake as a destination. You can authentic
 | Business Intelligence \| Password                                                                           | The password associated with the business intelligence user.                                                                                                                                                                                                                |
 | Business Intelligence \| Role                                                                               | The role you created in Step 1 for Whaly to access Snowflake. Example: `WHALY_BI_ROLE`                                                                                                                                                                                      |
 
-### How to get the Snowflake Account ID (URL)
+### How to get the Snowflake Account URL?
 
-1. Go into the "Admin > Account" panel on the right side of the screen
+#### If you have a standard setup
+
+1. Go on the bottom right part of you screen and open your Account Selector.
+2. On the tooltip, select the proper account and click on "Copy account URL"
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 at 12.34.17.png" alt=""><figcaption></figcaption></figure>
+
+#### If you have a multi cluster setup
+
+1. Go into the "**Admin > Account**" panel on the right side of the screen
 2. Next to your account name, click on the 🔗 icon which will copy the URL on your clipboard!
 
 ![](<../../.gitbook/assets/Screenshot 2022-08-03 at 11.10.22.png>)
