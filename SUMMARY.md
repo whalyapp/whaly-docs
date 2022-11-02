@@ -13,6 +13,7 @@
 * [🔑 Manage Access to your organization](organization/manage-access-to-your-organization.md)
 * [❓ Understanding Licences](organization/understanding-licences.md)
 * [👮 Understanding User Roles](organization/manage-access-control.md)
+* [👭 Groups](organization/groups.md)
 
 ## Workspace
 
