@@ -6,6 +6,7 @@
 
 * [👨👩👧👦 What is a team?](team/what-is-a-team.md)
 * [🛡 Single Sign On](team/single-sign-on.md)
+* [🥷 Impersonate](team/impersonate.md)
 
 ## Organization
 

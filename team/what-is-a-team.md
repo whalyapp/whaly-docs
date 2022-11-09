@@ -11,7 +11,7 @@ Member of a team can have 2 main roles:
 
 ### Managing the Team
 
-For all Team Owners, a **Manage** button is available on the [Organization](broken-reference) selector screen ⤵️
+For all **Team Owners**, a **Manage** button is available on the [Organization](broken-reference) selector screen ⤵️
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-10-14 at 12.24.03.png" alt=""><figcaption><p>Position of the Manage button to access Team Management page</p></figcaption></figure>
 
@@ -23,4 +23,4 @@ From this page, you can manage:
 
 1. Your Single Sign On configuration
 2. The [Organizations](broken-reference) that are being used by members of your Team
-3. The list of all members of your team
+3. The list of all members of your team and their roles (Owner vs Regular Member)
