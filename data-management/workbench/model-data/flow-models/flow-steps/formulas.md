@@ -360,7 +360,7 @@ Unless otherwise noted, `DATETIME` functions that use format strings support the
 | %E\*S          | Seconds with full fractional precision (a literal '\*').                                                                                                                                                                                                                                                                                    | 00.123456                |
 | %E4Y           | Four-character years (0001 ... 9999). Note that %Y produces as many characters as it takes to fully render the year.                                                                                                                                                                                                                        | 2021                     |
 
-### When using Snowflake Warehouse:
+### When using Snowflake Warehouse
 
 
 
