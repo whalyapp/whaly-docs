@@ -82,3 +82,57 @@ You can then render your iFrame using the templating system you want (React / Vu
 In order to set and retrieve your filters API Name you can edit your filter and click on the developer tab and set your apiName. Please note that filters API Name must be unique for a given report and are not set by default.
 
 ![Setting an API Name](<../.gitbook/assets/image (180).png>)
+
+## JWT Params
+
+You can encode several parameters in your JWT such as
+
+| Name             | Is Required | Value         | Description                                                         |
+| ---------------- | ----------- | ------------- | ------------------------------------------------------------------- |
+| filters          | true        | FilterPayload | You can control any filter values through this payload              |
+| expiration\_date | true        | Timestamp     | This value indicates when your token will stop be accepted          |
+| disable\_drills  | true        | Boolean       | This value helps you disable all drills by default on the dashboard |
+
+#### FilterPayload
+
+The filter payload is an object that takes for keys the filter api name and as value depending on the filter type.
+
+```javascript
+{
+    <filterApiName>: FilterValuePayload
+}
+```
+
+#### FilterValuePayload
+
+For numeric filters you can pass one numeric (float or int) or an array of numerics
+
+```javascript
+{
+    myNumeric: 1.2,
+    myNumericArray: [4.21, 1,337]
+}
+```
+
+For string filters you can pass on string or an array of string
+
+<pre class="language-javascript"><code class="lang-javascript"><strong>{
+</strong>    myString: "rick",
+    myStringArray: ["rick", "morty"]
+}
+</code></pre>
+
+For dates, you can either pass an array of 2 dates or a more complex object to describe your operation.&#x20;
+
+{% hint style="warning" %}
+Carefull dates must be passed as per the [ISO8601](https://en.wikipedia.org/wiki/ISO\_8601) standard.
+{% endhint %}
+
+Passing dates as an array
+
+```javascript
+ {
+    myDate: ["2021-01-01T00:00:00.000Z", "2021-12-01T00:00:00.000Z"] 
+ }
+```
+
