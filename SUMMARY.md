@@ -89,7 +89,7 @@
 
 ## Workbench <a href="#data-management" id="data-management"></a>
 
-* [Navigating the workbench](data-management/navigating-the-workbench.md)
+* [🚀 Navigating the workbench](data-management/navigating-the-workbench.md)
 * [🛠 Modeling](data-management/workbench/README.md)
   * [Understanding Datasets](data-management/workbench/understanding-datasets/README.md)
     * [General Information](data-management/workbench/understanding-datasets/general-information.md)
