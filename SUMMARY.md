@@ -87,10 +87,10 @@
     * [Salesforce](sources/source-catalog/sales-crms/salesforce.md)
 * [💭 Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
 
-## Data Management
+## Workbench <a href="#data-management" id="data-management"></a>
 
-* [🛠 Workbench](data-management/workbench/README.md)
-  * [Navigating the workbench](data-management/workbench/navigating-the-workbench.md)
+* [Navigating the workbench](data-management/navigating-the-workbench.md)
+* [🛠 Modeling](data-management/workbench/README.md)
   * [Understanding Datasets](data-management/workbench/understanding-datasets/README.md)
     * [General Information](data-management/workbench/understanding-datasets/general-information.md)
     * [Drills](data-management/workbench/understanding-datasets/drills.md)
@@ -121,15 +121,19 @@
     * [Configuration](data-management/workbench/integrating-with-dbt-cloud/configuration.md)
     * [Understanding the integration](data-management/workbench/integrating-with-dbt-cloud/understanding-the-integration.md)
 * [🧭 Explorations](data-management/explorations/README.md)
-  * [Create an exploration](data-management/explorations/create-an-exploration.md)
+  * [Configure an exploration](data-management/explorations/configure-an-exploration.md)
   * [Exploration Templates](data-management/explorations/exploration-templates.md)
+  * [Tables](data-management/explorations/tables/README.md)
+    * [Configure a table](data-management/explorations/tables/configure-a-table.md)
+    * [Add related data](data-management/explorations/tables/add-related-data.md)
   * [Metrics](data-management/explorations/add-metrics/README.md)
     * [Create a Metric](data-management/explorations/metrics/create-a-metric.md)
     * [Create a Calculated Metric](data-management/explorations/metrics/create-a-calculated-metric.md)
+    * [Create Drill Downs](data-management/explorations/metrics/create-drill-downs.md)
     * [Using custom formatting](data-management/explorations/add-metrics/using-custom-format.md)
   * [Dimensions](data-management/explorations/add-dimensions.md)
     * [Create a dimension](data-management/explorations/dimensions/create-a-dimension.md)
-  * [Add related data](data-management/explorations/add-related-data.md)
+  * [Check measure usage](data-management/explorations/check-measure-usage.md)
 
 ## Data consumption
 
@@ -149,7 +153,7 @@
     * [Map chart](data-management/explorations/create-a-chart/map-chart.md)
     * [Worldmap chart](data-management/explorations/create-a-chart/worldmap-chart.md)
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
-  * [Drill through](data-consumption/exploring-data/drill-through.md)
+  * [Drill Down](data-consumption/exploring-data/drill-down.md)
   * [Forecasting](data-management/explorations/forecasting.md)
 * [🔁 Refreshing a report](data-consumption/refreshing-a-report.md)
 * [📊 Dashboards](content-management/dashboards/README.md)

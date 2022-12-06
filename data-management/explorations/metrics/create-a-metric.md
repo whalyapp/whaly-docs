@@ -2,11 +2,13 @@
 
 To create a metric, simply click on the + sign next to the table name in the measure panel of the exploration screen, and click on add a metric. This will open the metric creation screen.&#x20;
 
-![](<../../../.gitbook/assets/image (204).png>)
+<figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption><p>Add a new measure of data</p></figcaption></figure>
 
 ### Select an aggregation type
 
 When creating a metric you must select an operation and a column to perform the aggregation on. Whaly supports the following aggregations:
+
+<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption><p>Select an aggregation</p></figcaption></figure>
 
 | Aggregation                             | Description                                                                                                                                                                                                                             |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,18 +18,28 @@ When creating a metric you must select an operation and a column to perform the 
 | **Cumulative Count**                    | Count function counts a number of items/records that satisfy the given criteria. **** The cumulative count function is the sum of all the counts generated so far.                                                                      |
 | **Cumulative Sum**                      | Sum function sums a specific field of items/records that satisfy the given criteria. **** The cumulative sum function is the sum of all the sums generated so far.                                                                      |
 
+<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Filter your metric</p></figcaption></figure>
+
 You can also add a filter to your metric in order precisely defined which lines should be included/excluded from your metric (for example, you could set a filter to product\_type equals vegetable to only count products that are vegetables)
 
 ### Format your metric
 
-The second step will ask you to select a format for your metric. You can set a custom prefix or suffit (useful for currency, weight, ...), or you can take things a step further by [using the custom format](../add-metrics/using-custom-format.md) feature.
+The next step will ask you to select a format for your metric. You can set a custom prefix or suffit (useful for currency, weight, ...), or you can take things a step further by [using the custom format](../add-metrics/using-custom-format.md) feature.
 
-![](<../../../.gitbook/assets/image (205).png>)
+
+
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption><p>Format your metric</p></figcaption></figure>
 
 ### Give a name and description to your metric
 
 Finally, you should give a name and a description to your metric. This is useful to keep your work clean and understandable for the viewers.
 
-![](<../../../.gitbook/assets/image (186).png>)
+<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
-When you're done, click on create an your metric will appear in the measures panel.
+### Add drill down
+
+You can also add a way for your user to explore further than the chart by adding drill down on your metric, please check the following section:
+
+{% content-ref url="create-drill-downs.md" %}
+[create-drill-downs.md](create-drill-downs.md)
+{% endcontent-ref %}

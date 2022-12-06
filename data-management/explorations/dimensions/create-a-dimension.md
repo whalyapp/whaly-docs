@@ -2,7 +2,7 @@
 
 In order to view our data, we will create a first dimension. In order to do so, click on the "+ " next to contact in the measure section and click on "add a dimension".
 
-![](<../../../.gitbook/assets/image (175).png>)
+<figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption><p>Creating a dimension</p></figcaption></figure>
 
 ### Select an dimension type
 
