@@ -20,19 +20,19 @@ In order to manage the visibility and sharing of Reports inside Whaly, you'll ha
 
 First, here's a quick tour of the `Share` menu, which can be clicked when opening the `...` menu of your Report Folder.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 11.12.02.png" alt=""><figcaption><p>Share button is in the <code>...</code> menu of Report Folders</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 18.55.43.png" alt=""><figcaption><p>Share button is in the <code>...</code> menu of Report Folders</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 11.11.53.png" alt=""><figcaption><p>The Share menu shows who can currently access the folder and gives control to update the sharing configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 18.56.46.png" alt=""><figcaption><p>The Share menu shows who can currently access the folder and gives control to update the sharing configuration</p></figcaption></figure>
 
 * Each row in this menu represents a different person or group of people you can share the Folder with. In the menu above for this 'My Folder' report folder:
   * `Admins`  means that the Admins in your workspace has full access on the report. They'll be able to make edits and invite additional people.
-  * `All Users` means that all the users of this organization will have a read-only access on this report folder.
-  * `Pierre` is an example of a team member with **full access** to the folder. He will be able to make edits and invite additional people.
+  * `Engineering` means that all the members of the Engineering group has full access on the report. They'll be able to make edits and invite additional people.
+  * `All Users` means that all members of the organization will have a read only access on the folder and its Reports.
   * `Emilien` is an exemple of a team member with only edits right on the folder. He will be able to edit the folder name and position in the folder hierarchy and edit all Reports in the folder but won't be able to change its sharing configuration.
 * `Invite` lets you add people/groups inside your organization to this folder using their email address/name
   * You will be able to select the access they should have on this report
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 11.20.57.png" alt=""><figcaption><p>When inviting someone to collaborate on a folder, a permission level can be assigned to control its access</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.00.08 PM.gif" alt=""><figcaption><p>When inviting someone to collaborate on a folder, a permission level can be assigned to control its access</p></figcaption></figure>
 
 #### Share with everyone in your workspace <a href="#share-with-everyone-in-your-workspace" id="share-with-everyone-in-your-workspace"></a>
 
@@ -40,7 +40,7 @@ You can collaborate with other people in Whaly by adding them as users to your w
 
 * In the `Share` menu, you can turn on access for `All Users` at a certain level selected from the dropdown
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 11.28.33.png" alt=""><figcaption><p>Inviting the All Users group will give a certain access to all the members of your organization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.02.28 PM.gif" alt=""><figcaption></figcaption></figure>
 
 #### Share with individual teammates <a href="#share-with-individual-teammates" id="share-with-individual-teammates"></a>
 
@@ -48,6 +48,8 @@ Sometimes you'll want to share a folder with only select other members of your o
 
 * Click `Share` in a Report Folder menu.
 * Click the `Add emails or people` search bar and add the members you want by typing in their name or email addresses. You can set their access levels from the dropdown at the right side of the search bar.
+
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.03.10 PM.gif" alt=""><figcaption></figcaption></figure>
 
 #### Share with groups <a href="#share-with-groups" id="share-with-groups"></a>
 
@@ -60,6 +62,8 @@ To make it easier to share with commonly-used groups (i.e. your company's engine
 * Go to `Settings > User Groups` and you'll see a list of all your already existing groups.
 * Click `Create new group`, give it a name, and add the members you want
 * To share a report folder with a particular group, go to `Share` in the `...` menu of this folder, then click the `Invite` button. You'll see your groups listed in the invite pop-up that appears.
+
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.03.53 PM.gif" alt=""><figcaption></figcaption></figure>
 
 #### Share to the web <a href="#share-to-the-web" id="share-to-the-web"></a>
 
@@ -86,11 +90,15 @@ Whenever you invite someone to a Report Folder, or click on `Share`, you'll see 
 * `Can edit`: Select this level of access for people or groups who should be able to edit the content on the folder, but not share the folder.
 * `Can view`: People with this level of access can read the content on the folder, but not comment on it or edit it. They also can't share the folder with others.
 
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.07.04 PM.gif" alt=""><figcaption></figcaption></figure>
+
 #### Stop sharing <a href="#stop-sharing" id="stop-sharing"></a>
 
 If you have full access to a folder, you can disable sharing with anyone at any time.
 
 * Click on `Share` in the `...` menu of the of the folder, and switch off access for your workspace, individuals, groups, or the public. You can also select `Remove` from the dropdown next to any of these.
+
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-01-16 at 7.07.36 PM.gif" alt=""><figcaption></figcaption></figure>
 
 ## FAQs
 
