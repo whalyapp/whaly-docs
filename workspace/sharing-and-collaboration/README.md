@@ -10,6 +10,12 @@ description: >-
 
 There are several different ways you can share the reports you build in Whaly with folks inside and outside your organisation. Below is an overview of all the ways to share.
 
+In order to manage the visibility and sharing of Reports inside Whaly, you'll have to use the Sharing configuration of the **Folders** where the Reports are stored.
+
+{% hint style="info" %}
+**All Reports stored in the same Report Folder** will be shared to the **same audience** in the same way, so if you want to have different Sharing settings for different Reports, you will have to **create different Folders** for those.
+{% endhint %}
+
 #### Share menu <a href="#share-menu" id="share-menu"></a>
 
 First, here's a quick tour of the `Share` menu, which can be clicked when opening the `...` menu of your Report Folder.
@@ -18,10 +24,10 @@ First, here's a quick tour of the `Share` menu, which can be clicked when openin
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-16 at 11.11.53.png" alt=""><figcaption><p>The Share menu shows who can currently access the folder and gives control to update the sharing configuration</p></figcaption></figure>
 
-* Each row in this menu represents a different person or group of people you can share the page with. In the menu above for this 'My Folder' report folder:
+* Each row in this menu represents a different person or group of people you can share the Folder with. In the menu above for this 'My Folder' report folder:
   * `Admins`  means that the Admins in your workspace has full access on the report. They'll be able to make edits and invite additional people.
   * `All Users` means that all the users of this organization will have a read-only access on this report folder.
-  * `Pierre` is an example of a team member with **full access** to the page. He will be able to make edits and invite additional people.
+  * `Pierre` is an example of a team member with **full access** to the folder. He will be able to make edits and invite additional people.
   * `Emilien` is an exemple of a team member with only edits right on the folder. He will be able to edit the folder name and position in the folder hierarchy and edit all Reports in the folder but won't be able to change its sharing configuration.
 * `Invite` lets you add people/groups inside your organization to this folder using their email address/name
   * You will be able to select the access they should have on this report
@@ -38,7 +44,7 @@ You can collaborate with other people in Whaly by adding them as users to your w
 
 #### Share with individual teammates <a href="#share-with-individual-teammates" id="share-with-individual-teammates"></a>
 
-Sometimes you'll want to share a page with only select other members of your organization — like a personal objective tracking dashboard you share with your manager.
+Sometimes you'll want to share a folder with only select other members of your organization — like a personal objective tracking dashboard you share with your manager.
 
 * Click `Share` in a Report Folder menu.
 * Click the `Add emails or people` search bar and add the members you want by typing in their name or email addresses. You can set their access levels from the dropdown at the right side of the search bar.
@@ -69,25 +75,25 @@ This is where Whaly's sharing options get nuanced and granular. For every person
 * You want some reports to only be visible to a specific team.
 
 {% hint style="info" %}
-**Note:** When you invite someone to a Report Folder, they can automatically access all of its sub-folders by default. That being said, you can expand sub-page permissions!
+**Note:** When you invite someone to a Report Folder, they can automatically access all of its sub-folders by default. That being said, you can expand sub-folder permissions!
 {% endhint %}
 
 #### How to edit permissions <a href="#how-to-edit-permissions" id="how-to-edit-permissions"></a>
 
 Whenever you invite someone to a Report Folder, or click on `Share`, you'll see right-hand dropdown menus next to people or groups that let you select their level of access: `Full access`, `Can edit`, and `Can view`.
 
-* `Full access`: People with full access to a page can edit any of the content it contains and share the page with anyone they want using all the mechanisms in this guide.
-* `Can edit`: Select this level of access for people or groups who should be able to edit the content on the page, but not share the page.
-* `Can view`: People with this level of access can read the content on the page, but not comment on it or edit it. They also can't share the page with others.
+* `Full access`: People with full access to a folder can edit any of the content it contains and share the folder with anyone they want using all the mechanisms in this guide.
+* `Can edit`: Select this level of access for people or groups who should be able to edit the content on the folder, but not share the folder.
+* `Can view`: People with this level of access can read the content on the folder, but not comment on it or edit it. They also can't share the folder with others.
 
 #### Stop sharing <a href="#stop-sharing" id="stop-sharing"></a>
 
-If you have full access to a page, you can disable sharing with anyone at any time.
+If you have full access to a folder, you can disable sharing with anyone at any time.
 
 * Click on `Share` in the `...` menu of the of the folder, and switch off access for your workspace, individuals, groups, or the public. You can also select `Remove` from the dropdown next to any of these.
 
 ## FAQs
 
-### I want to share a page with a client, but they don't use Whaly.
+### I want to share a Report with a client, but they don't use Whaly.
 
 You can create a [Sharing Link](share-a-report-by-link.md), and share the URL with them. They'll be able to view the report, even if they don't have a Whaly account. However, they won't be able to make any edits.
