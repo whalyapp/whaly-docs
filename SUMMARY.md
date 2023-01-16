@@ -19,6 +19,9 @@
 ## Workspace
 
 * [✏ Workspace](workspace/workspace.md)
+* [📂 Report Folders](workspace/report-folders.md)
+* [✨ Sharing & Collaboration](workspace/sharing-and-collaboration/README.md)
+  * [Share a report to the Web](workspace/sharing-and-collaboration/share-a-report-by-link.md)
 * [📗 Catalog](workspace/catalog.md)
 * [⚙ Settings](workspace/settings.md)
 
@@ -137,7 +140,6 @@
 
 ## Data consumption
 
-* [💹 What is a Report?](data-consumption/what-is-a-report.md)
 * [💡 Exploring data](data-consumption/exploring-data/README.md)
   * [How to explore data](data-consumption/exploring-data/how-to-explore-data.md)
   * [Chart your data](data-management/explorations/create-a-chart/README.md)
@@ -155,7 +157,7 @@
     * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [Drill Down](data-consumption/exploring-data/drill-down.md)
   * [Forecasting](data-management/explorations/forecasting.md)
-* [🔁 Refreshing a report](data-consumption/refreshing-a-report.md)
+* [💹 What is a Report?](data-consumption/what-is-a-report.md)
 * [📊 Dashboards](content-management/dashboards/README.md)
   * [Create a dashboard](content-management/dashboards/create-a-dashboard.md)
   * [Manage tiles](content-management/dashboards/manage-tiles/README.md)
@@ -164,20 +166,20 @@
     * [Add navigation tiles](content-management/dashboards/manage-tiles/add-navigation-tiles.md)
     * [Arranging tiles](content-management/dashboards/manage-tiles/arranging-tiles.md)
   * [Add a description](content-management/dashboards/add-a-description.md)
+  * [Share a dashboard](data-consumption/dashboards/share-a-dashboard.md)
   * [Filter a dashboard](content-management/dashboards/filter-a-dashboard.md)
-  * [Share a report by link](content-management/dashboards/share-a-report-by-link.md)
   * [Push dashboard](content-management/dashboards/push-dashboard.md)
   * [Delete a dashboard](content-management/dashboards/delete-a-report.md)
 * [📈 Questions](content-management/questions/README.md)
   * [Create a question](content-management/questions/create-a-question.md)
   * [Add a description](content-management/questions/add-a-description.md)
-  * [Share a question by link](content-management/questions/share-a-question-by-link.md)
+  * [Share a question](data-consumption/questions/share-a-question.md)
   * [Push question data](content-management/questions/push-question-data.md)
   * [Delete a question](content-management/questions/delete-a-question.md)
+* [🔁 Refreshing a report](data-consumption/refreshing-a-report.md)
 
 ## Content management
 
-* [📂 Folders](content-management/folders.md)
 * [⭐ Explorations Section](content-management/explorations-section.md)
 * [✂ Bulk Content Management](content-management/bulk-content-management.md)
 

@@ -24,8 +24,8 @@ Help you switch between folders, explorations and the workbench
 [explorations-section.md](../content-management/explorations-section.md)
 {% endcontent-ref %}
 
-{% content-ref url="../content-management/folders.md" %}
-[folders.md](../content-management/folders.md)
+{% content-ref url="report-folders.md" %}
+[report-folders.md](report-folders.md)
 {% endcontent-ref %}
 
 {% content-ref url="../data-management/workbench/" %}

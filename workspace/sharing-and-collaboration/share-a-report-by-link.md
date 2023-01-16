@@ -1,4 +1,4 @@
-# Share a report by link
+# Share a report to the Web
 
 Whaly offers 2 ways of sharing a report:
 
@@ -7,7 +7,7 @@ Whaly offers 2 ways of sharing a report:
 
 ## Sharing Link
 
-A Sharing Link is a link that can be accessed by anyone even without having a Whaly account. It's perfect for partners, investors, teammates (Sales rep, ...), TV in your offices, etc.
+A Sharing Link is a link that can be accessed by anyone even those not having a Whaly account. It's perfect for partners, investors, TV in your offices, etc.
 
 A Sharing Link can:
 
@@ -16,11 +16,11 @@ A Sharing Link can:
 
 A single report can have multiple Sharing Link with different passwords and pre-defined filters for each audience. This way you can share a single dashboard to hundred of different stakeholders.
 
-To create a Sharing Link, click on "share" on the top right corner of a Report.
+To create a **Sharing Link**, click on "share" on the top right corner of a Report.
 
 ![](<../../.gitbook/assets/image (170) (1).png>)
 
-On the panel that open, you can view all the already existing Sharing Links, edit them or get their link.
+On the panel that open, you can view all the already existing **Sharing Links**, edit them or get their link.
 
 At the bottom of the panel, you can click on "**New Sharing Link**" to create a new sharing link.
 

@@ -31,7 +31,7 @@ When adding new tiles to a report, you should update the tiles to update section
 
 When creating or editing filters, you can select the "Hide your filter from the report" option. This will prevent users to change the filter value.
 
-The option is useful when used with [sharing links](share-a-report-by-link.md), in order to give a different default value to a filter based on the sharing link.
+The option is useful when used with [sharing links](../../workspace/sharing-and-collaboration/share-a-report-by-link.md), in order to give a different default value to a filter based on the sharing link.
 
 
 
