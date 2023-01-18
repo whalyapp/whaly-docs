@@ -1,6 +1,8 @@
 # Using custom formatting
 
-Custom format relies on [numeral.js](http://numeraljs.com/#format) in order to provide you with the ability to easily customise your metrics formatting.
+## Formatting numbers
+
+Custom number format relies on [numeral.js](http://numeraljs.com/#format) in order to provide you with the ability to easily customise your metrics formatting.
 
 The following table should be read this way:
 
@@ -79,4 +81,41 @@ The following table should be read this way:
 | 12398734.202 | 0.00e+0  | 1.24e+7  |
 | 0.000123987  | 0.000e+0 | 1.240e-4 |
 
-###
+## Formatting durations
+
+Custom duration format relies on [moment duration format](https://github.com/jsmreese/moment-duration-format) in order to provide you with the ability to easily customise your metrics formatting.
+
+To format a duration you can use the following tokens :&#x20;
+
+```
+years:   Y or y
+months:  M
+weeks:   W or w
+days:    D or d
+hours:   H or h
+minutes: m
+seconds: s
+ms:      S
+```
+
+Escape token characters within the template string using square brackets :&#x20;
+
+```
+h [hrs], m [min]
+```
+
+For some time duration formats, a zero-padded value is required. Use multiple token characters together to create the correct amount of padding.
+
+```
+"h:mm:ss"
+
+"ss [s]"
+```
+
+Examples&#x20;
+
+| Input (in seconds) | format               | output         |
+| ------------------ | -------------------- | -------------- |
+| 61                 | mm:ss                | 01:01          |
+| 61                 | m \[min], s \[sec]   | 1 min, 1 sec   |
+| 61                 | mm \[min], ss \[sec] | 01 min, 01 sec |
