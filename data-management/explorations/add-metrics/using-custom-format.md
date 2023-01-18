@@ -100,19 +100,9 @@ ms:      S
 
 Escape token characters within the template string using square brackets :&#x20;
 
-```
-h [hrs], m [min]
-```
-
 For some time duration formats, a zero-padded value is required. Use multiple token characters together to create the correct amount of padding.
 
-```
-"h:mm:ss"
-
-"ss [s]"
-```
-
-Examples&#x20;
+### Examples&#x20;
 
 | Input (in seconds) | format               | output         |
 | ------------------ | -------------------- | -------------- |
