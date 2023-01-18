@@ -87,20 +87,26 @@ Custom duration format relies on [moment duration format](https://github.com/jsm
 
 To format a duration you can use the following tokens :&#x20;
 
-```
-years:   Y or y
-months:  M
-weeks:   W or w
-days:    D or d
-hours:   H or h
-minutes: m
-seconds: s
-ms:      S
-```
+| Category     | Token | Output       |
+| ------------ | ----- | ------------ |
+| milliseconds | S     | 1 2 3 ...    |
+|              | SS    | 01 02 03 ... |
+| seconds      | s     | 1 2 3 ...    |
+|              | ss    | 01 02 03 ... |
+| minutes      | m     | 1 2 3 ...    |
+|              | mm    | 01 02 03 ... |
+| hours        | h     | 1 2 3 ...    |
+|              | hh    | 01 02 03 ... |
+| days         | d     | 1 2 3 ...    |
+|              | dd    | 01 02 03 ... |
+| weeks        | w     | 1 2 3 ...    |
+|              | ww    | 01 02 03 ... |
+| months       | M     | 1 2 3 ...    |
+|              | MM    | 01 02 03 ... |
+| years        | y     | 1 2 3 ...    |
+|              | yy    | 01 02 03 ... |
 
-Escape token characters within the template string using square brackets :&#x20;
-
-For some time duration formats, a zero-padded value is required. Use multiple token characters together to create the correct amount of padding.
+Escape token characters within the template string using square brackets.
 
 ### Examples&#x20;
 
