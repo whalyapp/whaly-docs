@@ -1,10 +1,10 @@
 # Configure a Push
 
-## Creating/Listing Push
+Creating/Listing Push
 
-On Dashboards and Questions, you can click on the "**⚡️ Push**" button at the top right of the screen to list available **Push** and create new ones.
+On Dashboards and Questions, you can click on the "**Push to 3rd party**" button at the top right of the screen to list available **Push** and create new ones.
 
-![](<../../.gitbook/assets/image (190).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Formats
 

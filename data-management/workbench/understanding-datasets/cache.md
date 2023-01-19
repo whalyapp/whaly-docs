@@ -10,7 +10,7 @@ We pride ourselves into providing a great experience to all data consumer in get
 
 In order to manage the cache strategy, please **open any dataset** on the workbench and click on **Information**, then you can find a **Cache Strategy** card with your card option. Please note that by default all dataset created from Whaly's sources will have the cache strategy set up to use the `_whaly_synced` column that is automatically created. Otherwise datasets will be created with a `2 minutes` cache strategy.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Editing cache</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Editing cache</p></figcaption></figure>
 
 {% hint style="info" %}
 Please note that each time you are changing the underlying SQL query or adding/editing new dimensions and metrics to exploration, this also reset the cache.
