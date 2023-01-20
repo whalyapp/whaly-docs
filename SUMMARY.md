@@ -219,3 +219,7 @@
 ## Guides
 
 * [⛑ Support](guides/support.md)
+
+## User
+
+* [🤩 Upload your profile picture](user/upload-your-profile-picture.md)
