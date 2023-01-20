@@ -20,7 +20,7 @@ In order to trigger a sync, go to the **Overview** menu and click on **Sync Now*
 
 ### Error and Alerting
 
-A source can be in error when we deal with issues of connectivity of if something goes wrong during the replication process, we flag the source in ERROR. By doing so we alert all [Admin Builders](../organization/manage-access-control.md#admin-builder) in your organisation in real time with the cause of the error so they can troubleshoot the integration. When your source is in error you can find an error warning on the main screen as well as next to the source and you can view your error in the user interface.
+A source can be in error when we deal with issues of connectivity of if something goes wrong during the replication process, we flag the source in ERROR. By doing so we alert all [Admin Builders](../organisation/manage-access-control.md#admin-builder) in your organisation in real time with the cause of the error so they can troubleshoot the integration. When your source is in error you can find an error warning on the main screen as well as next to the source and you can view your error in the user interface.
 
 &#x20;
 
@@ -46,6 +46,6 @@ In order to better understand which table is taking the most time you can browse
 
 ## Modifying your source settings&#x20;
 
-You can modify at any time how your source is configured. Please note that only [Admin Builder](../organization/manage-access-control.md#admin-builder) have the right to do so. In order to do it, you can open the **Settings** tab and modify one by one your source connection properties.
+You can modify at any time how your source is configured. Please note that only [Admin Builder](../organisation/manage-access-control.md#admin-builder) have the right to do so. In order to do it, you can open the **Settings** tab and modify one by one your source connection properties.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Settings update</p></figcaption></figure>

@@ -12,8 +12,8 @@ From this tab you can:
 
 ## Access Management (2)
 
-{% content-ref url="../organization/manage-access-to-your-organization.md" %}
-[manage-access-to-your-organization.md](../organization/manage-access-to-your-organization.md)
+{% content-ref url="../organisation/manage-access-to-your-organisation.md" %}
+[manage-access-to-your-organisation.md](../organisation/manage-access-to-your-organisation.md)
 {% endcontent-ref %}
 
 ## Source Usage (3)
@@ -22,7 +22,7 @@ This gives you access to a dashboard to view your consumption from a source pers
 
 ## Warehouse (4)
 
-This tab allow you to view / edit your warehouse credentials, only [Admin Builder](../organization/manage-access-control.md#admin-builder) can view it
+This tab allow you to view / edit your warehouse credentials, only [Admin Builder](../organisation/manage-access-control.md#admin-builder) can view it
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 

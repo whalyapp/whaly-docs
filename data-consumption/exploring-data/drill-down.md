@@ -1,6 +1,6 @@
-# Drill through
+# Drill Down
 
-On any report, users can drill through any chart. They can click on any figures to [access predefined values](../../data-management/workbench/understanding-datasets/drills.md) by [your builder](../../organization/manage-access-control.md#builder).
+On any report, users can drill through any chart. They can click on any figures to [access predefined values](../../data-management/workbench/understanding-datasets/drills.md) by [your builder](../../organisation/manage-access-control.md#builder).
 
 Once the drills is shown you can download the results as CSV.
 

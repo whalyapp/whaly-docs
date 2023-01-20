@@ -27,7 +27,7 @@ If your current plan doesn't include SSO support, a link to contact Whaly Sales 
 
 Whenever a new User from your company directory is logging for the first time into Whaly, a new User will be created on the fly and a Viewer (free) access will be created on the Organizations of your team.
 
-The Administrators of your [Organizations](broken-reference) will then be able to assign the proper [access](../organization/manage-access-control.md) and [licenses](../organization/understanding-licences.md) to them.
+The Administrators of your [Organizations](broken-reference) will then be able to assign the proper [access](../organisation/manage-access-control.md) and [licenses](../organisation/understanding-licences.md) to them.
 
 ## Supported Identity Providers
 

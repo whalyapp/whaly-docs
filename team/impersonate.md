@@ -2,7 +2,7 @@
 
 When building your system of permissions, it can get tricky to know what can each of your users view and access or reproduce some access control issues that could block them.
 
-To help **Team Owners** configure and troubleshoot the access control settings of their [Team users](what-is-a-team.md), an **Impersonate** functionality is available in the [Access Management settings page](../organization/manage-access-to-your-organization.md) of each organisation.
+To help **Team Owners** configure and troubleshoot the access control settings of their [Team users](what-is-a-team.md), an **Impersonate** functionality is available in the [Access Management settings page](../organisation/manage-access-to-your-organisation.md) of each organisation.
 
 {% hint style="info" %}
 For security reasons, **only the Team Owners** has access to this Impersonate functionality. Regular Users of the Team can't impersonate each others.

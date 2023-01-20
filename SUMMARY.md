@@ -8,13 +8,14 @@
 * [🛡 Single Sign On](team/single-sign-on.md)
 * [🥷 Impersonate](team/impersonate.md)
 
-## Organization
+## Organisation
 
-* [🏫 What is an organization?](organization/what-is-an-organization.md)
-* [🔑 Manage Access to your organization](organization/manage-access-to-your-organization.md)
-* [❓ Understanding Licences](organization/understanding-licences.md)
-* [👮 Understanding User Roles](organization/manage-access-control.md)
-* [👭 User Groups](organization/user-groups.md)
+* [🏫 What is an organisation?](organisation/what-is-an-organisation.md)
+* [📤 Upload your Organisation logo](organisation/upload-your-organisation-logo.md)
+* [🔑 Manage Access to your organisation](organisation/manage-access-to-your-organisation.md)
+* [❓ Understanding Licences](organisation/understanding-licences.md)
+* [👮 Understanding User Roles](organisation/manage-access-control.md)
+* [👭 User Groups](organisation/user-groups.md)
 
 ## Workspace
 

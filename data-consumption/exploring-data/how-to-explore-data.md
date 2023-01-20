@@ -2,7 +2,7 @@
 
 ## Explore from your workspace
 
-From your workspace tab, you can access all exploration your builders have created for you. In order to access all explorations from your workspace, click on **Explore** at the top of the [Content Selector](broken-reference). Please note that only [editor](../../organization/manage-access-control.md#editor) and [higher roles](../../organization/manage-access-control.md#builder) have access to explorations.
+From your workspace tab, you can access all exploration your builders have created for you. In order to access all explorations from your workspace, click on **Explore** at the top of the [Content Selector](broken-reference). Please note that only [editor](../../organisation/manage-access-control.md#editor) and [higher roles](../../organisation/manage-access-control.md#builder) have access to explorations.
 
 <figure><img src="../../.gitbook/assets/Screen Cast 2022-09-08 at 10.27.15 AM.gif" alt=""><figcaption><p>Explore from workspace</p></figcaption></figure>
 
