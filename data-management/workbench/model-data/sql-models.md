@@ -18,7 +18,7 @@ In order to create a SQL Model, open your **View Selector** on **Data**, click o
 
 You can modify your SQL model query whenever you need to. In order to do click on the configuration tab, modify the query, run the query (you can save a query only if it outputs data). Before saving data we ask you to provide us the Primary Keys of your model so we know how to use it in an exploration.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Save a query</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Save a query</p></figcaption></figure>
 
 ## Use Composition in your SQL queries
 

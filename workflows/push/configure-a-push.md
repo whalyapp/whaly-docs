@@ -4,7 +4,7 @@ Creating/Listing Push
 
 On Dashboards and Questions, you can click on the "**Push to 3rd party**" button at the top right of the screen to list available **Push** and create new ones.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Formats
 

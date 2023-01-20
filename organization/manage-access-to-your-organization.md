@@ -1,4 +1,4 @@
-# 🔑 Manage Access to your org
+# 🔑 Manage Access to your organization
 
 You can manage who has access to your org by going to the **settings page** and then to the **access management** page
 
@@ -22,7 +22,7 @@ Note that you won't be billed for the **Whaly support team** user access as we a
 
 You can grant access to anybody in your org by simply inviting them. In order to do so you can click on the **invite button** and fill the form to invite your user.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 When inviting a user you are asked to select a user role for your invited user. In order to understand what each role can do on the platform and how they are correlated to licensing you can check those articles.
 

@@ -142,19 +142,6 @@
 
 * [💡 Exploring data](data-consumption/exploring-data/README.md)
   * [How to explore data](data-consumption/exploring-data/how-to-explore-data.md)
-  * [Chart your data](data-management/explorations/create-a-chart/README.md)
-    * [Metric chart](data-management/explorations/create-a-chart/metric-chart.md)
-    * [Gauge chart](data-management/explorations/create-a-chart/gauge-chart.md)
-    * [Line chart](data-management/explorations/create-a-chart/line-chart.md)
-    * [Bar chart](data-management/explorations/create-a-chart/bar-chart.md)
-    * [Pie chart](data-management/explorations/create-a-chart/pie-chart.md)
-    * [Table chart](data-management/explorations/create-a-chart/table-chart.md)
-    * [Funnel chart](data-management/explorations/create-a-chart/funnel-chart.md)
-    * [Waterfall chart](data-management/explorations/create-a-chart/waterfall-chart.md)
-    * [Heatmap chart](data-management/explorations/create-a-chart/heatmap-chart.md)
-    * [Map chart](data-management/explorations/create-a-chart/map-chart.md)
-    * [Worldmap chart](data-management/explorations/create-a-chart/worldmap-chart.md)
-    * [Custom time format in time series](data-management/explorations/create-a-chart/custom-time-format-in-time-series.md)
   * [Drill Down](data-consumption/exploring-data/drill-down.md)
   * [Forecasting](data-management/explorations/forecasting.md)
 * [💹 What is a Report?](data-consumption/what-is-a-report.md)
@@ -177,6 +164,23 @@
   * [Push question data](content-management/questions/push-question-data.md)
   * [Delete a question](content-management/questions/delete-a-question.md)
 * [🔁 Refreshing a report](data-consumption/refreshing-a-report.md)
+
+## Data visualisation
+
+* [🎨 Theming](data-visualisation/theming.md)
+* [📈 Chart your data](data-visualisation/chart-your-data/README.md)
+  * [Metric chart](data-visualisation/chart-your-data/metric-chart.md)
+  * [Gauge chart](data-visualisation/chart-your-data/gauge-chart.md)
+  * [Line chart](data-visualisation/chart-your-data/line-chart.md)
+  * [Bar chart](data-visualisation/chart-your-data/bar-chart.md)
+  * [Pie chart](data-visualisation/chart-your-data/pie-chart.md)
+  * [Table chart](data-visualisation/chart-your-data/table-chart.md)
+  * [Funnel chart](data-visualisation/chart-your-data/funnel-chart.md)
+  * [Waterfall chart](data-visualisation/chart-your-data/waterfall-chart.md)
+  * [Heatmap chart](data-visualisation/chart-your-data/heatmap-chart.md)
+  * [Map chart](data-visualisation/chart-your-data/map-chart.md)
+  * [Worldmap chart](data-visualisation/chart-your-data/worldmap-chart.md)
+  * [Custom time format in time series](data-visualisation/chart-your-data/custom-time-format-in-time-series.md)
 
 ## Content management
 

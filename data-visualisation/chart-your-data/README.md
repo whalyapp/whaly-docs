@@ -1,10 +1,10 @@
-# Chart your data
+# 📈 Chart your data
 
 Before creating a chart, make sure that your exploration contains metrics and, optionally, dimensions.&#x20;
 
 ## Select a chart type
 
-![](<../../../.gitbook/assets/image (177).png>)
+![](<../../.gitbook/assets/image (177).png>)
 
 The first thing you should do is select the chart type you will create. It can be either :&#x20;
 
@@ -20,7 +20,7 @@ You will see that the query will be converted to a chart in the visualisation pa
 
 You can also change the visualisation type by clicking on the icons at the top of the visualisation.
 
-![](<../../../.gitbook/assets/create a chart (1).gif>)
+![](<../../.gitbook/assets/create a chart (1).gif>)
 
 ## Customise the chart
 

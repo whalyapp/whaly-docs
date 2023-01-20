@@ -11,8 +11,8 @@ Learn:
 [how-to-explore-data.md](how-to-explore-data.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../data-management/explorations/create-a-chart/" %}
-[create-a-chart](../../data-management/explorations/create-a-chart/)
+{% content-ref url="../../data-visualisation/chart-your-data/" %}
+[chart-your-data](../../data-visualisation/chart-your-data/)
 {% endcontent-ref %}
 
 {% content-ref url="../../data-management/explorations/forecasting.md" %}
