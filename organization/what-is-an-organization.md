@@ -15,4 +15,4 @@ You can have access to multiple organizations for different purposes:
 
 If you have access to multiple orgs you can switch org by clicking on your **profile picture** and then on  **Change Organization**.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Switch org</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Switch org</p></figcaption></figure>

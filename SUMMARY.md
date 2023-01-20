@@ -168,7 +168,7 @@
 ## Data visualisation
 
 * [🎨 Theming](data-visualisation/theming.md)
-* [📈 Chart your data](data-visualisation/chart-your-data/README.md)
+* [🖌 Chart your data](data-visualisation/chart-your-data/README.md)
   * [Metric chart](data-visualisation/chart-your-data/metric-chart.md)
   * [Gauge chart](data-visualisation/chart-your-data/gauge-chart.md)
   * [Line chart](data-visualisation/chart-your-data/line-chart.md)

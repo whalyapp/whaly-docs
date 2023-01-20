@@ -1,4 +1,4 @@
-# 📈 Chart your data
+# 🖌 Chart your data
 
 Before creating a chart, make sure that your exploration contains metrics and, optionally, dimensions.&#x20;
 

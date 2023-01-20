@@ -21,7 +21,7 @@ In the flow editor there are 5 kind of actions that you can do:
 
 Steps have an internal state where they can be in <mark style="color:orange;">**warning**</mark> or in <mark style="color:green;">**success**</mark>. When your step configuration is not successful meaning that the SQL generated underneath contains errors then your step will be flagged as warning and a warning sign will be displayed next to it. When there is no warning sign it means that the steps is in success.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note that you cannot assign the output to a steps that has warnings and you cannot save your flow if any of the steps have warnings.
