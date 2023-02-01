@@ -35,6 +35,8 @@
 * [❄ Snowflake](warehouse/snowflake/README.md)
   * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
+* [🐘 Postgres](warehouse/postgres/README.md)
+  * [Connect your Postgres](warehouse/postgres/connect-your-postgres.md)
 
 ## Sources
 
