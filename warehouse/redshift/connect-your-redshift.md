@@ -1,6 +1,6 @@
 # Connect your Redshift
 
-Setting up the Redshift destination connector involves setting up Postgres entities (user, grants) through Postgres access, and configuring the Postgres destination connector using Whaly UI.
+Setting up the Redshift destination connector involves setting up Redshift entities (user, grants) through Redshift access, and configuring the Redshift destination connector using Whaly UI.
 
 This page describes the step-by-step process of setting up the Redshift destination connector.
 
