@@ -9,7 +9,7 @@ This page describes the step-by-step process of setting up the Postgres destinat
 To set up the Postgres destination connector, you first need to connect to your Postgres server to run some SQL queries.
 
 ```
-CREATE USER whaly-bi WITH ENCRYPTED PASSWORD 'some_password_here';
+CREATE USER whaly_bi WITH ENCRYPTED PASSWORD 'some_password_here';
 GRANT CONNECT ON DATABASE database_name to whaly_bi;
 \c database_name
 GRANT SELECT ON ALL SEQUENCES IN SCHEMA public TO whaly_bi;
@@ -43,7 +43,7 @@ See [`ALTER DEFAULT PRIVILEGES`](https://www.postgresql.org/docs/9.4/sql-alterde
 
 ### Step 2: Set up Postgres as a destination in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
 
-Navigate to the Whaly UI to set up Snowflake as a destination. You can authenticate using username/password.
+Navigate to the Whaly UI to set up Postgres as a destination. You can authenticate using username/password.
 
 
 
@@ -54,4 +54,8 @@ Navigate to the Whaly UI to set up Snowflake as a destination. You can authentic
 | Database | The name of the Postgres database to connect to on the server. Default is: `postgres`                   |
 | User     | The name of the user to use for Whaly BI. Default is: `whaly_bi`                                        |
 | Password | The password of the user created for Whaly BI                                                           |
+
+### Step 3: Secure the database connection
+
+Please make sure to properly [whitelist Whaly IPs](../../sources/whitelisting-whaly-ips.md).
 
