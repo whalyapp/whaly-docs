@@ -14,7 +14,7 @@ In order to use this integration you need:
 
 Go to your Account **Settings > Service Token** and create a new service token. Give this Service Token access to your desired project as well as the following roles:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Metadata Only
 * Job Admin
@@ -52,7 +52,7 @@ https://cloud.getdbt.com/next/deploy/<Account Id>/projects/<Project Id>/jobs
 
 Open Whaly and go to the [workbench](../). On the workbench please click on **View > Settings**. You should see a page like this:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Click on **Use dbt cloud for modeling**.&#x20;
 

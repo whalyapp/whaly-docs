@@ -15,7 +15,7 @@ Palette are a set of colours that should used to color a given chart. Different 
 * **Sequential**: Those are used when looking at data that progress from low to high, like CSAT or customer score. They will store a gradient of continuous colours that will be used to represent a spectrum.
 * **Diverging**: This is a special case of "**Sequential**". Diverging palettes are most effective when the class break in the middle of the sequence, or the lightest middle colour, is meaningfully related to the mapped data. They will store a gradient of continous colours that will be used to represent a spectrum.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><strong>Sequential and Diverging palettes are configured the same way, a spectrum of colors have to be configured</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p><strong>Sequential and Diverging palettes are configured the same way, a spectrum of colors have to be configured</strong></p></figcaption></figure>
 
 ## Palette collections
 
@@ -33,7 +33,7 @@ When creating a palette collection, a palette of each kind should be provided. I
 
 The choice of the palette to use in the collection is done at the chart level.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Setting a palette is done at the chart level</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting a palette is done at the chart level</p></figcaption></figure>
 
 {% hint style="info" %}
 When updating the colours contains in the Palette collection, it will affect all charts using this collection in all dashboards.

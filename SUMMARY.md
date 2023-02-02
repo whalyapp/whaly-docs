@@ -32,6 +32,7 @@
 * [🔷 BigQuery](warehouse/bigquery/README.md)
   * [Connect your BigQuery](warehouse/bigquery/connect-your-bigquery.md)
   * [Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
+  * [Grant access to BigQuery datasets](warehouse/bigquery/grant-access-to-bigquery-datasets.md)
 * [❄ Snowflake](warehouse/snowflake/README.md)
   * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)

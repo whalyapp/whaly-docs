@@ -10,7 +10,7 @@ The workbench top menu helps you quickly create datasets and switch through view
 
 The view selector helps you navigate through different kind of objects such as your datasets and workbench executions.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>View Selector</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>View Selector</p></figcaption></figure>
 
 ## Tab bar
 

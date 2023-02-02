@@ -44,9 +44,9 @@ In order to create the service account that will be used by Whaly to connect to 
 ![](<../../.gitbook/assets/image (229).png>)
 
 * In the **New Members** field, enter the service account you created in Step 2.A. The service account is the entire email address.
-* Click **Select a role > BigQuery > BigQuery Admin**.
+* Click **Select a role > BigQuery > BigQuery User**.
 
-![](<../../.gitbook/assets/Screenshot 2021-11-02 at 14.42.48.png>)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **C. Download the service account private key**
 
@@ -62,8 +62,8 @@ In Google Cloud, Cloud Storage buckets are data repositories that are used to lo
 ![](<../../.gitbook/assets/image (224).png>)
 
 * Create the bucket:
-  * Name: The name that you want to keep, ex. "whaly-connectors-loading-deck"
-  * Location type: We advise "Multi-region" for maximum reliability
+  * Name: The name that you want to keep, ex. "`whaly-connectors-loading-deck`"
+  * Location type: We advise "~~Multi-region~~" for maximum reliability
   * Location: The region in which your BigQuery data is (EU / US) --> :scissors:Set the same value in the Whaly form.&#x20;
   * Storage class: Standard
   * Access control: Fine grained
