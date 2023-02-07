@@ -184,8 +184,8 @@
   * [Funnel chart](data-visualisation/chart-your-data/funnel-chart.md)
   * [Waterfall chart](data-visualisation/chart-your-data/waterfall-chart.md)
   * [Heatmap chart](data-visualisation/chart-your-data/heatmap-chart.md)
-  * [Map chart](data-visualisation/chart-your-data/map-chart.md)
-  * [Worldmap chart](data-visualisation/chart-your-data/worldmap-chart.md)
+  * [Interactive map chart](data-visualisation/chart-your-data/interactive-map-chart.md)
+  * [Geo map chart](data-visualisation/chart-your-data/geo-map-chart.md)
   * [Custom time format in time series](data-visualisation/chart-your-data/custom-time-format-in-time-series.md)
 
 ## Content management

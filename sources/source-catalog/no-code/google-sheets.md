@@ -50,3 +50,9 @@ In the next screen, enter your google sheet url:
 ![](<../../../.gitbook/assets/image (133).png>)
 
 Your Google Sheets url looks like : https://docs.google.com/spreadsheets/d/\[Spreadsheet ID]/edit#gid=0
+
+## Troobleshooting a Google Sheet source in failure
+
+Google sheets being a spreadsheet, it will allow the use of different types of data (string, number, date, boolean, ...) in a same column. This behaviour goes against the principles of SQL databases that needs typed columns in order to be able to work (meaning you can only have one type of data in a column).
+
+As your spreadsheet evolves, you may purposefuly (or not) change the type of a column. When this happens, the connector will create a new column and add the suffix \_\_\_\[NEW\_TYPE] to your ol

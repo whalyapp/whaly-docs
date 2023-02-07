@@ -1,8 +1,8 @@
-# Map chart
+# Interactive map chart
 
-A map is a chart that displays a metric based on a geographical dimension :
+An interactive map is a chart that displays a metric based on a geographical dimension :
 
-![](<../../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (181).png>)
 
 ### Chart usage
 
