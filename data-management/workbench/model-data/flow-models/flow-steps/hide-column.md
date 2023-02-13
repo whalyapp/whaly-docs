@@ -12,7 +12,7 @@ On any previously steps available in your editor select a step and click on **Hi
 
 ## How to configure it?
 
-<figure><img src="../../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 You can use this highlighted panel to select the columns you want to keep and the columns you want to hide.
 

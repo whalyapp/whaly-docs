@@ -12,4 +12,4 @@ Connecting a Whaly to a warehouse ensures:
 
 ## How is the warehouse connection working?
 
-When connecting Whaly to your warehouse, we ensure that the connection to your warehouse is the most secured based on the driver you are using. As of today Whaly supports two drivers, [BigQuery](bigquery/) and [Snowflake](snowflake/).&#x20;
+When connecting Whaly to your warehouse, we ensure that the connection to your warehouse is the most secured based on the driver you are using. As of today Whaly supports two drivers, [BigQuery](google-bigquery/) and [Snowflake](snowflake/).&#x20;

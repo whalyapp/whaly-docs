@@ -12,7 +12,7 @@ On any previously steps available in your editor select a step and click on **Fi
 
 ## How to configure it?
 
-<figure><img src="../../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 In order to use the filters you can:
 

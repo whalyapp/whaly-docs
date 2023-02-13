@@ -29,17 +29,21 @@
 ## Warehouse
 
 * [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
-* [🔷 BigQuery](warehouse/bigquery/README.md)
-  * [Connect your BigQuery](warehouse/bigquery/connect-your-bigquery.md)
-  * [Configure a Cloud Storage cleaning rule](warehouse/bigquery/configure-a-cloud-storage-cleaning-rule.md)
-  * [Grant access to BigQuery datasets](warehouse/bigquery/grant-access-to-bigquery-datasets.md)
+* [⚔ Amazon Athena](warehouse/amazon-athena/README.md)
+  * [Connect your Athena](warehouse/amazon-athena/connect-your-athena.md)
+* [🏮 Amazon Redshift](warehouse/amazon-redshift/README.md)
+  * [Connect your Redshift](warehouse/amazon-redshift/connect-your-redshift.md)
+* [🧱 Databricks](warehouse/databricks/README.md)
+  * [Connect your Databricks](warehouse/databricks/connect-your-databricks.md)
+* [🔷 Google BigQuery](warehouse/google-bigquery/README.md)
+  * [Connect your BigQuery](warehouse/google-bigquery/connect-your-bigquery.md)
+  * [Configure a Cloud Storage cleaning rule](warehouse/google-bigquery/configure-a-cloud-storage-cleaning-rule.md)
+  * [Grant access to BigQuery datasets](warehouse/google-bigquery/grant-access-to-bigquery-datasets.md)
+* [🐘 Postgres](warehouse/postgres/README.md)
+  * [Connect your Postgres](warehouse/postgres/connect-your-postgres.md)
 * [❄ Snowflake](warehouse/snowflake/README.md)
   * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
-* [🏮 Redshift](warehouse/redshift/README.md)
-  * [Connect your Redshift](warehouse/redshift/connect-your-redshift.md)
-* [🐘 Postgres](warehouse/postgres/README.md)
-  * [Connect your Postgres](warehouse/postgres/connect-your-postgres.md)
 
 ## Sources
 

@@ -33,7 +33,7 @@ When creating a palette collection, a palette of each kind should be provided. I
 
 The choice of the palette to use in the collection is done at the chart level.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Setting a palette is done at the chart level</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Setting a palette is done at the chart level</p></figcaption></figure>
 
 {% hint style="info" %}
 When updating the colours contains in the Palette collection, it will affect all charts using this collection in all dashboards.

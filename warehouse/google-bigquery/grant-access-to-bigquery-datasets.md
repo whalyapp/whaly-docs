@@ -13,14 +13,14 @@ By default, Whaly will only have access to the Datasets created by Whaly connect
 
 4. In the side panel that opens, click on "Add Principal"
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5. In the "New principals" search bar, select the Service Account configured in Whaly. And in the "Assign roles", select the "BigQuery Data Viewer" role.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on "Save"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 And that's it! Whaly will now let users import tables from this BigQuery Dataset 🎉

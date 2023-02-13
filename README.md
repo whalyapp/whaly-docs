@@ -6,7 +6,7 @@ This documentation is geared towards data analysts so they are able to manage an
 
 
 1. ****[**📦 Connect to your data Warehouse**  \
-   ****](warehouse/connect-your-warehouse.md)Whaly is directly connected to your Data Warehouse ([BigQuery](warehouse/bigquery/) / [Snowflake](warehouse/snowflake/)) so that your data stays in your control, from the ingestion to the consumption.\
+   ****](warehouse/connect-your-warehouse.md)Whaly is directly connected to your Data Warehouse ([BigQuery](warehouse/google-bigquery/) / [Snowflake](warehouse/snowflake/)) so that your data stays in your control, from the ingestion to the consumption.\
 
 2. ****[**🔌 Connect business data using Sources**\
    ****](sources/how-sources-work.md)Whaly connects directly to your key data sources (CRM, Marketing platform, ...) and continuously sync your data into your warehouse so you can create better experiences for your end users.\
