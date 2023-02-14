@@ -9,7 +9,7 @@ By default, Whaly will only have access to the Datasets created by Whaly connect
 2. On the left panel, click on one Dataset name (ex. "Days") to open it
 3. On the Dataset page, click on "Sharing > Permissions" menu item
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. In the side panel that opens, click on "Add Principal"
 
