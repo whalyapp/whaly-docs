@@ -106,6 +106,6 @@ Whaly user needs to access to 2 kinds of S3 buckets:
 
 In order to properly query your Athena data, Whaly needs to know in which region you want to run the compute. It should be one of the [AWS Region](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html) (ex. us-east1). A good practise would be to use the same one as the one you are using when doing SQL Queries in the console:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Also, you'll need to [select an existing work group or create one.](https://docs.aws.amazon.com/athena/latest/ug/workgroups-create-update-delete.html) Inside Whaly, you'll need to pass the name of the Workgroup you wish to use when querying your data with Whaly.
