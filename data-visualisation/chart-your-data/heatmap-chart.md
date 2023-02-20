@@ -1,8 +1,8 @@
 # Heatmap chart
 
-Heatmap charts are a good way to display data
+Heatmaps are a great way to show relationships between two variables
 
-![](<../../../.gitbook/assets/image (207).png>)
+![](<../../.gitbook/assets/image (207).png>)
 
 ### **Chart characteristics**
 

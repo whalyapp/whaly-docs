@@ -20,7 +20,7 @@ In order to connect to your Databricks Workspace, Whaly will need a SQL Warehous
 * Go your Workspace home page
 * In the left panel, select "SQL" to enter the SQL space of your Workspace
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Once in the SQL space, click on "SQL Warehouses" in the left panel
 

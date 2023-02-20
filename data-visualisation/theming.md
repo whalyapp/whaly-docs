@@ -49,4 +49,4 @@ In order to ease the use of an organisation custom palette, charts are assigned 
 
 Inside the Palette collection management screen, it is possible to set any Palette collection as being the "Default" one.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Each palette collection can become the default one for the organisation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Each palette collection can become the default one for the organisation</p></figcaption></figure>
