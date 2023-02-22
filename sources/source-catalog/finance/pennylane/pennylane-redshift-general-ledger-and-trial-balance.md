@@ -16,8 +16,10 @@ Syncing your Pennylane account can be useful for various cases:
 
 * **Company**: Companies are business whose accounts are tracked within Pennylane.
 * **General Ledger**: The book in which company transactions are recorded.
-* **General Ledger with Tags**: The book in which company transactions are recorded, with analytical tags. Credit and Debit are weighted with the Tag weight.
+* **Analytical Ledger:** The book in which company transactions are recorded with analytical tags.
 * **Trial Balance**: This is the trial balance of the companies.
+* **Customer Invoices**: Customer invoices are invoices sent to your customers.
+* **Supplier Invoices**: Supplier invoices are invoices received from your suppliers.
 
 [You can find the relationship between all those objects here.](https://docs.google.com/presentation/d/1oQoJ1JM4CONDgKYsEWBVBYQ4mkjIcQ7UIxsovTi-Z5w/edit?usp=sharing)
 
