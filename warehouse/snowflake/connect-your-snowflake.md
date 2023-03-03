@@ -46,6 +46,7 @@ set whaly_dataloading_password = 'you_should_change_me';
 
 -- This shouldn't be modified
 set whaly_dataloading_database = 'WHALY_DATALOADING_DATABASE';
+set whaly_scratch_schema = 'SCRATCH';
 
 --|| Business Intelligence User ||--
 
@@ -120,6 +121,16 @@ grant OWNERSHIP
 grant USAGE
     on database identifier($whaly_dataloading_database)
     to role identifier($whaly_bi_role);
+
+-- create scratch schema
+use database identifier($whaly_dataloading_database);
+create schema if not exists identifier($whaly_scratch_schema);
+
+grant OWNERSHIP on schema identifier($whaly_scratch_schema)
+	to role identifier($whaly_dataloading_role);
+
+grant USAGE on schema identifier($whaly_scratch_schema)
+	to role identifier($whaly_bi_role);
 
 -- create Private Whaly database (used for SQL queries schema inference)
 create database if not exists WHALY_PRIVATE;
