@@ -63,7 +63,7 @@ In Google Cloud, Cloud Storage buckets are data repositories that are used to lo
 
 * Create the bucket:
   * Name: The name that you want to keep, ex. "`whaly-connectors-loading-deck`"
-  * Location type: We advise "~~Multi-region~~" for maximum reliability
+  * Location type: We advise "Multi-region" for maximum reliability
   * Location: The region in which your BigQuery data is (EU / US) --> :scissors:Set the same value in the Whaly form.&#x20;
   * Storage class: Standard
   * Access control: Fine grained
