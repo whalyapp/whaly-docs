@@ -44,7 +44,6 @@
 * [❄ Snowflake](warehouse/snowflake/README.md)
   * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
-  * [Setup Persistence Engine](warehouse/snowflake/setup-persistence-engine.md)
 
 ## Sources
 

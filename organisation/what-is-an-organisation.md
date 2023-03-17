@@ -1,4 +1,4 @@
-# 🏫 What is an organization?
+# 🏫 What is an organisation?
 
 An organization is a home for all content that will be created on Whaly, imagine it as a library where all your content is stored.
 
@@ -15,4 +15,4 @@ You can have access to multiple organizations for different purposes:
 
 If you have access to multiple orgs you can switch org by clicking on your **profile picture** and then on  **Change Organization**.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Switch org</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2023-03-17 at 10.22.59 AM.png" alt=""><figcaption><p>Switch org</p></figcaption></figure>
