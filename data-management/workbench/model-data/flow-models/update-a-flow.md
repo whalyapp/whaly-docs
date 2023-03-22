@@ -2,7 +2,7 @@
 
 You can modify a Flow query whenever you want to. In order to do so, click on your Flow and go to the **configuration** tab. You should be prompted with the **Flow Editor.**
 
-<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Flow editor</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Flow editor</p></figcaption></figure>
 
 In the flow editor there are 5 kind of actions that you can do:
 

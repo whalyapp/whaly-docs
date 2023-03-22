@@ -2,7 +2,7 @@
 
 Calendar heatmaps are a great way to visualize time-series data over an entire calendar year
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### **Chart characteristics**
 

@@ -4,7 +4,7 @@
 
 You can display the dataset information by opening any dataset and going to the **information** tab
 
-<figure><img src="../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Name & description
 

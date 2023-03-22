@@ -10,7 +10,7 @@ Palette are a set of colours that should used to color a given chart. Different 
 
 * **Categorical**: Those are used when looking at discrete data, like Names, etc. They will contains a set of colours that will be used to represent the different values displayed in the chart. The colours used in this palette **should all be easily distinguished from one another** so that people don't confuse them.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>To configure a <strong>categorical</strong> palette, you are being asked to enter each color one by one.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>To configure a <strong>categorical</strong> palette, you are being asked to enter each color one by one.</p></figcaption></figure>
 
 * **Sequential**: Those are used when looking at data that progress from low to high, like CSAT or customer score. They will store a gradient of continuous colours that will be used to represent a spectrum.
 * **Diverging**: This is a special case of "**Sequential**". Diverging palettes are most effective when the class break in the middle of the sequence, or the lightest middle colour, is meaningfully related to the mapped data. They will store a gradient of continous colours that will be used to represent a spectrum.
@@ -45,7 +45,7 @@ If a chart colours needs to be specific and not managed through a Palette collec
 
 In order to ease the use of an organisation custom palette, charts are assigned to the "**Default collection**" by default.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>A chart linked to the Default collection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>A chart linked to the Default collection</p></figcaption></figure>
 
 Inside the Palette collection management screen, it is possible to set any Palette collection as being the "Default" one.
 

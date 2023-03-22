@@ -1,9 +1,9 @@
-# Models sync
+# 💞 Models sync
 
 {% hint style="info" %}
-Whaly offer an [integrated lightweight modelling layer](../../data-management/workbench/model-data/) that can be seem as "conflicting" with others solutions such as dbt, Keboola and Dataform.
+Whaly offer an [integrated lightweight modelling layer](../model-data/) that can be seem as "conflicting" with others solutions such as dbt, Keboola and Dataform.
 
-However, this is not the case, both type of Models can and should be used at the same time for different reasons, [read this article to understand why.](where-should-my-models-be-managed.md)
+However, this is not the case, both type of Models can and should be used at the same time for different reasons, [read this article to understand why.](why-using-dbt-and-whaly.md)
 {% endhint %}
 
 Models sync is a set of integrations that enable Whaly to import Models managed by an external modelling solution (dbt Cloud, dbt Core, Keboola, Dataform).&#x20;
@@ -33,15 +33,15 @@ If your model has a test that renders a column unique, this column will automati
 
 If your model has associated tests, you can view their results in the preview tab or the information tab.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>A tested column with passing test</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>A tested column with passing test</p></figcaption></figure>
 
 All results associated to your model will be available in the information tab under the Run Result card.
 
-<figure><img src="../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>All tests associated to a dataset</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>All tests associated to a dataset</p></figcaption></figure>
 
 Please note that we automatically import your lineage as well:
 
-<figure><img src="../../.gitbook/assets/image (13) (4).png" alt=""><figcaption><p>dataset lineage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (4).png" alt=""><figcaption><p>dataset lineage</p></figcaption></figure>
 
 ### Sources
 
@@ -49,7 +49,7 @@ We import your sources as they are defined in your modelling project. The source
 
 This comes with the source freshness as well as any tests associated with your source table.
 
-<figure><img src="../../.gitbook/assets/image (25) (2).png" alt=""><figcaption><p>Source results</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (2).png" alt=""><figcaption><p>Source results</p></figcaption></figure>
 
 ## Benefits
 
@@ -65,4 +65,4 @@ This helps you to get a consistant pace of iteration.
 
 Since dashboards and exploration lives in Whaly we will display an error on any exploration or charts impacted with a lineage issue. This helps prevent your business users to trust stale data.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Lineage issue</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Lineage issue</p></figcaption></figure>

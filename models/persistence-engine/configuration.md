@@ -6,7 +6,7 @@ In order to activate the Persistence Engine, you have to go to the Settings pane
 
 You should have access to this screen:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 From there, you can:
 
@@ -22,8 +22,8 @@ For each model that you want to materialize, go into the Workbench and then clic
 
 From there, you'll see the Materialization section that will show you the current configuration for this model:
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on the "Materialize" button, you'll be able the update the configuration:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

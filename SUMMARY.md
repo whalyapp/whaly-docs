@@ -102,12 +102,12 @@
 
 ## Models
 
-* [Models sync](models/models-sync/README.md)
-  * [Where should my models be managed?](models/models-sync/where-should-my-models-be-managed.md)
+* [💞 Models sync](data-management/workbench/integrating-with-dbt-cloud/README.md)
+  * [Where should my models be managed?](data-management/workbench/integrating-with-dbt-cloud/why-using-dbt-and-whaly.md)
   * [dbt Cloud](models/models-sync/dbt-cloud/README.md)
-    * [Configuration](models/models-sync/dbt-cloud/configuration.md)
+    * [Configuration](data-management/workbench/integrating-with-dbt-cloud/configuration.md)
     * [Exposing models into Whaly](models/models-sync/dbt-cloud/exposing-models-into-whaly.md)
-* [Persistence Engine](models/persistence-engine/README.md)
+* [📥 Persistence Engine](data-management/workbench/model-data/materialization-beta.md)
   * [Configuration](models/persistence-engine/configuration.md)
   * [Check Materialisation runs status](models/persistence-engine/check-materialisation-runs-status.md)
 

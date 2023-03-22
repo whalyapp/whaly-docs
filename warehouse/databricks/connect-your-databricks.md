@@ -28,7 +28,7 @@ In order to connect to your Databricks Workspace, Whaly will need a SQL Warehous
 
 * In the SQL Warehouses screen, either create a dedicated Warehouse or select an existing one
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once in a Warehouse, click on "Connection details" tab and copy the JDBC URL
 

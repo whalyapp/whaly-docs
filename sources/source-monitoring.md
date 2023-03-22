@@ -24,7 +24,7 @@ A source can be in error when we deal with issues of connectivity of if somethin
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Source alerts</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2) (1).png" alt=""><figcaption><p>Source alerts</p></figcaption></figure>
 
 ### Execution log
 

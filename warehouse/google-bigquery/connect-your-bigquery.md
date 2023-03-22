@@ -46,7 +46,7 @@ In order to create the service account that will be used by Whaly to connect to 
 * In the **New Members** field, enter the service account you created in Step 2.A. The service account is the entire email address.
 * Click **Select a role > BigQuery > BigQuery User**.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **C. Download the service account private key**
 

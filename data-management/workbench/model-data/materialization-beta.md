@@ -1,4 +1,4 @@
-# Persistence Engine
+# 📥 Persistence Engine
 
 When you start to heavily using models you might experience the overall loading time of reports increasing. That's because your warehouse is doing too much at query time. You might also react the limits of your warehouse and some queries might not work anymore.
 
