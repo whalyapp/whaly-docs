@@ -13,7 +13,7 @@ By default, Whaly will only have access to the Datasets created by Whaly connect
 
 4. In the side panel that opens, click on "Add Principal"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 5. In the "New principals" search bar, select the Service Account configured in Whaly. And in the "Assign roles", select the "BigQuery Data Viewer" role.
 

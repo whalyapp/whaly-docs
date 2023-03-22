@@ -14,10 +14,9 @@ In order to use this integration you need:
 
 Go to your Account **Settings > Service Token** and create a new service token. Give this Service Token access to your desired project as well as the following roles:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+* Read Only
 
-* Metadata Only
-* Job Admin
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Once your service token is created, copy the key because you will not be able to access it again and save it for later.
@@ -38,7 +37,7 @@ Please reference the proper jobs at the project level:
 
 <figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-### Find your Account Id and Project Id&#x20;
+### Find your Account ID and Project ID&#x20;
 
 Open the job that you have configured at the previous step and extract the Account Id and Project Id from your URL.
 
@@ -50,16 +49,16 @@ https://cloud.getdbt.com/next/deploy/<Account Id>/projects/<Project Id>/jobs
 
 ## Configure Whaly
 
-Open Whaly and go to the [workbench](../). On the workbench please click on **View > Settings**. You should see a page like this:
+Open Whaly and go to the [Settings](../../../workspace/settings.md). On the settings please click on **Storage Admin > Models Sync**. You should see a page like this:
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Click on **Use dbt cloud for modeling**.&#x20;
+Click on **Activate dbt Cloud Sync** for modeling.&#x20;
 
-You will then be prompted to enter your Service Token key, your Account Id as well as your Project Id.
+You will then be prompted to enter your Service Token, your Account Id as well as your Project Id.
 
-Once this is done, open the execution panel and click on the plus sign at the top of the page to trigger a sync between Whaly and dbt cloud. Once the sync is done you will be able to view your models in the workbench.
+Once this is done, go into the Workbench and you'll see the dbt icon on the left bar.
 
-<figure><img src="../../../.gitbook/assets/execution.gif" alt=""><figcaption></figcaption></figure>
+Click on it to display the syncs panel. Click on a previous sync to checks its logs or click on the plus sign at the top of the page to trigger a sync between Whaly and dbt Cloud.
 
-Note that your models will be fetched  periodically and you can configure when they are fetch using the slider shown above.
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

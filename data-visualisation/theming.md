@@ -45,7 +45,7 @@ If a chart colours needs to be specific and not managed through a Palette collec
 
 In order to ease the use of an organisation custom palette, charts are assigned to the "**Default collection**" by default.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>A chart linked to the Default collection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>A chart linked to the Default collection</p></figcaption></figure>
 
 Inside the Palette collection management screen, it is possible to set any Palette collection as being the "Default" one.
 

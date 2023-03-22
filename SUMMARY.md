@@ -100,6 +100,17 @@
     * [Salesforce](sources/source-catalog/sales-crms/salesforce.md)
 * [💭 Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
 
+## Models
+
+* [Models sync](models/models-sync/README.md)
+  * [Where should my models be managed?](models/models-sync/where-should-my-models-be-managed.md)
+  * [dbt Cloud](models/models-sync/dbt-cloud/README.md)
+    * [Configuration](models/models-sync/dbt-cloud/configuration.md)
+    * [Exposing models into Whaly](models/models-sync/dbt-cloud/exposing-models-into-whaly.md)
+* [Persistence Engine](models/persistence-engine/README.md)
+  * [Configuration](models/persistence-engine/configuration.md)
+  * [Check Materialisation runs status](models/persistence-engine/check-materialisation-runs-status.md)
+
 ## Workbench <a href="#data-management" id="data-management"></a>
 
 * [🚀 Navigating the workbench](data-management/navigating-the-workbench.md)
@@ -125,14 +136,9 @@
         * [Formulas](data-management/workbench/model-data/flow-models/flow-steps/formulas.md)
         * [Group](data-management/workbench/model-data/flow-models/flow-steps/group.md)
         * [Union](data-management/workbench/model-data/flow-models/flow-steps/union.md)
-    * [Materialization (beta)](data-management/workbench/model-data/materialization-beta.md)
   * [Import raw data](data-management/workbench/import-raw-data/README.md)
     * [From your warehouse](data-management/workbench/import-raw-data/from-your-warehouse.md)
     * [From third party data](data-management/workbench/import-raw-data/from-third-party-data.md)
-  * [Integrating with dbt cloud](data-management/workbench/integrating-with-dbt-cloud/README.md)
-    * [Why using dbt and Whaly](data-management/workbench/integrating-with-dbt-cloud/why-using-dbt-and-whaly.md)
-    * [Configuration](data-management/workbench/integrating-with-dbt-cloud/configuration.md)
-    * [Understanding the integration](data-management/workbench/integrating-with-dbt-cloud/understanding-the-integration.md)
 * [🧭 Explorations](data-management/explorations/README.md)
   * [Configure an exploration](data-management/explorations/configure-an-exploration.md)
   * [Exploration Templates](data-management/explorations/exploration-templates.md)

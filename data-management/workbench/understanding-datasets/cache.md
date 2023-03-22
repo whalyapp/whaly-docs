@@ -1,6 +1,6 @@
 # Cache
 
-Any datasets managed in Whaly has several properties that manage its performance. You can materialize the datasets as table to make complex query run smoother [(read about materialization)](../model-data/materialization-beta.md#materialize-as-table) and you can also manage the way Whaly will update its cache when user query data on this particular dataset from the workbench. In order to better understand how cache is working on Whaly you can [read more here](../../../technical-deep-dive/caching.md#cache-implementation).
+Any datasets managed in Whaly has several properties that manage its performance. You can materialize the datasets as table to make complex query run smoother [(read about materialization)](../../../models/persistence-engine/#materialize-as-table) and you can also manage the way Whaly will update its cache when user query data on this particular dataset from the workbench. In order to better understand how cache is working on Whaly you can [read more here](../../../technical-deep-dive/caching.md#cache-implementation).
 
 ## Why do we use cache?
 
