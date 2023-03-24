@@ -26,4 +26,4 @@ From there, you'll see the Materialization section that will show you the curren
 
 By clicking on the "Materialize" button, you'll be able the update the configuration:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

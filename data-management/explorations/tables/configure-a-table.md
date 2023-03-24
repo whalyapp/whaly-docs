@@ -4,7 +4,7 @@
 
 In order to configure a table you can click on one. Tables can be in error, when they do so, they are marked in red and a cross mark appears next to the table name. When hovering on the cross mark you can then view the reason of the error and correct it.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Automatic measure creation
 

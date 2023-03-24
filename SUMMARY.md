@@ -15,7 +15,11 @@
 * [🔑 Manage Access to your organisation](organisation/manage-access-to-your-organisation.md)
 * [❓ Understanding Licences](organisation/understanding-licences.md)
 * [👮 Understanding User Roles](organisation/manage-access-control.md)
-* [👭 User Groups](organisation/user-groups.md)
+
+## User Management
+
+* [🏷 User Attributes](user-management/user-attributes.md)
+* [👭 User Groups](user-management/user-groups.md)
 
 ## Workspace
 

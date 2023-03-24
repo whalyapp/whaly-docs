@@ -55,7 +55,7 @@ Sometimes you'll want to share a folder with only select other members of your o
 
 To make it easier to share with commonly-used groups (i.e. your company's engineering team or sales team), you can create your own member groups and assign them permission to access reports as units.
 
-[Learn more about groups here →](../../organisation/user-groups.md)
+[Learn more about groups here →](../../user-management/user-groups.md)
 
 **Here are quick instructions for group sharing:**
 
