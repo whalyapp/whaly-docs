@@ -43,6 +43,7 @@
   * [Connect your BigQuery](warehouse/google-bigquery/connect-your-bigquery.md)
   * [Configure a Cloud Storage cleaning rule](warehouse/google-bigquery/configure-a-cloud-storage-cleaning-rule.md)
   * [Grant access to BigQuery datasets](warehouse/google-bigquery/grant-access-to-bigquery-datasets.md)
+  * [Enable multi project support](warehouse/google-bigquery/enable-multi-project-support.md)
 * [🐘 Postgres](warehouse/postgres/README.md)
   * [Connect your Postgres](warehouse/postgres/connect-your-postgres.md)
 * [❄ Snowflake](warehouse/snowflake/README.md)
