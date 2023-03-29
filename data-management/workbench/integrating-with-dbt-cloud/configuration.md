@@ -61,4 +61,4 @@ Once this is done, go into the Workbench and you'll see the dbt icon on the left
 
 Click on it to display the syncs panel. Click on a previous sync to checks its logs or click on the plus sign at the top of the page to trigger a sync between Whaly and dbt Cloud.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>

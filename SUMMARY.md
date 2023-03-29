@@ -220,6 +220,7 @@
     * [🌱 Install](embedding/embed-in-business-apps/google-chrome/install-preview-release.md)
     * [⚙ Configure the Chrome extension](embedding/embed-in-business-apps/google-chrome/configure-the-chrome-extension.md)
 * [👩💻 Embedding API](embedding/embedding-api.md)
+* [🪟 Partner Portal](embedding/partner-portal.md)
 
 ## Workflows
 

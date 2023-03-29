@@ -30,7 +30,7 @@ To define a user attribute, click the **Create new Attribute** button at the upp
 * **Allow only specific values**: Select this checkbox to pass the allowlist of authrorized values that can be given for this attribute to user.
 * **Set a default value**: Select this checkbox to set a default value in case a value is not assigned to a user.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 ### Assigning values to individual users <a href="#assigning_values_to_individual_users" id="assigning_values_to_individual_users"></a>
 
