@@ -2,7 +2,7 @@
 
 User attributes allow for personalized experiences for Whaly users. These attributes are defined by Whaly administrators and can be applied to individual users.
 
-User attributes can be referenced throughout Whaly to provide a custom experience for each user. Looker provides several default user attributes including:
+User attributes can be referenced throughout Whaly to provide a custom experience for each user. Whaly provides several default user attributes including:
 
 * ID
 * Email
