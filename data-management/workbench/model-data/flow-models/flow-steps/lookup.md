@@ -10,7 +10,7 @@ In order to use the lookup step, click on the **Add Column** button and then **L
 
 <figure><img src="../../../../../.gitbook/assets/Screen Cast 2022-09-08 at 6.13.43 PM (2).gif" alt=""><figcaption><p><strong>Add a lookup</strong></p></figcaption></figure>
 
-****
+
 
 ## How to configure it?
 

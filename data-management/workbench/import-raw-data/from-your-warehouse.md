@@ -12,7 +12,7 @@ It's a great way to:
 
 ## Import Table from your warehouse
 
-In some case you already have created some tables in your data warehouse that you would like to use in Whaly to create exploration on top of it. To do so you can import raw tables directly into Whaly.  Click on the + **** button next to **Source** in the **Data Selector** and select **from warehouse**. You'll be prompted to select a name and an icon for your **Source.** A best practice, is to name your source with the name of the schema that you are importing so your users to feel lost.
+In some case you already have created some tables in your data warehouse that you would like to use in Whaly to create exploration on top of it. To do so you can import raw tables directly into Whaly.  Click on the + button next to **Source** in the **Data Selector** and select **from warehouse**. You'll be prompted to select a name and an icon for your **Source.** A best practice, is to name your source with the name of the schema that you are importing so your users to feel lost.
 
 <figure><img src="../../../.gitbook/assets/Screen Cast 2022-09-08 at 11.41.10 AM.gif" alt=""><figcaption><p>Creating a source for import</p></figcaption></figure>
 

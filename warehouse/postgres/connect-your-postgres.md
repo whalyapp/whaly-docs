@@ -57,5 +57,5 @@ Navigate to the Whaly UI to set up Postgres as a destination. You can authentica
 
 ### Step 3: Secure the database connection
 
-Please make sure to properly [whitelist Whaly IPs](../../sources/whitelisting-whaly-ips.md).
+Please make sure to properly [whitelist Whaly IPs](../../connectors/whitelisting-whaly-ips.md).
 

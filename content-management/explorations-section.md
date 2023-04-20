@@ -5,10 +5,10 @@
 An exploration section helps you organize exploration in a comprehensive way that makes sense for your company. By default, your organization has two sections:
 
 * :star: **General**\
-  ****Where exploration that are live are stored, this is visible by any users who have access to explorations\
+  Where exploration that are live are stored, this is visible by any users who have access to explorations\
 
-* ****:tools: **Work in Progress**\
-  ****Where you can store exploration that are not live yet, only builders and more view exploration stored here
+* :tools: **Work in Progress**\
+  Where you can store exploration that are not live yet, only builders and more view exploration stored here
 
 ## Create a section
 

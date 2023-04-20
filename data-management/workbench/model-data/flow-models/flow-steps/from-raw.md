@@ -8,7 +8,7 @@ It allows you to use raw data that is either imported from your warehouse or tha
 
 You simply use it by dragging and dropping any imported **Datasets** (Third Party or Warehouse) in the **View Selector.**
 
-****
+
 
 <figure><img src="../../../../../.gitbook/assets/Screen Cast 2022-09-08 at 3.16.19 PM.gif" alt=""><figcaption><p>Import data</p></figcaption></figure>
 

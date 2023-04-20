@@ -33,7 +33,7 @@ You'll get 3 columns respectively named **id, test and toto.**
 **If the first row of the data contains an empty cell for a column, Whaly will infer that the column is a STRING.**
 {% endhint %}
 
-**An example of a spreadsheet structure that work is here:** [**https://docs.google.com/spreadsheets/d/10H-1y5JPq7nFNGKvV1cdOm8A9QJsuYwmk3-biPmzIrU/edit#gid=1639896517**](https://docs.google.com/spreadsheets/d/10H-1y5JPq7nFNGKvV1cdOm8A9QJsuYwmk3-biPmzIrU/edit#gid=1639896517)****
+**An example of a spreadsheet structure that work is here:** [**https://docs.google.com/spreadsheets/d/10H-1y5JPq7nFNGKvV1cdOm8A9QJsuYwmk3-biPmzIrU/edit#gid=1639896517**](https://docs.google.com/spreadsheets/d/10H-1y5JPq7nFNGKvV1cdOm8A9QJsuYwmk3-biPmzIrU/edit#gid=1639896517)
 
 {% embed url="https://docs.google.com/spreadsheets/d/10H-1y5JPq7nFNGKvV1cdOm8A9QJsuYwmk3-biPmzIrU/edit#gid=1639896517" %}
 **Gotta catch'em all!**

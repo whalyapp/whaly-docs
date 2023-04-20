@@ -32,8 +32,8 @@ Help you switch between folders, explorations and the workbench
 [workbench](../data-management/workbench/)
 {% endcontent-ref %}
 
-{% content-ref url="../sources/source-monitoring.md" %}
-[source-monitoring.md](../sources/source-monitoring.md)
+{% content-ref url="../connectors/source-monitoring.md" %}
+[source-monitoring.md](../connectors/source-monitoring.md)
 {% endcontent-ref %}
 
 ## **Content Viewer (3)**

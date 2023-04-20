@@ -7,15 +7,15 @@ You can modify a Flow query whenever you want to. In order to do so, click on yo
 In the flow editor there are 5 kind of actions that you can do:
 
 1. **Select a Step**\
-   ****By clicking on any blocks in the editor you can view it's output as well as the configuration of the step, this is useful for debugging and understanding the overall creation process.
+   By clicking on any blocks in the editor you can view it's output as well as the configuration of the step, this is useful for debugging and understanding the overall creation process.
 2. **Edit a Step**\
-   ****When clicking on a step you can edit it in the left panel, each steps has its own configuration and some might not have any customisation capabilities. Please refer to the [Flow Steps](flow-steps/) section to better understand what is available.
+   When clicking on a step you can edit it in the left panel, each steps has its own configuration and some might not have any customisation capabilities. Please refer to the [Flow Steps](flow-steps/) section to better understand what is available.
 3. **Add a Step**\
-   ****By clicking on any button in the action bar it will add a new step right after the selected one. If the selected one has already a next step the new step will be inserted in between the two existing steps.
+   By clicking on any button in the action bar it will add a new step right after the selected one. If the selected one has already a next step the new step will be inserted in between the two existing steps.
 4. **Set a Step as the Output**\
-   ****A flow must have an output. The output doesn't have to be the last step in the Flow it could be any steps allowing you to continue working on your flow while not breaking its schema.
+   A flow must have an output. The output doesn't have to be the last step in the Flow it could be any steps allowing you to continue working on your flow while not breaking its schema.
 5. **Save the Flow Query**\
-   ****Once you are done editing your Flow you can save it and the query will be updated right away.
+   Once you are done editing your Flow you can save it and the query will be updated right away.
 
 ### Understanding Steps
 

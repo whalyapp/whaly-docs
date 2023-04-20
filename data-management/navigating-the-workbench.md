@@ -29,9 +29,9 @@ This is where you will actually interact with your data.
 The dataset content view has three tabs
 
 * **Preview**\
-  ****Gives you a preview (first 3000 rows) of what is in your table
+  Gives you a preview (first 3000 rows) of what is in your table
 * **Configuration (only for models)**\
-  ****This is where you can edit your Flow or SQL query for the models managed by Whaly
+  This is where you can edit your Flow or SQL query for the models managed by Whaly
 * **Informations**\
-  ****This is where you can edit meta data for your dataset such as Primary keys, relationships, ...
+  This is where you can edit meta data for your dataset such as Primary keys, relationships, ...
 

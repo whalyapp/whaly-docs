@@ -15,8 +15,8 @@ When creating a metric you must select an operation and a column to perform the 
 | <h4>Count</h4>                          | Count the number of line in your dataset. For instance counting the number of line of contacts will be the same as counting the number of contacts                                                                                      |
 | <h4>Count Distinct</h4>                 | Allow you to select a specific field you want to get the number of distinct value from. For instance if you apply count distinct on the first name of the contact, you will get the number of different first name your contacts have.  |
 | <h4>Sum, Median, Average, Min, Max</h4> | Allow you to sum a column. Best applied to amounts or prices. For instance you can get your revenue by summing, averaging or getting the min or max of the amount of each deal in your pipeline.                                        |
-| **Cumulative Count**                    | Count function counts a number of items/records that satisfy the given criteria. **** The cumulative count function is the sum of all the counts generated so far.                                                                      |
-| **Cumulative Sum**                      | Sum function sums a specific field of items/records that satisfy the given criteria. **** The cumulative sum function is the sum of all the sums generated so far.                                                                      |
+| **Cumulative Count**                    | Count function counts a number of items/records that satisfy the given criteria. The cumulative count function is the sum of all the counts generated so far.                                                                           |
+| **Cumulative Sum**                      | Sum function sums a specific field of items/records that satisfy the given criteria. The cumulative sum function is the sum of all the sums generated so far.                                                                           |
 
 <figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Filter your metric</p></figcaption></figure>
 
