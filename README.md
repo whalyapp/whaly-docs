@@ -9,7 +9,7 @@ This documentation is geared towards data analysts so they are able to manage an
    ](warehouse/connect-your-warehouse.md)Whaly is directly connected to your Data Warehouse ([BigQuery](warehouse/google-bigquery/) / [Snowflake](warehouse/snowflake/)) so that your data stays in your control, from the ingestion to the consumption.\
 
 2. [**🔌 Connect business data using Sources**\
-   ](connectors/how-sources-work.md)Whaly connects directly to your key data sources (CRM, Marketing platform, ...) and continuously sync your data into your warehouse so you can create better experiences for your end users.\
+   ](sources/how-sources-work.md)Whaly connects directly to your key data sources (CRM, Marketing platform, ...) and continuously sync your data into your warehouse so you can create better experiences for your end users.\
 
 3. [**🛠 Model your data using the Workbench**](data-management/workbench/)\
    By giving you access to a no code data cleaning and enriching tool, it helps you shape your data to make great reporting.\

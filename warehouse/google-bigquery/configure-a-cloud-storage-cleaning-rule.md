@@ -4,18 +4,18 @@ In order to keep the amount of data stored in the bucket that you created for Wh
 
 1. In the Bucket configuration, open the "LIFECYCLE" panel and then, click on ADD A RULE"
 
-![](<../../../.gitbook/assets/Screenshot 2022-05-18 at 11.01.57.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-18 at 11.01.57.png>)
 
 2\. In the "Select an action" list, select "Delete object"
 
-![](<../../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.11 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.11 (1).png>)
 
 3\. In the "Select object conditions", select the "Age" parameter and set "15 days" and click on "CONTINUE"
 
-![](<../../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.33.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.33.png>)
 
 4\. Click on "CREATE"
 
-![](<../../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.51.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-18 at 11.02.51.png>)
 
 And you are all set 🤗
