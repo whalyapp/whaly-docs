@@ -56,6 +56,8 @@ You must give the service account (in the setup form) **Storage Admin** permissi
 
 ![](<../../../.gitbook/assets/Screenshot 2021-12-21 at 13.55.06.png>)
 
-3.
+3. In Whaly, go in your "Warehouse" page in the Settings and paste the `gsutil URI` value in the "GCS Bucket Name" field.
 
-That's it, your cloud console is all set for Whaly :tada:
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+That's it, your BigQuery setup is all set for being used with Whaly connectors :tada:

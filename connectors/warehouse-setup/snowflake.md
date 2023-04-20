@@ -80,34 +80,13 @@ grant USAGE
 commit;
 ```
 
-### Step 2: Set up Snowflake as a destination in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
+### Step 2: Set up Snowflake dataloading credentials in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
 
-Navigate to the Whaly UI to set up Snowflake as a destination. You can authenticate using username/password.
+Navigate to your Warehouse page in the Settings and configure the Dataloading credentials.
 
+| Field                   | Description                                                                                                 |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Dataloading \| User     | The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_DATALOADING_USER` |
+| Dataloading \| Password | The password associated with the dataloading user.                                                          |
 
-
-| Field                                                                                                       | Description                                                                                                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Account ID                                                                                                  | The Account ID as an URL. Ex. [`https://xxxxxxx-yyyyyyy.snowflakecomputing.com`](https://xxxxxxx-yyyyyyy.snowflakecomputing.com) . It can be found in Snowflake web UI in **Admin > Accounts** and then you cal click on the 🔗 icon next to the account name in the table. |
-| Dataloading \| User                                                                                         | The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_DATALOADING_USER`                                                                                                                                                                 |
-| Dataloading \| Password                                                                                     | The password associated with the dataloading user.                                                                                                                                                                                                                          |
-| Dataloading \| [Role](https://docs.snowflake.com/en/user-guide/security-access-control-overview.html#roles) | The role you created in Step 1 for Whaly to access Snowflake. Example: `WHALY_DATALOADING_ROLE`                                                                                                                                                                             |
-| Business Intelligence \| User                                                                               | The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_BI_USER`                                                                                                                                                                          |
-| Business Intelligence \| Password                                                                           | The password associated with the business intelligence user.                                                                                                                                                                                                                |
-| Business Intelligence \| Role                                                                               | The role you created in Step 1 for Whaly to access Snowflake. Example: `WHALY_BI_ROLE`                                                                                                                                                                                      |
-
-### How to get the Snowflake Account URL?
-
-#### If you have a standard setup
-
-1. Go on the bottom right part of you screen and open your Account Selector.
-2. On the tooltip, select the proper account and click on "Copy account URL"
-
-<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 at 12.34.17.png" alt=""><figcaption></figcaption></figure>
-
-#### If you have a multi cluster setup
-
-1. Go into the "**Admin > Account**" panel on the right side of the screen
-2. Next to your account name, click on the 🔗 icon which will copy the URL on your clipboard!
-
-![](<../../.gitbook/assets/Screenshot 2022-08-03 at 11.10.22.png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

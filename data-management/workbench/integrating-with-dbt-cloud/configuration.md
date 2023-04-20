@@ -51,7 +51,7 @@ https://cloud.getdbt.com/next/deploy/<Account Id>/projects/<Project Id>/jobs
 
 Open Whaly and go to the [Settings](../../../workspace/settings.md). On the settings please click on **Storage Admin > Models Sync**. You should see a page like this:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Click on **Activate dbt Cloud Sync** for modeling.&#x20;
 

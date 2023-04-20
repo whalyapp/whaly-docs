@@ -2,7 +2,7 @@
 
 In order to refresh your report, you can click on the refresh icon in the action bar of your report and then you are facing two options. Either refresh your report or clear all cache and then refresh your report.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Refresh
 

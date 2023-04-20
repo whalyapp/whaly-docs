@@ -26,7 +26,7 @@ At the bottom of the page, you can see the previews of how your Portal will look
 
 When the Portal is created, a dynamic [User Group](../user-management/user-groups.md) is automatically created. It'll contain all Portal Users. You can see its name in the Portal page.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 To give access to a Report Folder that you want to expose in the Portal, you simply have to grant access to the Folder using the [Sharing menu](../workspace/sharing-and-collaboration/).
 
