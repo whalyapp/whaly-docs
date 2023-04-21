@@ -22,7 +22,7 @@ You can use the following script in a new [Snowflake worksheet](https://docs.sno
 **Note:** Make sure you follow the [Snowflake identifier requirements](https://docs.snowflake.com/en/sql-reference/identifiers-syntax.html) while renaming the resources.
 {% endhint %}
 
-```
+```sql
 -- Set variables (these need to be uppercase)
 set whaly_bi_username = 'WHALY_BI_USER';
 set whaly_bi_password = 'you_should_change_me';
@@ -85,13 +85,17 @@ commit;
 
 Navigate to the Whaly UI to set up Snowflake as a destination. You can authenticate using username/password.
 
+#### Account ID
 
+The Account ID as an URL. Ex. [`https://xxxxxxx-yyyyyyy.snowflakecomputing.com`](https://xxxxxxx-yyyyyyy.snowflakecomputing.com) . It can be found in Snowflake web UI in **Admin > Accounts** and then you cal click on the 🔗 icon next to the account name in the table.
 
-| Field      | Description                                                                                                                                                                                                                                                                 |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Account ID | The Account ID as an URL. Ex. [`https://xxxxxxx-yyyyyyy.snowflakecomputing.com`](https://xxxxxxx-yyyyyyy.snowflakecomputing.com) . It can be found in Snowflake web UI in **Admin > Accounts** and then you cal click on the 🔗 icon next to the account name in the table. |
-|  User      | The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_BI_USER`                                                                                                                                                                          |
-| Password   | The password associated with the business intelligence user.                                                                                                                                                                                                                |
+#### User
+
+The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_BI_USER`
+
+#### Password
+
+The password associated with the business intelligence user.
 
 ### How to get the Snowflake Account URL?
 

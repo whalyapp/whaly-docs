@@ -21,7 +21,7 @@ To connect BigQuery to Whaly, you need the following:
 You need to grant Whaly access to your BigQuery cluster so we can create and manage tables for your data, and periodically load data into those tables.
 
 * Go to your Google Cloud Console's [projects list](https://console.cloud.google.com/cloud-resource-manager?pli=1).
-* :scissors:Find your **Project ID** and paste it into Whaly.
+* :scissors: Find your **Project ID** and paste it into Whaly.
 
 ![](<../../.gitbook/assets/image (228).png>)
 
@@ -47,4 +47,4 @@ In order to create the service account that will be used by Whaly to connect to 
 
 **C. Download the service account private key**
 
-:scissors:Then, [create a Private key (JSON) for your service account](https://cloud.google.com/iam/docs/creating-managing-service-account-keys). Open it with your favourite text editor and paste the whole file content into Whaly.
+:scissors: Then, [create a Private key (JSON) for your service account](https://cloud.google.com/iam/docs/creating-managing-service-account-keys). Open it with your favourite text editor and paste the whole file content into Whaly.

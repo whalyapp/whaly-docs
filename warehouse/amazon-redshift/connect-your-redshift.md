@@ -8,7 +8,7 @@ This page describes the step-by-step process of setting up the Redshift destinat
 
 To set up the Redshift destination connector, you first need to connect to your Redshift server to run some SQL queries.
 
-```
+```sql
 CREATE USER whaly_bi WITH ENCRYPTED PASSWORD 'some_password_here';
 GRANT CONNECT ON DATABASE database_name to whaly_bi;
 \c database_name
@@ -29,20 +29,20 @@ _(taken from the_ [_Redshift ALTER USER documentation_](http://docs.aws.amazon.c
 
 If you're using a schema other than `public`, run this command to grant usage permissions to Whaly:
 
-```
+```sql
 GRANT USAGE ON SCHEMA schema_name TO whaly_bi;
 ```
 
 To make sure that future tables you add to the public schema are also available to the `whaly_bi` user, run these commands:
 
-```
+```sql
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON tables TO whaly_bi;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT ON sequences TO whaly_bi;
 ```
 
 Depending on your setup, the preceding commands may need to be altered. If another user or role is creating tables that the `whaly_bi` user needs future permissions for, you must specify a _target_ role or user to apply the `whaly_bi` user's permission grants for:
 
-```
+```sql
 ALTER DEFAULT PRIVILEGES FOR USER <USER_WHO_CREATES_TABLES> IN SCHEMA public GRANT SELECT ON tables TO whaly_bi;
 ALTER DEFAULT PRIVILEGES FOR USER <USER_WHO_CREATES_TABLES> IN SCHEMA public GRANT SELECT ON sequences TO whaly_bi;
 -- or
@@ -56,15 +56,25 @@ See [`ALTER DEFAULT PRIVILEGES`](https://docs.aws.amazon.com/redshift/latest/dg/
 
 Navigate to the Whaly UI to set up Redshift as a destination. You can authenticate using username/password.
 
+#### Host
 
+The host IP or URL of your Redshift cluster.
 
-| Field    | Description                                                                           |
-| -------- | ------------------------------------------------------------------------------------- |
-| Host     | The host IP or URL of your Redshift cluster.                                          |
-| Port     | The Port to be used to connect to Redshift. Default is: `5439`                        |
-| Database | The name of the Redshift database to connect to on the server. Default is: `postgres` |
-| User     | The name of the user to use for Whaly BI. Default is: `whaly_bi`                      |
-| Password | The password of the user created for Whaly BI                                         |
+#### Port
+
+The Port to be used to connect to Redshift. Default is: `5439`
+
+#### Database
+
+The name of the Redshift database to connect to on the server. Default is: `postgres`
+
+#### User
+
+The name of the user to use for Whaly BI. Default is: `whaly_bi`
+
+#### Password
+
+The password of the user created for Whaly BI
 
 ### Step 3: Secure the database connection
 
