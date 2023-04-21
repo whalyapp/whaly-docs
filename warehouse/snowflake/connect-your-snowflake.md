@@ -8,7 +8,7 @@ This page describes the step-by-step process of setting up the Snowflake warehou
 
 * A Snowflake account with the [ACCOUNTADMIN](https://docs.snowflake.com/en/user-guide/security-access-control-considerations.html) role. If you don’t have an account with the `ACCOUNTADMIN` role, contact your Snowflake administrator to set one up for you.
 
-### Step 1: Set up Whaly-specific entities in Snowflake[​](https://docs.airbyte.com/integrations/destinations/snowflake/#step-1-set-up-airbyte-specific-entities-in-snowflake) <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
+## Step 1: Set up Whaly-specific entities in Snowflake[​](https://docs.airbyte.com/integrations/destinations/snowflake/#step-1-set-up-airbyte-specific-entities-in-snowflake) <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
 
 To set up the Snowflake warehouse connector, you first need to create Whaly-specific Snowflake entities (a warehouse, database, schema, user, and role) to read data into Snowflake, track costs pertaining to Whaly, and control permissions at a granular level.
 
@@ -81,7 +81,7 @@ grant USAGE, CREATE VIEW
 commit;
 ```
 
-### Step 2: Set up Snowflake as a Warehouse in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
+## Step 2: Set up Snowflake as a Warehouse in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
 
 Navigate to the Whaly UI to set up Snowflake as a destination. You can authenticate using username/password.
 
@@ -97,7 +97,7 @@ The username you created in Step 1 to allow Whaly to access the database. Exampl
 
 The password associated with the business intelligence user.
 
-### How to get the Snowflake Account URL?
+## How to get the Snowflake Account URL?
 
 #### If you have a standard Snowflake edition
 
