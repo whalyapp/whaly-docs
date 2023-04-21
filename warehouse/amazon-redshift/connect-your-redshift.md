@@ -4,7 +4,7 @@ Setting up the Redshift destination connector involves setting up Redshift entit
 
 This page describes the step-by-step process of setting up the Redshift destination connector.
 
-### Step 1: Create a Whaly read only user in Redshift[​](https://docs.airbyte.com/integrations/destinations/snowflake/#step-1-set-up-airbyte-specific-entities-in-snowflake) <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
+### Step 1: Create a Whaly read only user in Redshift​ <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
 
 To set up the Redshift destination connector, you first need to connect to your Redshift server to run some SQL queries.
 

@@ -8,7 +8,7 @@ This page describes the step-by-step process of setting up the Wahly->Snowflake 
 
 * A Snowflake account with the [ACCOUNTADMIN](https://docs.snowflake.com/en/user-guide/security-access-control-considerations.html) role. If you don’t have an account with the `ACCOUNTADMIN` role, contact your Snowflake administrator to set one up for you.
 
-### Step 1: Set up Whaly-specific entities in Snowflake[​](https://docs.airbyte.com/integrations/destinations/snowflake/#step-1-set-up-airbyte-specific-entities-in-snowflake) <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
+### Step 1: Set up Whaly-specific entities in Snowflake​ <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
 
 To set up the Snowflake destination connector, you first need to create Whaly-specific Snowflake entities (a warehouse, database, schema, user, and role) with the `OWNERSHIP` permission to write data into Snowflake, track costs pertaining to Whaly, and control permissions at a granular level.
 
@@ -22,7 +22,7 @@ You can use the following script in a new [Snowflake worksheet](https://docs.sno
 **Note:** Make sure you follow the [Snowflake identifier requirements](https://docs.snowflake.com/en/sql-reference/identifiers-syntax.html) while renaming the resources.
 {% endhint %}
 
-```
+```sql
 -- set variables (these need to be uppercase)
 set whaly_dataloading_username = 'WHALY_DATALOADING_USER';
 set whaly_dataloading_password = 'you_should_change_me';
@@ -77,7 +77,7 @@ grant USAGE
     on database identifier($whaly_dataloading_database)
     to role identifier($whaly_bi_role);
 
-commit;
+commitq
 ```
 
 ### Step 2: Set up Snowflake dataloading credentials in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>

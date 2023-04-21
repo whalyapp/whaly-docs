@@ -4,7 +4,7 @@ Setting up the Postgres destination connector involves setting up Postgres entit
 
 This page describes the step-by-step process of setting up the Postgres destination connector.
 
-### Step 1: Create a Whaly read only user in Postgres[​](https://docs.airbyte.com/integrations/destinations/snowflake/#step-1-set-up-airbyte-specific-entities-in-snowflake) <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
+### Step 1: Create a Whaly read only user in Postgres​ <a href="#step-1-set-up-airbyte-specific-entities-in-snowflake" id="step-1-set-up-airbyte-specific-entities-in-snowflake"></a>
 
 To set up the Postgres destination connector, you first need to connect to your Postgres server to run some SQL queries.
 
