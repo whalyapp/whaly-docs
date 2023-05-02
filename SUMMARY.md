@@ -211,7 +211,7 @@
     * [MongoDb](sources/source-catalog/database/mongodb.md)
     * [PostgreSQL / Postgres](sources/source-catalog/database/postgres/README.md)
       * [💡 Tip: Extracting the relationships](sources/source-catalog/database/postgres/tip-extracting-the-relationships.md)
-    * [MariaDB / MySQL](connectors/source-catalog/database/postgres-1.md)
+    * [MariaDB / MySQL](connectors/source-catalog/database/mariadb\_postgres.md)
   * [eCommerce](sources/source-catalog/ecommerce/README.md)
     * [WooCommerce](sources/source-catalog/ecommerce/woocommerce.md)
   * [Engineering](sources/source-catalog/engineering/README.md)
