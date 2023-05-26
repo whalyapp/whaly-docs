@@ -89,4 +89,4 @@ Navigate to your Warehouse page in the Settings and configure the Dataloading cr
 | Dataloading \| User     | The username you created in Step 1 to allow Whaly to access the database. Example: `WHALY_DATALOADING_USER` |
 | Dataloading \| Password | The password associated with the dataloading user.                                                          |
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

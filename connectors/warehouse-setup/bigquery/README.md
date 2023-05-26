@@ -58,6 +58,6 @@ You must give the service account (in the setup form) **Storage Admin** permissi
 
 3. In Whaly, go in your "Warehouse" page in the Settings and paste the `gsutil URI` value in the "GCS Bucket Name" field.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 That's it, your BigQuery setup is all set for being used with Whaly connectors :tada:

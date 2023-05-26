@@ -16,7 +16,7 @@ Go to your Account **Settings > Service Token** and create a new service token. 
 
 * Read Only
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Once your service token is created, copy the key because you will not be able to access it again and save it for later.
@@ -35,7 +35,7 @@ The mapping between the CLI options and the produced outputs is available in [db
 
 Please reference the proper jobs at the project level:
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Find your Account ID and Project ID&#x20;
 

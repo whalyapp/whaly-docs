@@ -87,11 +87,7 @@ In order to set and retrieve your filters API Name you can edit your filter and 
 
 You can encode several parameters in your JWT such as
 
-| Name             | Is Required | Value         | Description                                                         |
-| ---------------- | ----------- | ------------- | ------------------------------------------------------------------- |
-| filters          | true        | FilterPayload | You can control any filter values through this payload              |
-| expiration\_date | true        | Timestamp     | This value indicates when your token will stop be accepted          |
-| disable\_drills  | true        | Boolean       | This value helps you disable all drills by default on the dashboard |
+<table><thead><tr><th>Name</th><th>Is Required</th><th>Value</th><th width="187">Description</th></tr></thead><tbody><tr><td>filters</td><td>true</td><td>FilterPayload</td><td>You can control any filter values through this payload </td></tr><tr><td>expiration_date</td><td>true</td><td>Timestamp</td><td>This value indicates when your token will stop be accepted</td></tr><tr><td>disable_drills</td><td>true</td><td>Boolean</td><td>This value helps you disable all drills by default on the dashboard</td></tr></tbody></table>
 
 #### FilterPayload
 

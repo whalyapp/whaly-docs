@@ -20,6 +20,7 @@
 
 * [🏷 User Attributes](user-management/user-attributes.md)
 * [👭 User Groups](user-management/user-groups.md)
+* [🤖 Service Accounts](user-management/service-accounts.md)
 
 ## Workspace
 
