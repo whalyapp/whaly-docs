@@ -40,7 +40,7 @@ In the panel that appears, you can:
 
 Once it's done, you can click on "Submit" to create the Service Account.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When creating a new Service Account, a Key is automatically attached to it and you can copy paste the associated API Token that will be used to authenticate as this Service Account through the API.
 

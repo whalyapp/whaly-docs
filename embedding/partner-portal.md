@@ -40,7 +40,7 @@ Once you are in the Portal page, you can list the users that have access to the 
 
 By clicking on the **Invite Partner** button, you can enter the Partner information:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Role**: This will be the role that will define what the User will be able to do in the Portal. You can either create a "View only" experience by giving Report Viewer role to your Partners or build a more interactive experience by giving them the Editor role that will give them the ability to create their own dashboards.
 
