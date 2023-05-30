@@ -21,6 +21,6 @@ By default, Whaly will only have access to the Datasets created by Whaly connect
 
 6. Click on "Save"
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 And that's it! Whaly will now let users import tables from this BigQuery Dataset 🎉

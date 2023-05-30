@@ -63,3 +63,9 @@ Manage filters that should restrict the autocomplete values of this filter
 ### **Developer Settings**
 
 You can give an api name to your filter so you can control its value when using the report in [embedded](../../embedding/embedding-api.md#access-your-filters-api-name) mode.
+
+## Ordering filter
+
+It's possible to order a filter on a dashboard in edit mode by drag and dropping them&#x20;
+
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-05-30 at 12.43.09 PM.gif" alt=""><figcaption></figcaption></figure>
