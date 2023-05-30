@@ -58,7 +58,7 @@ Select wether a filter should update a specific chart, and on which dimension to
 
 Manage filters that should restrict the autocomplete values of this filter
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Example of a controlled filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-05-30 at 12.45.00 PM.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Developer Settings**
 
