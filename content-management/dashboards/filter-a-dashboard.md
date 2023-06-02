@@ -49,7 +49,7 @@ Render options will be different when the filter is based on a date dimension or
 * **Requires a value**: can be set when filter type is "single value"
 * **Defaults to**: can be set to predefined value to select a dimension or user attributes to select the value of a user attribute
 * **Default value**: the filter default value
-* Autocomplete limit: set the limit for the number of autocomplete values to fetch. Min is 0, max is 50'000, defaults to 5'000
+* **Autocomplete limit**: set the limit for the number of autocomplete values to fetch. Min is 0, max is 50'000, defaults to 5'000
 
 ### Tiles to update
 

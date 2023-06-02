@@ -56,7 +56,7 @@ create warehouse if not exists identifier($whaly_bi_warehouse);
 -- set the size based on your dataset
 warehouse_size = medium
 warehouse_type = standard
-auto_suspend = 1800
+auto_suspend = 120
 auto_resume = true
 initially_suspended = true;
 
