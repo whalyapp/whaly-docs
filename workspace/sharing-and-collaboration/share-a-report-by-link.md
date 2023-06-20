@@ -18,7 +18,7 @@ A single report can have multiple Sharing Link with different passwords and pre-
 
 To create a **Sharing Link**, click on "share" on the top right corner of a Report.
 
-![](<../../.gitbook/assets/image (170) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Cast 2023-06-20 at 9.19.02 AM.gif" alt=""><figcaption></figcaption></figure>
 
 On the panel that open, you can view all the already existing **Sharing Links**, edit them or get their link.
 
