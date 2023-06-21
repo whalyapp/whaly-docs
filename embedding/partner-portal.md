@@ -58,4 +58,6 @@ This will give you the ability to mass invite or mass edit existing Partners.
 
 #### API Partner management
 
-(Coming in April 2023)
+Please see:
+
+[https://developers.whaly.io/](https://developers.whaly.io/)
