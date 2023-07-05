@@ -51,8 +51,7 @@ grant role identifier($whaly_bi_role)
 use role sysadmin;
 
 -- create Whaly warehouse
-create warehouse if not exists identifier($whaly_bi_warehouse);
-
+create warehouse if not exists identifier($whaly_bi_warehouse)
 -- set the size based on your dataset
 warehouse_size = medium
 warehouse_type = standard
