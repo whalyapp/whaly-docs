@@ -77,7 +77,7 @@ grant USAGE
     on database identifier($whaly_dataloading_database)
     to role identifier($whaly_bi_role);
 
-commitq
+commit;
 ```
 
 ### Step 2: Set up Snowflake dataloading credentials in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
