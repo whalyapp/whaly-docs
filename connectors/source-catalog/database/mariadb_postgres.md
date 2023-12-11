@@ -10,7 +10,7 @@ Syncing your MariaDB / MySQL can be useful for various cases
 
 ## Requirements
 
-1. Allow connections from Whaly to your MariaDB / MySQL database by [whitelisting Whaly IPs](../../../warehouse/postgres/whitelisting-whaly-ips.md)
+1. Allow connections from Whaly to your MariaDB / MySQL database by [whitelisting Whaly IPs](../../whitelisting-whaly-connectors-ips.md)
 
 ## Configuring the source
 

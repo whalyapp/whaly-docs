@@ -1,4 +1,4 @@
-# Whitelisting Whaly connectors IPs
+# ☁ Whitelisting Whaly connectors IPs
 
 In order to let Whaly connect to your sources if they are have IP network protection (ex. Databases), you need to allow inbound connections from those IPs on your network configuration:
 
