@@ -78,4 +78,4 @@ The password of the user created for Whaly BI
 
 ### Step 3: Secure the database connection
 
-Please make sure to properly [whitelist Whaly IPs](../../sources/whitelisting-whaly-ips.md).
+Please make sure to properly [whitelist Whaly IPs](../postgres/whitelisting-whaly-ips.md).

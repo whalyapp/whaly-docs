@@ -1,6 +1,6 @@
-# 💭 Whitelisting Whaly IPs
+# Whitelisting Whaly IPs
 
-For some sources (Postgres, Salesforce, ...), you'll need to whitelist the IPs of Whaly so that we can connect to your database.
+In order to let Whaly connect to your Postgres warehouse, you need to whitelist the following IPs for inbound connections.
 
 Here is the full list of IPs to whitelist:
 

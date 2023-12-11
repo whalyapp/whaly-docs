@@ -11,7 +11,7 @@ Syncing your Postgres can be useful for various cases
 ## Requirements
 
 1. Postgres `v9.4.x` or above
-2. Allow connections from Whaly to your Postgres database by [whitelisting Whaly IPs](../../../whitelisting-whaly-ips.md)
+2. Allow connections from Whaly to your Postgres database by [whitelisting Whaly IPs](../../../../warehouse/postgres/whitelisting-whaly-ips.md)
 
 ## Configuring the source
 
