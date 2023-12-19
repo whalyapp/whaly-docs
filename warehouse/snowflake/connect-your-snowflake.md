@@ -57,7 +57,8 @@ warehouse_size = medium
 warehouse_type = standard
 auto_suspend = 120
 auto_resume = true
-initially_suspended = true;
+initially_suspended = true
+statement_timeout_in_seconds = 600;
 
 -- grant Whaly Warehouse access
 grant USAGE
