@@ -10,7 +10,7 @@ Creates a new column with the ouput of the formula.
 
 ## How to configure it?
 
-<figure><img src="../../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can type any formula in the Formula text area. Available area are shown below.
 

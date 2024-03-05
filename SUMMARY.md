@@ -4,8 +4,8 @@
 
 ## Team
 
-* [👨👩👧👦 What is a team?](team/what-is-a-team.md)
-* [🛡 Single Sign On](team/single-sign-on.md)
+* [👨‍👩‍👧‍👦 What is a team?](team/what-is-a-team.md)
+* [🛡️ Single Sign On](team/single-sign-on.md)
 * [🥷 Impersonate](team/impersonate.md)
 
 ## Organisation
@@ -18,23 +18,23 @@
 
 ## User Management
 
-* [🏷 User Attributes](user-management/user-attributes.md)
+* [🏷️ User Attributes](user-management/user-attributes.md)
 * [👭 User Groups](user-management/user-groups.md)
 * [🤖 Service Accounts](user-management/service-accounts.md)
 
 ## Workspace
 
-* [✏ Workspace](workspace/workspace.md)
+* [✏️ Workspace](workspace/workspace.md)
 * [📂 Report Folders](workspace/report-folders.md)
 * [✨ Sharing & Collaboration](workspace/sharing-and-collaboration/README.md)
   * [Share a report to the Web](workspace/sharing-and-collaboration/share-a-report-by-link.md)
 * [📗 Catalog](workspace/catalog.md)
-* [⚙ Settings](workspace/settings.md)
+* [⚙️ Settings](workspace/settings.md)
 
 ## Warehouse
 
 * [🏦 Connect your Warehouse](warehouse/connect-your-warehouse.md)
-* [⚔ Amazon Athena](warehouse/amazon-athena/README.md)
+* [⚔️ Amazon Athena](warehouse/amazon-athena/README.md)
   * [Connect your Athena](warehouse/amazon-athena/connect-your-athena.md)
 * [🏮 Amazon Redshift](warehouse/amazon-redshift/README.md)
   * [Connect your Redshift](warehouse/amazon-redshift/connect-your-redshift.md)
@@ -47,7 +47,7 @@
 * [🐘 Postgres](warehouse/postgres/README.md)
   * [Connect your Postgres](warehouse/postgres/connect-your-postgres.md)
   * [Whitelisting Whaly IPs](sources/whitelisting-whaly-ips.md)
-* [❄ Snowflake](warehouse/snowflake/README.md)
+* [❄️ Snowflake](warehouse/snowflake/README.md)
   * [Connect your Snowflake](warehouse/snowflake/connect-your-snowflake.md)
   * [Giving access to Snowflake data](warehouse/snowflake/giving-access-to-snowflake-data.md)
 
@@ -66,7 +66,7 @@
 ## Workbench <a href="#data-management" id="data-management"></a>
 
 * [🚀 Navigating the workbench](data-management/navigating-the-workbench.md)
-* [🛠 Modeling](data-management/workbench/README.md)
+* [🛠️ Modeling](data-management/workbench/README.md)
   * [Understanding Datasets](data-management/workbench/understanding-datasets/README.md)
     * [General Information](data-management/workbench/understanding-datasets/general-information.md)
     * [Drills](data-management/workbench/understanding-datasets/drills.md)
@@ -136,7 +136,7 @@
 ## Data visualisation
 
 * [🎨 Theming](data-visualisation/theming.md)
-* [🖌 Chart your data](data-visualisation/chart-your-data/README.md)
+* [🖌️ Chart your data](data-visualisation/chart-your-data/README.md)
   * [Bar chart](data-visualisation/chart-your-data/bar-chart.md)
   * [Calendar chart](data-visualisation/chart-your-data/calendar-chart.md)
   * [Funnel chart](data-visualisation/chart-your-data/funnel-chart.md)
@@ -155,7 +155,7 @@
 ## Content management
 
 * [⭐ Explorations Section](content-management/explorations-section.md)
-* [✂ Bulk Content Management](content-management/bulk-content-management.md)
+* [✂️ Bulk Content Management](content-management/bulk-content-management.md)
 
 ## Embedding
 
@@ -165,8 +165,8 @@
   * [Hubspot](embedding/embed-in-business-apps/hubspot.md)
   * [Google Chrome](embedding/embed-in-business-apps/google-chrome/README.md)
     * [🌱 Install](embedding/embed-in-business-apps/google-chrome/install-preview-release.md)
-    * [⚙ Configure the Chrome extension](embedding/embed-in-business-apps/google-chrome/configure-the-chrome-extension.md)
-* [👩💻 Embedding API](embedding/embedding-api.md)
+    * [⚙️ Configure the Chrome extension](embedding/embed-in-business-apps/google-chrome/configure-the-chrome-extension.md)
+* [👩‍💻 Embedding API](embedding/embedding-api.md)
 * [🪟 Partner Portal](embedding/partner-portal.md)
 
 ## Workflows
@@ -184,11 +184,12 @@
 
 ## Platform concepts
 
+* [✳️ Query Mode](platform-concepts/query-mode.md)
 * [💫 Caching](technical-deep-dive/caching.md)
 
 ## Guides
 
-* [⛑ Support](guides/support.md)
+* [⛑️ Support](guides/support.md)
 
 ## User
 
@@ -197,11 +198,11 @@
 ## Connectors
 
 * [🔌 Connect your Sources](sources/how-sources-work.md)
-* [⚙ Warehouse setup](connectors/warehouse-setup/README.md)
+* [⚙️ Warehouse setup](connectors/warehouse-setup/README.md)
   * [BigQuery](connectors/warehouse-setup/bigquery/README.md)
     * [Configure a Cloud Storage cleaning rule](warehouse/google-bigquery/configure-a-cloud-storage-cleaning-rule.md)
   * [Snowflake](connectors/warehouse-setup/snowflake.md)
-* [☁ Whitelisting Whaly connectors IPs](connectors/whitelisting-whaly-connectors-ips.md)
+* [☁️ Whitelisting Whaly connectors IPs](connectors/whitelisting-whaly-connectors-ips.md)
 * [🏄 Schema drift](sources/schema-drift.md)
 * [🔁 Replication method](sources/replication-method.md)
 * [🧙 Source monitoring](sources/source-monitoring.md)

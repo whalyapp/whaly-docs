@@ -27,7 +27,7 @@ The use of service accounts offers several advantages:
 
 In order to create a Service Account, you have to go to the Service Account panel in the Settings of your organization.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 From this screen, you can see the already existing Service Accounts and create new ones to authenticate a new Integration. You have to click on the "Create Service Account" button to do that.
 
