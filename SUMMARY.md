@@ -147,6 +147,7 @@
   * [Line chart](data-visualisation/chart-your-data/line-chart.md)
   * [Metric chart](data-visualisation/chart-your-data/metric-chart.md)
   * [Pie chart](data-visualisation/chart-your-data/pie-chart.md)
+  * [Retention chart](data-visualisation/chart-your-data/retention-chart.md)
   * [Table chart](data-visualisation/chart-your-data/table-chart.md)
   * [Treemap chart](data-visualisation/chart-your-data/treemap-chart.md)
   * [Waterfall chart](data-visualisation/chart-your-data/waterfall-chart.md)
