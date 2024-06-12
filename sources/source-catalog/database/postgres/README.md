@@ -22,6 +22,7 @@ The Postgres connector will need the following information:
 * **User**: This should be the username of a read only Postgres user. [You'll find instruction below to create it](./#configuring-a-database-read-only-user)
 * **Password**: The password associated with the user
 * **Database name**: The name of the database to be synced. In a Postgres server, there can be multiple databases, depending on your setup. If you want to replicate multiple databases, you'll have to create one connector per database.
+* **Schema name**: The name of the schema to be synced. In a Postgres database, there can be multiple schema, depending on your setup. If you want to replicate multiple schemas, you'll have to create one connector per schema. Default: `public`
 
 ## Configuring a database read only user
 
