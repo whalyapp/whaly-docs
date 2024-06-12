@@ -204,6 +204,7 @@
     * [Configure a Cloud Storage cleaning rule](warehouse/google-bigquery/configure-a-cloud-storage-cleaning-rule.md)
   * [Snowflake](connectors/warehouse-setup/snowflake.md)
 * [☁️ Whitelisting Whaly connectors IPs](connectors/whitelisting-whaly-connectors-ips.md)
+* [🔐 SSH Tunneling](connectors/ssh-tunneling.md)
 * [🏄 Schema drift](sources/schema-drift.md)
 * [🔁 Replication method](sources/replication-method.md)
 * [🧙 Source monitoring](sources/source-monitoring.md)
