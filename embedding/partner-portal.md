@@ -26,7 +26,7 @@ At the bottom of the page, you can see the previews of how your Portal will look
 
 When the Portal is created, a dynamic [User Group](../user-management/user-groups.md) is automatically created. It'll contain all Portal Users. You can see its name in the Portal page.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 To give access to a Report Folder that you want to expose in the Portal, you simply have to grant access to the Folder using the [Sharing menu](../workspace/sharing-and-collaboration/).
 
@@ -40,7 +40,7 @@ Once you are in the Portal page, you can list the users that have access to the 
 
 By clicking on the **Invite Partner** button, you can enter the Partner information:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Role**: This will be the role that will define what the User will be able to do in the Portal. You can either create a "View only" experience by giving Report Viewer role to your Partners or build a more interactive experience by giving them the Editor role that will give them the ability to create their own dashboards.
 
@@ -52,7 +52,7 @@ By clicking on the **Invite Partner** button, you can enter the Partner informat
 
 As your number of Partners can grow quickly, you can also open the "Bulk update users" tool that will give you the ability to upload a CSV with all Partner information.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 This will give you the ability to mass invite or mass edit existing Partners.
 

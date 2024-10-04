@@ -105,6 +105,7 @@
   * [Dimensions](data-management/explorations/add-dimensions.md)
     * [Create a dimension](data-management/explorations/dimensions/create-a-dimension.md)
   * [Check measure usage](data-management/explorations/check-measure-usage.md)
+  * [Row Level Access](data-management/explorations/row-level-access.md)
 
 ## Data consumption
 

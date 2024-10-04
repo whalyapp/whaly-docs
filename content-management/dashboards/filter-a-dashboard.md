@@ -25,7 +25,7 @@ In the modal that opens, set your filter settings:&#x20;
 
 Filters can be customised in a lot of ways in order to make your dashboard more interactive
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>In edit mode, filters settings are displayed when selecting a filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>In edit mode, filters settings are displayed when selecting a filter</p></figcaption></figure>
 
 ### Filter settings
 

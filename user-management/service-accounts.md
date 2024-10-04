@@ -27,7 +27,7 @@ The use of service accounts offers several advantages:
 
 In order to create a Service Account, you have to go to the Service Account panel in the Settings of your organization.
 
-<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 From this screen, you can see the already existing Service Accounts and create new ones to authenticate a new Integration. You have to click on the "Create Service Account" button to do that.
 
@@ -40,7 +40,7 @@ In the panel that appears, you can:
 
 Once it's done, you can click on "Submit" to create the Service Account.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 When creating a new Service Account, a Key is automatically attached to it and you can copy paste the associated API Token that will be used to authenticate as this Service Account through the API.
 
@@ -56,7 +56,7 @@ Each Service Account can hold many Keys. Those Keys are attached to a API Token 
 
 In order to manage Keys, you can click on the "..." icon on a Service Account row and click on "Manage Keys".
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 From this screen, you can list the already existing keys, view an obfuscated value of their API Token and either remove existing Keys or create new ones.
 

@@ -32,7 +32,7 @@ In order to connect to your Databricks Workspace, Whaly will need a SQL Warehous
 
 * Once in a Warehouse, click on "Connection details" tab and copy the JDBC URL
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Creation of a Personal Token
 

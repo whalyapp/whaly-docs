@@ -57,7 +57,7 @@ Both Query Mode are providing a different set of advantages and drawbacks and sh
 
 The configuration of the Query Mode is done directly on the Exploration settings page inside the Workbench. When going in the "_Information_" panel, you can see the current mode used for queries made against this Exploration and change it if needed.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Serving Layer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption><p>Serving Layer</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Direct Query</p></figcaption></figure>
 
