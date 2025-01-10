@@ -21,7 +21,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA public TO whaly_bi;
 ```
 
 **Password Constraints**\
-_(taken from the_ [_Redshift ALTER USER documentation_](http://docs.aws.amazon.com/redshift/latest/dg/r\_ALTER\_USER.html)_)_
+&#xNAN;_(taken from the_ [_Redshift ALTER USER documentation_](http://docs.aws.amazon.com/redshift/latest/dg/r_ALTER_USER.html)_)_
 
 * 8 to 64 characters in length.
 * Must contain at least one uppercase letter, one lowercase letter, and one number.
@@ -50,7 +50,7 @@ ALTER DEFAULT PRIVILEGES FOR ROLE <ROLE_THAT_CREATES_TABLES> IN SCHEMA public GR
 ALTER DEFAULT PRIVILEGES FOR ROLE <ROLE_THAT_CREATES_TABLES> IN SCHEMA public GRANT SELECT ON sequences TO whaly_bi;
 ```
 
-See [`ALTER DEFAULT PRIVILEGES`](https://docs.aws.amazon.com/redshift/latest/dg/r\_ALTER\_DEFAULT\_PRIVILEGES.html) on Redshift's website for more information.
+See [`ALTER DEFAULT PRIVILEGES`](https://docs.aws.amazon.com/redshift/latest/dg/r_ALTER_DEFAULT_PRIVILEGES.html) on Redshift's website for more information.
 
 ### Step 2: Set up Redshift as a destination in Whaly <a href="#step-3-set-up-snowflake-as-a-destination-in-airbyte" id="step-3-set-up-snowflake-as-a-destination-in-airbyte"></a>
 

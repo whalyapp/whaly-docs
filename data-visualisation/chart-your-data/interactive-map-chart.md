@@ -6,7 +6,7 @@ An interactive map is a chart that displays a metric based on a geographical dim
 
 ### Chart usage
 
-The dimension used should be a geographical dimension**.**
+The dimension used should be a geographical dimensio&#x6E;**.**
 
 ### **Chart characteristics**
 

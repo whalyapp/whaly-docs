@@ -12,6 +12,13 @@ Syncing your MariaDB / MySQL can be useful for various cases
 
 1. Allow connections from Whaly to your MariaDB / MySQL database by [whitelisting Whaly IPs](../../whitelisting-whaly-connectors-ips.md)
 
+## Support
+
+| Table type | Supported            |
+| ---------- | -------------------- |
+| TABLE      | :white\_check\_mark: |
+| VIEW       | :red\_circle:        |
+
 ## Configuring the source
 
 The MariaDB / MySQL connector will need the following information:
