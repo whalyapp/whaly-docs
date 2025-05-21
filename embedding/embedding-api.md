@@ -5,7 +5,7 @@ description: >-
   having admin access to Whaly.
 ---
 
-# 👩💻 Embedding API
+# 👩‍💻 Embedding API
 
 ## Setting up your report for embedding
 
@@ -56,7 +56,8 @@ const orgSlug = "<MY_ORG_SLUG>";
 const payload = {
     filters: { 
         myFilter: 1 
-    }, 
+    }, // Optional
+    userEmail: "joe@lucky.com", // Email of the user doing the request
     expiration_date: Date.now() + 24 * 60 * 60 * 1000 // valid for 24h
 };
 
@@ -121,7 +122,7 @@ For string filters you can pass on string or an array of string
 For dates, you can either pass an array of 2 dates or a more complex object to describe your operation.&#x20;
 
 {% hint style="warning" %}
-Carefull dates must be passed as per the [ISO8601](https://en.wikipedia.org/wiki/ISO\_8601) standard.
+Carefull dates must be passed as per the [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) standard.
 {% endhint %}
 
 Passing dates as an array
