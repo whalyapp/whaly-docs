@@ -159,6 +159,10 @@
 * [⭐ Explorations Section](content-management/explorations-section.md)
 * [✂️ Bulk Content Management](content-management/bulk-content-management.md)
 
+## Objects
+
+* [Document templates](objects/document-templates.md)
+
 ## Embedding
 
 * [📌 Embed in Business apps](embedding/embed-in-business-apps/README.md)
